@@ -1,0 +1,47 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,开发者网站,url,权限,名称,start,end
+帝国弓箭手,"简介成为弓箭大师！
+射中所有靶子，不浪费一支箭矢，从而累积星星和赢取金币。购买新装备，通过最具挑战性的关卡。
+
+静止或以复杂移动机制进行组合的南瓜、靶架、护盾和练习假人将需要把握精确的时机和准度，并提供独一无二的多样性，给每个关卡带来不一样的游戏体验。
+
+简单直观的控制、精美的3D图形和逼真的弓箭机制让你沉浸在中世纪的氛围中，抓住机会展示你的真正本领。
+
+特色：
+• 流畅逼真的射箭机制 - 箭矢沿着逼真的弧线快速飞出
+• 优美而别具格调的环境
+• 丰富的射箭装备
+• 上手简单，但精通较难
+• 可通过高级选项微调你的射箭体验成为弓箭大师！
+射中所有靶子，不浪费一支箭矢，从而累积星星和赢取金币。购买新装备，通过最具挑战性的关卡。
+
+静止或以复杂移动机制进行组合的南瓜、靶架、护盾和练习假人将需要把握精确的时机和准度，并提供独一无二的多样性，给每个关卡带来不一样的游戏体验。
+
+简单直观的控制、精美的3D图形和逼真的弓箭机制让你沉浸在中世纪的氛围中，抓住机会展示你的真正本领。
+
+特色：
+• 流畅逼真的射箭机制 - 箭矢沿着逼真的弧线快速飞出
+• 优美而别具格调的环境
+• 丰富的射箭装备
+• 上手简单，但精通较难
+• 可通过高级选项微调你的射箭体验",支持退款申请：PICO退款政策,分类：游戏,"标签：射击, 运动, 模拟",游戏形式：单人,"语言：英语, 法语, 德语, 西班牙语, 意大利语, 简体中文, 日语, 韩语","使用范围：原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO 4 Pro",版本：1.0.2,更新日期：2023-4-13,大小：238.8 MB,开发者：Kilogrames,发行商：Kilogrames,开发者隐私政策：隐私政策,开发者网站：https://www.kilogrames.com/,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://kilogrames.com/arrowheadVR_PICO/privacy.html at 2023.07.24 03:13:05&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",权限：存储空间,帝国弓箭手,2023-07-24 03:10:54,2023-07-24 03:13:27

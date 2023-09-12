@@ -1,0 +1,49 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,开发者服务条款,开发者网站,url,名称,start,end
+一锤进洞,"简介在这个游戏中，你会得到一把锤子和一个沉重的球，比赛只有一个目标：把球投进洞里。
+
+[控制方法]
+用任何方法把球推入洞中，即使您不熟悉VR游戏，您也可以通过摆动锤子来享受【一锤进洞】！
+有时候，球并不像你想要的那样滚动，控制击球力度和设定球的方向将极大地帮助你达到目标。
+
+[简单可爱的地图]
+游戏地图由可爱的立方块组成，简单而充满活力的色彩，让人不会厌倦，重复体验!
+
+[难度提升]
+一旦你完成了每个阶段，你将经历更困难的阶段，甚至更多的障碍。
+从平地，到上坡，下坡，木板，跳坡或熔岩，有时这些地形是有利的，但它们也会给你带来麻烦；
+不同材质的立方块会有不同的阻力，把握好特点，挥动锤子滚动球以获得最佳结果！
+无论是用力击球还是轻轻击球，是否使用特殊的方块或物体，你都是这个游戏的探路者！在这个游戏中，你会得到一把锤子和一个沉重的球，比赛只有一个目标：把球投进洞里。
+
+[控制方法]
+用任何方法把球推入洞中，即使您不熟悉VR游戏，您也可以通过摆动锤子来享受【一锤进洞】！
+有时候，球并不像你想要的那样滚动，控制击球力度和设定球的方向将极大地帮助你达到目标。
+
+[简单可爱的地图]
+游戏地图由可爱的立方块组成，简单而充满活力的色彩，让人不会厌倦，重复体验!
+
+[难度提升]
+一旦你完成了每个阶段，你将经历更困难的阶段，甚至更多的障碍。
+从平地，到上坡，下坡，木板，跳坡或熔岩，有时这些地形是有利的，但它们也会给你带来麻烦；
+不同材质的立方块会有不同的阻力，把握好特点，挥动锤子滚动球以获得最佳结果！
+无论是用力击球还是轻轻击球，是否使用特殊的方块或物体，你都是这个游戏的探路者！",支持退款申请：PICO退款政策,分类：游戏,"标签：解谜, 休闲",游戏形式：单人,"语言：英语, 韩语, 简体中文, 日语","使用范围：原地站立, 原地坐姿, 房间移动",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO Neo3 Eye, PICO Neo3 Pro, PICO 4 Pro",版本：1.009,更新日期：2023-3-30,大小：357.3 MB,开发者：Pixelity Gamelab,发行商：Pixelity Games,开发者隐私政策：隐私政策,开发者服务条款：服务条款,开发者网站：https://pixelitygames.com/,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://pixelitygames.com/privacy-policy/ at 2023.07.24 06:30:11&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",一锤进洞,2023-07-24 06:28:09,2023-07-24 06:31:10

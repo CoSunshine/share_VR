@@ -1,0 +1,37 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,开发者网站,名称,start,end
+Mixture:炼金士与骑士,"简介《Mixture:炼金士与骑士》是一款奇幻动作冒险游戏，讲述两位仇敌被迫合作，一起穿过荒凉的世界，寻找救赎的故事。在本游戏中，你要在第一人称和第三人称视角下交替操控两名主角，分别是炼金士Sephairos和钢铁飞蛾骑士Sola。你扮演着一对看起来奇怪的组合，需要登上平台、调合材料、施放法术、近身战斗、解开谜题、战胜巨大的首领敌人，在这段动人心弦的故事中生存下来！
+主要特色：
+创新融合 - 动作冒险玩法加上两名主角的独特技能
+双重视角体验- 操控两名角色：炼金士Sephairos和钢铁飞蛾骑士Sola
+探索废土 - 穿梭于精雕细琢的荒凉世界，应对活体化的金属、矿石和水晶带来的危险 
+为光明而战  - 在寻找救赎的旅途中战胜强大的首领敌人
+引人入胜的探索体验 - 四种各不相同的生物群系和超过30个关卡
+适配VR一体机的动作冒险游戏 - 混合第三人称视角和固定视角移动，为您探索废土提供稳定的舒适体验。《Mixture:炼金士与骑士》是一款奇幻动作冒险游戏，讲述两位仇敌被迫合作，一起穿过荒凉的世界，寻找救赎的故事。在本游戏中，你要在第一人称和第三人称视角下交替操控两名主角，分别是炼金士Sephairos和钢铁飞蛾骑士Sola。你扮演着一对看起来奇怪的组合，需要登上平台、调合材料、施放法术、近身战斗、解开谜题、战胜巨大的首领敌人，在这段动人心弦的故事中生存下来！
+主要特色：
+创新融合 - 动作冒险玩法加上两名主角的独特技能
+双重视角体验- 操控两名角色：炼金士Sephairos和钢铁飞蛾骑士Sola
+探索废土 - 穿梭于精雕细琢的荒凉世界，应对活体化的金属、矿石和水晶带来的危险 
+为光明而战  - 在寻找救赎的旅途中战胜强大的首领敌人
+引人入胜的探索体验 - 四种各不相同的生物群系和超过30个关卡
+适配VR一体机的动作冒险游戏 - 混合第三人称视角和固定视角移动，为您探索废土提供稳定的舒适体验。",支持退款申请：PICO退款政策,分类：游戏,"标签：动作, 冒险",游戏形式：单人,"语言：英语, 简体中文, 德语, 日语, 韩语, 法语, 西班牙语, 意大利语","使用范围：原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4 Pro, PICO 4, PICO Neo3",版本：1.0.271,更新日期：2023-6-8,大小：2.2 G,开发者：Played With Fire,发行商：Played With Fire,开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://www.playedwithfire.com/mixture-privacypolicy-cn/ at 2023.07.24 05:41:42&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者网站：https://www.playedwithfire.com,Mixture:炼金士与骑士,2023-07-24 05:39:55,2023-07-24 05:42:45

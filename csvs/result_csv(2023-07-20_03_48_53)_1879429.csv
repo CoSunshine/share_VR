@@ -1,0 +1,45 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,url,开发者隐私政策,开发者网站,名称,start,end
+大力水冲,"简介大力水冲是一款VR清洁模拟游戏。如果你遇到任何压力、焦虑、紧张和担心，那你一定要试试大力水冲了!你只需要拿起你的高压水枪，直接开工。你的目标很直接，把所有的污渍统统冲掉。
+游戏模式：
+- 职业模式： 作为一个专业人士，我们的城市需要你的说明来保持干净和整齐。通过完成每个阶段的任务来获取奖励，来升级你的工具，成为城市的救星。
+- 自由模式： 自由随意的放松。使用不同的喷嘴在污渍表面上任意挥洒，净化你的心灵。
+
+游戏特点：
+- 15个不同的关卡等待你的挑战
+- 三种类型的喷嘴
+- 凉爽与放松
+
+享受游戏，冲掉所有的压力!!!
+欢迎添加官方微信（fountaingame001），进入玩家群来获取最新信息。大力水冲是一款VR清洁模拟游戏。如果你遇到任何压力、焦虑、紧张和担心，那你一定要试试大力水冲了!你只需要拿起你的高压水枪，直接开工。你的目标很直接，把所有的污渍统统冲掉。
+游戏模式：
+- 职业模式： 作为一个专业人士，我们的城市需要你的说明来保持干净和整齐。通过完成每个阶段的任务来获取奖励，来升级你的工具，成为城市的救星。
+- 自由模式： 自由随意的放松。使用不同的喷嘴在污渍表面上任意挥洒，净化你的心灵。
+
+游戏特点：
+- 15个不同的关卡等待你的挑战
+- 三种类型的喷嘴
+- 凉爽与放松
+
+享受游戏，冲掉所有的压力!!!
+欢迎添加官方微信（fountaingame001），进入玩家群来获取最新信息。",支持退款申请：PICO退款政策,分类：游戏,"标签：模拟, 放松, 休闲",游戏形式：单人,"语言：英语, 简体中文","使用范围：房间移动, 原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3",版本：1.1.0.7,更新日期：2023-7-4,大小：1.6 G,开发者：引力工作室,发行商：方天互娱,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""http://meetingres.meta.fangte.com/pressureWasher.html at 2023.07.20 03:47:24&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者隐私政策：隐私政策,开发者网站：https://www.fountainmeta.com,大力水冲,2023-07-20 03:44:08,2023-07-20 03:48:53

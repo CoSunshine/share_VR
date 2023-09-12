@@ -1,0 +1,51 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,开发者服务条款,开发者网站,权限,名称,start,end
+毒蛇行动,"简介如果你想体验劲爆刺激的街机风格射击游戏，那就来玩这款游戏吧！
+
+在《瑟彭斯行动》中，你将加入一支为摧毁邪恶力量“毒蛇组织”而组建的精英小队。
+每个游戏等级都有风格略异的全新挑战。
+展现精湛枪法，干掉敌人，躲避子弹，全部消灭！
+
+特色
+紧张刺激的动作游戏，营造炫酷街机感。
+挑战，没有什么不可能。
+各式枪支、手榴弹、闪光弹和神秘武器。
+一枪爆头、超强后坐、徒手攀爬、防爆盾牌。
+单人战役故事。
+僵尸生存部落模式（附带排行榜）。
+妙趣横生的大场面战斗射击游戏。
+对新 VR 用户友好的沉浸式 VR 体验。如果你想体验劲爆刺激的街机风格射击游戏，那就来玩这款游戏吧！
+
+在《瑟彭斯行动》中，你将加入一支为摧毁邪恶力量“毒蛇组织”而组建的精英小队。
+每个游戏等级都有风格略异的全新挑战。
+展现精湛枪法，干掉敌人，躲避子弹，全部消灭！
+
+特色
+紧张刺激的动作游戏，营造炫酷街机感。
+挑战，没有什么不可能。
+各式枪支、手榴弹、闪光弹和神秘武器。
+一枪爆头、超强后坐、徒手攀爬、防爆盾牌。
+单人战役故事。
+僵尸生存部落模式（附带排行榜）。
+妙趣横生的大场面战斗射击游戏。
+对新 VR 用户友好的沉浸式 VR 体验。",支持退款申请：PICO退款政策,分类：游戏,"标签：射击, 动作, 卡通",游戏形式：单人,"语言：简体中文, 英语, 日语, 韩语","使用范围：房间移动, 原地站立, 原地坐姿","控制方式：头控, 6-DOF 手柄","支持平台：PICO Neo3 Pro, PICO Neo3 Eye, PICO Neo3, PICO 4, PICO 4 Pro",版本：2.1,更新日期：2021-11-4,大小：570.5 MB,开发者：GINRA TECH,发行商：GINRA TECH,开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://thegrook.com/operation-serpens/privacy-policy/ at 2023.07.20 05:46:12&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者服务条款：服务条款,开发者网站：https://thegrook.com/operation-serpens/,"权限：存储空间, 麦克风",毒蛇行动,2023-07-20 05:43:43,2023-07-20 05:47:02

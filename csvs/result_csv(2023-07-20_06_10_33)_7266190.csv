@@ -1,0 +1,37 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,开发者隐私政策,权限,url,名称,start,end
+废土时速,"简介《废土时速》（DeathLap）是一款以废土末日为背景的VR多人赛车游戏。玩家需要在残酷的赛道上竭尽全力去生存，操作炫酷的武器摧毁敌人，清扫前往胜利的道路。勇士，快快冲上赛道，展现过人的漂移特技；探索狡诈的陷阱；释放自己赛车的全部火力和特殊技能；享受残酷废土赛道所带来的疯狂和混乱。
+废土末日风格的战斗赛车游戏，将使玩家在命悬一线之间快乐嚎叫。玩家将在丧心病狂的硝基圣徒——佩恩，主持的死亡真人秀里，与其他对手舍命竞赛，赢得属于自己的自由。
+游戏特性：
+-多样的赛车：玩家可以自由选择属于自己的赛车，每辆赛车搭配各种致命的武器，选择你的风格征战赛道。
+-独特的赛道：学会利用风格迥异赛道上不同的陷阱和障碍。熟悉赛道，选择隐秘的捷径全速冲刺，获得优势。
+-漂移大师的福音：漂移将是你在赛道上的终极武器，展示你对推进器和一氧化氮的极致运作，问鼎最终的生存者。
+-全视角竞速体验：玩家能够在第一人称和第三人称之间任意切换，全方位观察赛场，赢得决胜时刻。
+-多人在线竞速：玩家可以选择孤军奋斗或邀请好友共同出战，在多人赛场上展示自己的强大和速度。《废土时速》（DeathLap）是一款以废土末日为背景的VR多人赛车游戏。玩家需要在残酷的赛道上竭尽全力去生存，操作炫酷的武器摧毁敌人，清扫前往胜利的道路。勇士，快快冲上赛道，展现过人的漂移特技；探索狡诈的陷阱；释放自己赛车的全部火力和特殊技能；享受残酷废土赛道所带来的疯狂和混乱。
+废土末日风格的战斗赛车游戏，将使玩家在命悬一线之间快乐嚎叫。玩家将在丧心病狂的硝基圣徒——佩恩，主持的死亡真人秀里，与其他对手舍命竞赛，赢得属于自己的自由。
+游戏特性：
+-多样的赛车：玩家可以自由选择属于自己的赛车，每辆赛车搭配各种致命的武器，选择你的风格征战赛道。
+-独特的赛道：学会利用风格迥异赛道上不同的陷阱和障碍。熟悉赛道，选择隐秘的捷径全速冲刺，获得优势。
+-漂移大师的福音：漂移将是你在赛道上的终极武器，展示你对推进器和一氧化氮的极致运作，问鼎最终的生存者。
+-全视角竞速体验：玩家能够在第一人称和第三人称之间任意切换，全方位观察赛场，赢得决胜时刻。
+-多人在线竞速：玩家可以选择孤军奋斗或邀请好友共同出战，在多人赛场上展示自己的强大和速度。",支持退款申请：PICO退款政策,分类：游戏,"标签：射击, 竞速","游戏形式：多人, 单人","语言：简体中文, 英语, 日语, 西班牙语, 法语, 韩语","使用范围：原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO Neo3 Pro, PICO Neo3 Eye, PICO Neo3, PICO 4, PICO 4 Pro",版本：6.67,更新日期：2022-5-13,大小：1.6 G,开发者隐私政策：隐私政策,开发者隐私政策：隐私政策,权限：存储空间,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://www.ozwe.com/privacy-policy/ at 2023.07.20 06:10:04&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",废土时速,2023-07-20 06:06:25,2023-07-20 06:10:33

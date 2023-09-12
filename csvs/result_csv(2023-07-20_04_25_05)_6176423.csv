@@ -1,0 +1,34 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,开发者网站,权限,名称,start,end
+漫步闲游：迷你高尔夫,"简介快来设计精美的球场上完成高尔夫挑战，收集独特的高尔夫球，与你的好友共同完成挑战并解锁奖励级别。极其逼真的物理效果创造了完美的迷你高尔夫体验!
+
+#游戏共有8个独特的18洞关卡需要你来完成！
+#解锁夜间模式，以获得关卡的更多挑战！
+#你可以举行一场单人游戏,也可以和好友1V1在线快速比赛,也可以创建一个最多5人的私人房间，与其他好友一较高下！
+#游戏极其精确的物理引擎将你带入现实当中，体验真实的高尔夫赛事！
+#收集超过100个隐藏在关卡中的定制高尔夫球，还可以在困难难度的关卡上解决寻宝问题，获得特殊高尔夫球杆！快来设计精美的球场上完成高尔夫挑战，收集独特的高尔夫球，与你的好友共同完成挑战并解锁奖励级别。极其逼真的物理效果创造了完美的迷你高尔夫体验!
+
+#游戏共有8个独特的18洞关卡需要你来完成！
+#解锁夜间模式，以获得关卡的更多挑战！
+#你可以举行一场单人游戏,也可以和好友1V1在线快速比赛,也可以创建一个最多5人的私人房间，与其他好友一较高下！
+#游戏极其精确的物理引擎将你带入现实当中，体验真实的高尔夫赛事！
+#收集超过100个隐藏在关卡中的定制高尔夫球，还可以在困难难度的关卡上解决寻宝问题，获得特殊高尔夫球杆！",支持退款申请：PICO退款政策,分类：游戏,"标签：运动, 社交","游戏形式：多人, 单人","语言：简体中文, 英语, 日语, 德语, 西班牙语, 法语, 韩语","使用范围：房间移动, 原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO Neo3 Pro, PICO Neo3 Eye, PICO Neo3, PICO 4, PICO 4 Pro",版本：3.4,更新日期：2023-2-6,大小：1.2 G,开发者：Mighty Coconut,发行商：Mighty Coconut,开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""FakeBrowser"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[48,85][286,139]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""https://www.mightycoconut.com/privacypolicy at 2023.07.20 04:24:26&#10;"" resource-id=""com.android.example.cameraxapp:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,937][1200,1160]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+</hierarchy>",开发者网站：https://www.mightycoconut.com/minigolf,"权限：存储空间, 麦克风",漫步闲游：迷你高尔夫,2023-07-20 04:21:54,2023-07-20 04:25:05

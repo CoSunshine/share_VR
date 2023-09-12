@@ -1,0 +1,57 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,url,开发者隐私政策,开发者服务条款,开发者网站,名称,start,end
+铁甲护卫,"简介这一年是公元2232年，“Avalon”号坠毁在Akris星球上，同时船员们与试图调查人工智能机器人Terraformer的无人驾驶飞船失去联系。幸运的是，Akris是一个宜居星球，你是Graves副驾驶，你有责任保护所有资源和幸存者免受失控的Terraformer机器人攻击。 使用工程无人机，架设防御炮塔，建造各种建筑并收集资源。你和你的船员需要不惜一切代价生存下去，以找出导致Terraformers失控并没有完成地球改造的原因。 IRON GUARD是一款本着经典即时战略游戏精神制作的科幻塔防游戏。幸存人员的生命掌握在你手中。找出Terraformer机器人叛乱的原因，并帮助大家从一个未知的星球上撤离，为了生存而战！
+
+特点:
+• 360度身临其境的游戏体验。
+
+• 不同的游戏模式和游戏风格。
+
+• 丰富的可升级炮塔、路障、采矿机等。
+
+• 任务之间设备升级不冲突。
+
+• 操作单位武器以街机风格进行射击。
+
+• 通过过场动画和对话展现独特的故事情节。
+
+• 令人惊叹的配音和背景音乐，以呈现出RTS 游戏的真实风格。
+
+• 美丽而独具特色的环境，带有未知星球的神秘气氛，展示了随着战斗接踵而至的各种生物群落。这一年是公元2232年，“Avalon”号坠毁在Akris星球上，同时船员们与试图调查人工智能机器人Terraformer的无人驾驶飞船失去联系。幸运的是，Akris是一个宜居星球，你是Graves副驾驶，你有责任保护所有资源和幸存者免受失控的Terraformer机器人攻击。 使用工程无人机，架设防御炮塔，建造各种建筑并收集资源。你和你的船员需要不惜一切代价生存下去，以找出导致Terraformers失控并没有完成地球改造的原因。 IRON GUARD是一款本着经典即时战略游戏精神制作的科幻塔防游戏。幸存人员的生命掌握在你手中。找出Terraformer机器人叛乱的原因，并帮助大家从一个未知的星球上撤离，为了生存而战！
+
+特点:
+• 360度身临其境的游戏体验。
+
+• 不同的游戏模式和游戏风格。
+
+• 丰富的可升级炮塔、路障、采矿机等。
+
+• 任务之间设备升级不冲突。
+
+• 操作单位武器以街机风格进行射击。
+
+• 通过过场动画和对话展现独特的故事情节。
+
+• 令人惊叹的配音和背景音乐，以呈现出RTS 游戏的真实风格。
+
+• 美丽而独具特色的环境，带有未知星球的神秘气氛，展示了随着战斗接踵而至的各种生物群落。",支持退款申请：PICO退款政策,分类：游戏,"标签：策略, 动作, 射击",游戏形式：单人,"语言：英语, 简体中文, 德语, 俄语, 西班牙语","使用范围：房间移动, 原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO 4 Pro",版本：v1.12,更新日期：2023-3-23,大小：771.1 MB,开发者：Xlab Digital,发行商：Andromeda Entertainment,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://xlabdigital.com/privacy-policy/ at 2023.07.24 03:53:27&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者隐私政策：隐私政策,开发者服务条款：服务条款,开发者网站：https://xlabdigital.com/,铁甲护卫,2023-07-24 03:50:32,2023-07-24 03:54:29

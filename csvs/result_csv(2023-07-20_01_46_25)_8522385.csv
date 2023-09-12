@@ -1,0 +1,69 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,开发者服务条款,url,开发者网站,权限,名称,start,end
+OhShape 完整版,"简介OhShape是一款基于节奏的超棒游戏，让你通过全身动作感受无限乐趣。闪避障碍物、拳击墙壁，摆出有趣的姿势穿越每个地图。
+
+Description:  OhShape 终极版!
+重磅回归，全新升级！带来惊艳的全新视觉效果、更多精彩内容和全新环境！以下是新增的特色功能：
+
+• 全新超酷菜单界面，选择你最喜爱的歌曲
+• 现代风格的界面大幅改进
+• 第三专辑增加了亚洲风情环境
+• 教程关卡为新手提供更流畅的体验
+• 我们准备了小小的惊喜，新增两首歌曲，并且现在所有用户都可以免费获取“电子派对”DLC！
+
+OhShape 是一款以节奏为基础的游戏，让你以惊人的方式动起整个身体。闪避障碍物、拳击墙壁，摆出有趣的姿势穿越每个地图。收集硬币，成为自己的舞台之星！
+
+在享受游戏的同时，你会忘记自己在运动，只会渴望更多的挑战。享受这种感觉，挥洒汗水！
+
+不仅如此哦，全新版本OhShape 适合全家一起狂欢。拥有四个难度级别和丰富的游戏设置，你可以根据自己的技能定制游戏体验，并通过不断练习取得长足进步。
+
+主要特点：
+
+• 全身锻炼的有趣体验
+• 四个专辑，每个专辑有四个难度级别
+• 派对模式：与朋友和家人一起玩耍和比赛
+• 练习模式：针对关卡的不同部分进行练习，达到完美境界！
+• 在线排行榜新鲜出炉啦！快来酷炫打榜吧！OhShape是一款基于节奏的超棒游戏，让你通过全身动作感受无限乐趣。闪避障碍物、拳击墙壁，摆出有趣的姿势穿越每个地图。
+
+Description:  OhShape 终极版!
+重磅回归，全新升级！带来惊艳的全新视觉效果、更多精彩内容和全新环境！以下是新增的特色功能：
+
+• 全新超酷菜单界面，选择你最喜爱的歌曲
+• 现代风格的界面大幅改进
+• 第三专辑增加了亚洲风情环境
+• 教程关卡为新手提供更流畅的体验
+• 我们准备了小小的惊喜，新增两首歌曲，并且现在所有用户都可以免费获取“电子派对”DLC！
+
+OhShape 是一款以节奏为基础的游戏，让你以惊人的方式动起整个身体。闪避障碍物、拳击墙壁，摆出有趣的姿势穿越每个地图。收集硬币，成为自己的舞台之星！
+
+在享受游戏的同时，你会忘记自己在运动，只会渴望更多的挑战。享受这种感觉，挥洒汗水！
+
+不仅如此哦，全新版本OhShape 适合全家一起狂欢。拥有四个难度级别和丰富的游戏设置，你可以根据自己的技能定制游戏体验，并通过不断练习取得长足进步。
+
+主要特点：
+
+• 全身锻炼的有趣体验
+• 四个专辑，每个专辑有四个难度级别
+• 派对模式：与朋友和家人一起玩耍和比赛
+• 练习模式：针对关卡的不同部分进行练习，达到完美境界！
+• 在线排行榜新鲜出炉啦！快来酷炫打榜吧！",支持退款申请：PICO退款政策,分类：游戏,"标签：音乐, 运动, 休闲",游戏形式：单人,"语言：简体中文, 英语, 日语, 德语, 西班牙语, 法语, 韩语",使用范围：房间移动,控制方式：6-DOF 手柄,"支持平台：PICO Neo2, PICO 4, PICO 4 Pro, PICO Neo2 Wigig, PICO Neo2 Eye, PICO Neo2 Lite, PICO Neo3 Pro, PICO Neo3 Eye, PICO Neo3",版本：2.1.5.000,更新日期：2023-7-12,大小：549.9 MB,开发者：Odders Lab,发行商：Odders Lab,开发者隐私政策：隐私政策,开发者服务条款：服务条款,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://ohshapevr.com/privacy-policy-simplified-chinese/ at 2023.07.20 01:46:01&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者网站：https://ohshapevr.com/,"权限：存储空间, 麦克风",OhShape 完整版,2023-07-20 01:41:51,2023-07-20 01:46:25

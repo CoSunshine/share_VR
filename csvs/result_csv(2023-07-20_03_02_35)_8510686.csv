@@ -1,0 +1,36 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,名称,start,end
+SimplePlanes VR,"简介SimplePlanes VR是一个具有沉浸式驾驶舱和虚拟控制的飞行模拟器。驾驶民用或军用飞机、直升机、汽车、船只和更多的东西!
+
+● 具有完全沉浸式驾驶舱的飞船有虚拟控制，你可以伸出虚拟的手去抓。
+用空对空导弹与敌机交战，如 ""守护者 ""是一种高机动性的短程导弹，或用远程拦截导弹开火并忘掉。
+用广泛的空对地武器库攻击地面威胁，用鱼雷击沉船只。
+多个岛屿和机场有待探索。
+几个赛车场和其他挑战。
+SimplePlanes VR是一个具有沉浸式驾驶舱和虚拟控制的飞行模拟器。驾驶民用或军用飞机、直升机、汽车、船只和更多的东西!
+
+● 具有完全沉浸式驾驶舱的飞船有虚拟控制，你可以伸出虚拟的手去抓。
+用空对空导弹与敌机交战，如 ""守护者 ""是一种高机动性的短程导弹，或用远程拦截导弹开火并忘掉。
+用广泛的空对地武器库攻击地面威胁，用鱼雷击沉船只。
+多个岛屿和机场有待探索。
+几个赛车场和其他挑战。
+",支持退款申请：PICO退款政策,分类：游戏,"标签：模拟, 动作, 竞速",游戏形式：单人,语言：英语,使用范围：原地坐姿,"控制方式：头控, 6-DOF 手柄","支持平台：PICO 4 Pro, PICO 4, PICO Neo3",版本：1.12.147,更新日期：2023-7-6,大小：164.9 MB,"开发者：Jundroo, LLC","发行商：Jundroo, LLC",开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""FakeBrowser"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[48,85][286,139]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""https://jundroo.com/privacypolicychinese.html at 2023.07.20 03:00:19&#10;"" resource-id=""com.android.example.cameraxapp:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,937][1200,1160]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+</hierarchy>",SimplePlanes VR,2023-07-20 02:57:49,2023-07-20 03:02:35

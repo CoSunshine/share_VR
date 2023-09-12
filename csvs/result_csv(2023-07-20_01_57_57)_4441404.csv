@@ -1,0 +1,33 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,开发者服务条款,开发者网站,名称,start,end
+Moss,"简介尊敬的 PICO 用户：
+感谢您一直以来对《MOSS》的支持和关注，改价公示完成，《MOSS》在2023年4月26日将价格调整为59.9元。
+再次感谢您的支持和理解，我们会一如既往地努力，不断改进和优化游戏体验，为广大玩家带来更好的游戏体验。
+Moss 1是一款单人动作冒险益智游戏，美国游戏工作室Polyarc为VR平台量身定制的新IP。
+结合了成功游戏的经典元素，具有引人入胜的角色，扣人心弦的战斗以及迷人的世界探索，通过VR技术得到完美融合。
+在Moss世界，玩家遇到小老鼠Quill，一只有着伟大梦想的老鼠。在探索树林的过程中，她发现了一处神秘的玻璃遗迹，古老的魔法被唤醒。她的叔叔身陷险境，Quill必须踏上冒险征程 ，她需要你陪伴左右。你将前往被遗忘的领域，解开惊世难题，迎战邪恶敌人。单打独斗，没人可以征服你们面临的一切。携手并进，你们可以战胜最可怕的敌人。尊敬的 PICO 用户：
+感谢您一直以来对《MOSS》的支持和关注，改价公示完成，《MOSS》在2023年4月26日将价格调整为59.9元。
+再次感谢您的支持和理解，我们会一如既往地努力，不断改进和优化游戏体验，为广大玩家带来更好的游戏体验。
+Moss 1是一款单人动作冒险益智游戏，美国游戏工作室Polyarc为VR平台量身定制的新IP。
+结合了成功游戏的经典元素，具有引人入胜的角色，扣人心弦的战斗以及迷人的世界探索，通过VR技术得到完美融合。
+在Moss世界，玩家遇到小老鼠Quill，一只有着伟大梦想的老鼠。在探索树林的过程中，她发现了一处神秘的玻璃遗迹，古老的魔法被唤醒。她的叔叔身陷险境，Quill必须踏上冒险征程 ，她需要你陪伴左右。你将前往被遗忘的领域，解开惊世难题，迎战邪恶敌人。单打独斗，没人可以征服你们面临的一切。携手并进，你们可以战胜最可怕的敌人。",支持退款申请：PICO退款政策,分类：游戏,"标签：动作, 冒险, 解谜",游戏形式：单人,"语言：英语, 简体中文, 繁体中文, 德语, 日语, 法语, 韩语, 西班牙语, 意大利语","使用范围：原地坐姿, 原地站立","控制方式：6-DOF 手柄, 头控","支持平台：PICO 4, PICO Neo3, PICO Neo3 Eye, PICO Neo3 Pro, PICO 4 Pro",版本：1.0.3.107450,更新日期：2023-3-8,大小：2.5 G,开发者：Polyarc,发行商：Polyarc,开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://www.polyarcgames.com/cn/privacy at 2023.07.20 01:57:45&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者服务条款：服务条款,开发者网站：https://www.polyarcgames.com/,Moss,2023-07-20 01:51:48,2023-07-20 01:57:57

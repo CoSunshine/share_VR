@@ -1,0 +1,47 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,开发者服务条款,url,开发者网站,权限,名称,start,end
+快乐厨房,"简介把你的围裙系上，因为事情要变得一团糟了!
+
+走进厨房，在<快乐厨房>中做一些令人兴奋的事情，疯狂的食物制作狂潮会让你和你的朋友开怀大笑！
+
+●一群饥饿的童话生物需要喂养
+●捣蛋鬼决心在厨房制造混乱
+●多达4名玩家的多人合作游戏
+●与虚拟队友的单人游戏
+●战役，无尽的和创造性的模式去探索
+
+你的厨房工作人员能确保每顿饭都是快速、新鲜、准确地按要求上菜吗?
+
+在<快乐厨房>中享受食物的乐趣:来自Resolution Games的一个美味地招待朋友的有趣游戏。把你的围裙系上，因为事情要变得一团糟了!
+
+走进厨房，在<快乐厨房>中做一些令人兴奋的事情，疯狂的食物制作狂潮会让你和你的朋友开怀大笑！
+
+●一群饥饿的童话生物需要喂养
+●捣蛋鬼决心在厨房制造混乱
+●多达4名玩家的多人合作游戏
+●与虚拟队友的单人游戏
+●战役，无尽的和创造性的模式去探索
+
+你的厨房工作人员能确保每顿饭都是快速、新鲜、准确地按要求上菜吗?
+
+在<快乐厨房>中享受食物的乐趣:来自Resolution Games的一个美味地招待朋友的有趣游戏。",支持退款申请：PICO退款政策,分类：游戏,"标签：社交, 休闲","游戏形式：多人, 单人",语言：英语,"使用范围：原地坐姿, 房间移动, 原地站立",控制方式：6-DOF 手柄,"支持平台：PICO 4 Pro, PICO 4, PICO Neo3, PICO Neo3 Pro",版本：1.14.220850,更新日期：2023-7-17,大小：468.6 MB,开发者：Resolution Games,发行商：Resolution Games,开发者隐私政策：隐私政策,开发者服务条款：服务条款,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://www.resolutiongames.com/privacy-policy-china at 2023.07.20 02:18:05&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者网站：https://www.resolutiongames.com/cookout,"权限：存储空间, 麦克风",快乐厨房,2023-07-20 02:15:42,2023-07-20 02:18:27

@@ -1,0 +1,36 @@
+name,简介,不支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,url,发行商,开发者隐私政策,开发者网站,名称,start,end
+Final Soccer,"简介在这款专为VR设计的足球模拟游戏《Final Soccer》中经历精彩绝伦的刺激体验。欣赏极其逼真的画面和捕捉自职业运动员的动作，沉浸在本游戏内。
+-	模拟模式：服务于纯粹的足球爱好者！100%逼真画面和捕捉自职业运动员的动作。
+您可以选择快速游戏或者挑战150个关卡，对阵全世界的顶级球队！
+
+-	街机模式：超级狂欢！接球、投球，激活各式各样有趣的强化道具，比如慢动作、巨型手套等等。
+和模拟模式一样，您可以选择快速游戏或者勇闯150个各不相同的关卡。
+
+注意：在巧妙的运动辅助系统的帮助下，您可以在仅有2米宽的室内游玩《Final Soccer》。但是，为了确保更加舒适的游戏体验，我们推荐您选择3米的房间。在畅享《Final Soccer》等沉浸式游戏的同时，请您务必当心现实世界的限制，规避风险。在这款专为VR设计的足球模拟游戏《Final Soccer》中经历精彩绝伦的刺激体验。欣赏极其逼真的画面和捕捉自职业运动员的动作，沉浸在本游戏内。
+-	模拟模式：服务于纯粹的足球爱好者！100%逼真画面和捕捉自职业运动员的动作。
+您可以选择快速游戏或者挑战150个关卡，对阵全世界的顶级球队！
+
+-	街机模式：超级狂欢！接球、投球，激活各式各样有趣的强化道具，比如慢动作、巨型手套等等。
+和模拟模式一样，您可以选择快速游戏或者勇闯150个各不相同的关卡。
+
+注意：在巧妙的运动辅助系统的帮助下，您可以在仅有2米宽的室内游玩《Final Soccer》。但是，为了确保更加舒适的游戏体验，我们推荐您选择3米的房间。在畅享《Final Soccer》等沉浸式游戏的同时，请您务必当心现实世界的限制，规避风险。",不支持退款申请：PICO退款政策,分类：游戏,"标签：运动, 模拟, 休闲","游戏形式：单人, 多人","语言：英语, 简体中文, 德语, 日语, 法语, 韩语, 葡萄牙语, 西班牙语, 意大利语",使用范围：房间移动,控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO Neo3 Pro, PICO 4 Pro",版本：1.21,更新日期：2023-4-20,大小：203.5 MB,开发者：Ivanovich Games,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""FakeBrowser"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[48,85][286,139]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""https://www.ivanovichgames.com/privacyCH.html at 2023.07.20 03:30:25&#10;"" resource-id=""com.android.example.cameraxapp:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,937][1200,1160]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+</hierarchy>",发行商：Ivanovich Games,开发者隐私政策：隐私政策,开发者网站：https://www.ivanovichgames.com,Final Soccer,2023-07-20 03:26:45,2023-07-20 03:34:42

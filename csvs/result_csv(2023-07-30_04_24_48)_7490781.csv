@@ -1,0 +1,35 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,开发者服务条款,开发者网站,名称,start,end
+红色物质2,"简介作为一款独一无二的沉浸式益智冒险游戏，《红色物质2》将带您开启一段扣人心弦的旅程，前往遥远的太空，探索反乌托邦冷战背景下的世界。您将扮演在月球基地被卧底唤醒的特工萨沙，任务是揭开神秘的红色物质之密。
+
+在探索途中，您将见证让人叹为观止的沃格瓦勒基地，体验令人毛骨悚然的氛围，面对令人费解的谜题、快节奏战斗、平台等多种游戏机制，尽情感受生死边缘的刺激。借助于黑客工具和飞行背包，您可以自由翱翔，畅通无阻，随意探索游戏世界。
+
+解决环境、物理和逻辑方面的谜题，入侵终端以获得关键情报，揭开这一无比真实的世界的秘密。不过千万要时刻警惕，因为战斗总在最不经意的时刻爆发，为了隐藏即将暴露的秘密，沃格瓦勒可是费尽心机。
+
+为了追寻萨沙旧友留下的线索，您将探索这一完全互动的世界，获得真实的虚拟现实沉浸感，开启一段充满情感的旅程。对于寻求惊险刺激以及难忘体验的玩家而言，《红色物质2》不仅是 VR 冒险游戏的典范，更是一款必玩之作。作为一款独一无二的沉浸式益智冒险游戏，《红色物质2》将带您开启一段扣人心弦的旅程，前往遥远的太空，探索反乌托邦冷战背景下的世界。您将扮演在月球基地被卧底唤醒的特工萨沙，任务是揭开神秘的红色物质之密。
+
+在探索途中，您将见证让人叹为观止的沃格瓦勒基地，体验令人毛骨悚然的氛围，面对令人费解的谜题、快节奏战斗、平台等多种游戏机制，尽情感受生死边缘的刺激。借助于黑客工具和飞行背包，您可以自由翱翔，畅通无阻，随意探索游戏世界。
+
+解决环境、物理和逻辑方面的谜题，入侵终端以获得关键情报，揭开这一无比真实的世界的秘密。不过千万要时刻警惕，因为战斗总在最不经意的时刻爆发，为了隐藏即将暴露的秘密，沃格瓦勒可是费尽心机。
+
+为了追寻萨沙旧友留下的线索，您将探索这一完全互动的世界，获得真实的虚拟现实沉浸感，开启一段充满情感的旅程。对于寻求惊险刺激以及难忘体验的玩家而言，《红色物质2》不仅是 VR 冒险游戏的典范，更是一款必玩之作。",支持退款申请：PICO退款政策,分类：游戏,"标签：冒险, 解谜, 科幻",游戏形式：单人,"语言：英语, 简体中文, 德语, 日语, 法语, 韩语, 葡萄牙语, 西班牙语, 意大利语","使用范围：房间移动, 原地站立, 原地坐姿","控制方式：6-DOF 手柄, 头控","支持平台：PICO 4, PICO Neo3, PICO Neo3 Eye, PICO Neo3 Pro, PICO 4 Pro",版本：1.0.011,更新日期：2023-4-17,大小：5.2 G,开发者：Vertical Robot,发行商：Vertical Robot,开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""http://verticalrobot.com/privacy/ at 2023.07.30 04:23:22&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[30,969][1171,1083]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者服务条款：服务条款,开发者网站：http://www.verticalrobot.com,红色物质2,2023-07-30 04:19:23,2023-07-30 04:24:48

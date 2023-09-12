@@ -1,0 +1,43 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,开发者服务条款,url,开发者网站,权限,名称,start,end
+Color Connect,"简介色彩连连看-在超过70个具有挑战性的谜题中迷失自我，让你的大脑经受考验-坐下来，解谜，放松！
+
+*坐* -零重力和自适应控制为您带来谜题。忙碌了一天过后，在沙发上坐下放松，或者直接投入到360度解谜体验中。
+
+*解* -你会被70多个精心构建的关卡困扰数小时。逻辑上连接所有的彩色节点，争取满星过关。
+
+*放松* -在您自己的平台上，周围环绕着卫星和星星，令人惊艳的视觉效果与我们精心挑选的配乐相结合，将您带到另一个星球。
+
+*为了获得最佳音频体验，我们建议使用耳机*
+
+*玩法* -连接彩色节点，战略性地选择你的路径，尽可能少的移动。路径不能重叠，每个节点都必须用来成功完成解谜。学起来很简单，但想要精通却很有挑战性！色彩连连看-在超过70个具有挑战性的谜题中迷失自我，让你的大脑经受考验-坐下来，解谜，放松！
+
+*坐* -零重力和自适应控制为您带来谜题。忙碌了一天过后，在沙发上坐下放松，或者直接投入到360度解谜体验中。
+
+*解* -你会被70多个精心构建的关卡困扰数小时。逻辑上连接所有的彩色节点，争取满星过关。
+
+*放松* -在您自己的平台上，周围环绕着卫星和星星，令人惊艳的视觉效果与我们精心挑选的配乐相结合，将您带到另一个星球。
+
+*为了获得最佳音频体验，我们建议使用耳机*
+
+*玩法* -连接彩色节点，战略性地选择你的路径，尽可能少的移动。路径不能重叠，每个节点都必须用来成功完成解谜。学起来很简单，但想要精通却很有挑战性！",支持退款申请：PICO退款政策,分类：游戏,"标签：解谜, 休闲, 放松",游戏形式：单人,"语言：英语, 简体中文, 日语, 西班牙语, 法语, 德语, 俄语, 韩语","使用范围：原地站立, 原地坐姿, 房间移动",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO 4 Pro",版本：2.0.40,更新日期：2023-4-13,大小：755.0 MB,开发者：Sandford Tech,发行商：Sandford Tech,开发者隐私政策：隐私政策,开发者服务条款：服务条款,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://sandfordtech.com/privacy-policy-1 at 2023.07.24 05:13:41&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者网站：https://sandfordtech.com/color-connect,权限：麦克风,Color Connect,2023-07-24 05:12:17,2023-07-24 05:14:08

@@ -1,0 +1,61 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,开发者网站,名称,start,end
+大卫·斯莱德之谜：案件档案,"简介去河滨市中心黑暗暴力的街道，在那里你可以使用一系列法医工具和智慧调查可怕暴力的凶杀案！灵感来自经典的警察探索冒险系列，为虚拟现实重生和重新想象。
+
+包括两个史诗情节！
+
+第一集——202号公寓：刚从学院出来，你就被直接扔进了里弗赛德黑暗暴力的腹地。调查你的第一起凶杀案，智胜杀手，解决一系列几十年前的谋杀案。
+
+第二集——过去的记忆： 202公寓事件发生5年后，你面临着恐怖，这是你从未见过的。在猫捉老鼠的游戏中，你必须智胜追踪你的杀手。
+
+权威版特点：
+-使用法医工具检查、收集和处理证据，以建立您的案件。
+-本地化（英语音频和字幕+西班牙语、法语、葡萄牙语、中文、俄语）
+-完整的口语对话（英文+字幕）
+-著名作曲家迈克尔·戈登·夏皮罗的完整电影配乐。
+-从头开始修复视觉效果和核心代码！
+-重制HD电影剪辑场景。
+-以及更多。
+
+支持和提示：
+
+**这款游戏旨在具有挑战性，不握住你的手，所以如果你需要：支持，提示和技巧，请伸出援手，我非常愿意提供帮助！去河滨市中心黑暗暴力的街道，在那里你可以使用一系列法医工具和智慧调查可怕暴力的凶杀案！灵感来自经典的警察探索冒险系列，为虚拟现实重生和重新想象。
+
+包括两个史诗情节！
+
+第一集——202号公寓：刚从学院出来，你就被直接扔进了里弗赛德黑暗暴力的腹地。调查你的第一起凶杀案，智胜杀手，解决一系列几十年前的谋杀案。
+
+第二集——过去的记忆： 202公寓事件发生5年后，你面临着恐怖，这是你从未见过的。在猫捉老鼠的游戏中，你必须智胜追踪你的杀手。
+
+权威版特点：
+-使用法医工具检查、收集和处理证据，以建立您的案件。
+-本地化（英语音频和字幕+西班牙语、法语、葡萄牙语、中文、俄语）
+-完整的口语对话（英文+字幕）
+-著名作曲家迈克尔·戈登·夏皮罗的完整电影配乐。
+-从头开始修复视觉效果和核心代码！
+-重制HD电影剪辑场景。
+-以及更多。
+
+支持和提示：
+
+**这款游戏旨在具有挑战性，不握住你的手，所以如果你需要：支持，提示和技巧，请伸出援手，我非常愿意提供帮助！",支持退款申请：PICO退款政策,分类：游戏,"标签：解谜, 恐怖, 冒险",游戏形式：单人,"语言：英语, 简体中文, 俄语, 法语, 葡萄牙语, 西班牙语","使用范围：原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO 4 Pro",版本：3.3c,更新日期：2023-4-13,大小：2.3 G,开发者：Steven Adamson,发行商：Steven Adamson,开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://gearworxprod.com/page/dsmcfppcn/ at 2023.07.24 05:10:01&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者网站：http://www.gearworxprod.com,大卫·斯莱德之谜：案件档案,2023-07-24 05:08:06,2023-07-24 05:10:57

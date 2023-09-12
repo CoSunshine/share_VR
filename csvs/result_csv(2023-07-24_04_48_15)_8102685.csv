@@ -1,0 +1,47 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,权限,url,名称,start,end
+速降阿尔卑斯,"简介由全身动作控制的滑雪运动，结合节奏玩法，打造华丽的VR体验。
+美妙的音乐与坡道的节奏伴你在粉雪上流畅滑行，
+刻下完美的弧线，一路飞速滑下陡峭的山峰。
+
+调动全身控制滑雪动作，安全滑下险峻的山坡。急转弯时要倾斜身体，
+而走刃过门时切记要弯腰。
+下坡的路径根据音乐随机生成，
+跟着音乐律动可以提升滑雪技巧、提高得分，
+还可以让游戏体验变得更加流畅逼真。
+ 
+《速降阿尔卑斯Descent Alps》试玩版累计下载量超过100,000次。游戏现已经过精心优化，力求为玩家呈现活力十足的真实滑雪体验，
+让专业滑雪选手、玩家和新手都能舒适地享受这款游戏带来的乐趣。
+由全身动作控制的滑雪运动，结合节奏玩法，打造华丽的VR体验。
+美妙的音乐与坡道的节奏伴你在粉雪上流畅滑行，
+刻下完美的弧线，一路飞速滑下陡峭的山峰。
+
+调动全身控制滑雪动作，安全滑下险峻的山坡。急转弯时要倾斜身体，
+而走刃过门时切记要弯腰。
+下坡的路径根据音乐随机生成，
+跟着音乐律动可以提升滑雪技巧、提高得分，
+还可以让游戏体验变得更加流畅逼真。
+ 
+《速降阿尔卑斯Descent Alps》试玩版累计下载量超过100,000次。游戏现已经过精心优化，力求为玩家呈现活力十足的真实滑雪体验，
+让专业滑雪选手、玩家和新手都能舒适地享受这款游戏带来的乐趣。
+",支持退款申请：PICO退款政策,分类：游戏,"标签：竞速, 模拟",游戏形式：单人,"语言：简体中文, 英语, 日语, 韩语",使用范围：原地站立,控制方式：6-DOF 手柄,"支持平台：PICO Neo2, PICO Neo2 Lite, PICO Neo3 Pro, PICO Neo3 Eye, PICO Neo3, PICO 4, PICO 4 Pro",版本：0.4.6,更新日期：2021-9-9,大小：387.7 MB,开发者：Sutur,发行商：Sutur,开发者隐私政策：隐私政策,权限：存储空间,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://www.sutur.io/privacypolicy at 2023.07.24 04:47:54&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[16,969][1184,1083]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",速降阿尔卑斯,2023-07-24 04:45:06,2023-07-24 04:48:15

@@ -1,0 +1,63 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,权限,url,名称,start,end
+The Room,"简介这是经典解谜IP《The room》系列的VR版本，你将化身警探，探索奇幻的异世界，解锁奇妙的机关，在层层递进的故事中解开古老而神秘的谜团。
+你可以双手紧握手柄，自由地在精致又充满惊喜细节的房间里穿梭，在移点换景中感受虚虚实实、美轮美奂的场景所带来的梦幻感；
+你可以在任何一处角落，直接而便利地伸手抓取和触摸这些艺术品级别的游戏道具，甚至能放在手心中观察和把玩，探究和解锁一道道隐藏的精巧谜盒机关；
+你可以在游戏中真切扮演伦敦警察局警探，跟随着关卡里一封又一封的神秘来信，去探寻失踪的埃及考古教授，在层层递进式的故事中解开一连串谜题，获得极佳的探案体验！
+你会发现一环又套一环，一个又一个机关，世界之中有新的世界，环环相扣让人沉醉其中，每一关卡的解锁都能带来妙不可言的惊喜体验！
+接下来的故事，就等你来亲自体验才能找到答案啦！
+添加小影微信（微信号：Netvios666），一起加入“影核迷室VR警探聚集地”，与警探们一起机智破解机关吧！
+
+《迷室VR》是由Firepoof Games开发，影核独家发行的⼀款剧情向冒险解谜游戏，是经典密室IP《The room》系列的VR版本，被誉为全球解谜游戏标杆巨作，囊括全球多项重量级大奖：
+● Eurogamer2020年十大 PS                                                                                                                                                                                                                                                    VR 游戏 
+● Oculus顶级冒险游戏
+● 威尼斯国际电影节最佳VR
+● PSVR Without Parole最佳 PSVR 解谜游戏
+● Polygon2020年最佳游戏
+● Upload VR最具创意VR设计
+● Upload VR最佳游戏
+● Steam年度VR游戏
+● 国际VR大奖年度游戏
+● IGN最佳VR游戏
+● NAVGTR VR杰出方向
+这是经典解谜IP《The room》系列的VR版本，你将化身警探，探索奇幻的异世界，解锁奇妙的机关，在层层递进的故事中解开古老而神秘的谜团。
+你可以双手紧握手柄，自由地在精致又充满惊喜细节的房间里穿梭，在移点换景中感受虚虚实实、美轮美奂的场景所带来的梦幻感；
+你可以在任何一处角落，直接而便利地伸手抓取和触摸这些艺术品级别的游戏道具，甚至能放在手心中观察和把玩，探究和解锁一道道隐藏的精巧谜盒机关；
+你可以在游戏中真切扮演伦敦警察局警探，跟随着关卡里一封又一封的神秘来信，去探寻失踪的埃及考古教授，在层层递进式的故事中解开一连串谜题，获得极佳的探案体验！
+你会发现一环又套一环，一个又一个机关，世界之中有新的世界，环环相扣让人沉醉其中，每一关卡的解锁都能带来妙不可言的惊喜体验！
+接下来的故事，就等你来亲自体验才能找到答案啦！
+添加小影微信（微信号：Netvios666），一起加入“影核迷室VR警探聚集地”，与警探们一起机智破解机关吧！
+
+《迷室VR》是由Firepoof Games开发，影核独家发行的⼀款剧情向冒险解谜游戏，是经典密室IP《The room》系列的VR版本，被誉为全球解谜游戏标杆巨作，囊括全球多项重量级大奖：
+● Eurogamer2020年十大 PS                                                                                                                                                                                                                                                    VR 游戏 
+● Oculus顶级冒险游戏
+● 威尼斯国际电影节最佳VR
+● PSVR Without Parole最佳 PSVR 解谜游戏
+● Polygon2020年最佳游戏
+● Upload VR最具创意VR设计
+● Upload VR最佳游戏
+● Steam年度VR游戏
+● 国际VR大奖年度游戏
+● IGN最佳VR游戏
+● NAVGTR VR杰出方向
+",支持退款申请：PICO退款政策,分类：游戏,"标签：解谜, 冒险",游戏形式：单人,"语言：简体中文, 繁体中文, 英语, 德语, 日语, 法语, 韩语","使用范围：原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO Neo3 Eye, PICO Neo3 Pro, PICO 4 Pro",版本：1.02_PICO_1.1,更新日期：2023-3-13,大小：1.9 G,开发者：Fireproof Games,发行商：杭州影核网络科技有限公司,开发者隐私政策：隐私政策,权限：存储空间,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://netvios.163.com/privacy.html at 2023.07.20 01:50:40&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",已有体感追踪器，去配对,2023-07-20 01:46:38,2023-07-20 01:51:01

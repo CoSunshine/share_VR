@@ -1,0 +1,50 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,权限,url,名称,start,end
+妖怪捉迷藏,"简介*游戏简介*
+一起来玩《妖怪捉迷藏》吧！三分钟非对称竞技，一场心跳加速的追逃游戏！ 在倒计时结束前，怪物们要运用技能把所有的人类抓进大牢，而人类小伙伴则要努力逃离怪物的魔爪！ 至多4人同台竞技，在线和本地都能尽情游戏！
+*游戏特色*
+【非对称竞技玩法】
+1位玩家扮演妖怪，3位玩家扮演人类，PICO首个非对称竞技1V3玩法，无论是妖怪还是人类均有独特的乐趣体验
+【奇妙的妖怪设定】
+这里有布偶娃娃，青蛙大王，狼人等风格迥异的妖怪，不同的妖怪还有各自独特的技能，让你在各种地图享受独特的能力加成
+【考验友谊的时刻】
+如果你在游戏中选择了人类角色，那你将会拥有2位队友，你们可以通过组队语音功能制定战术，想方设法营救被困的队友，或者你也可以选择牺牲自己保护他人。
+【奇幻的游戏场景】
+这里有危机四伏的森林沼泽，充满陷阱的图书馆，还有风格独特的小镇等等不同风格的场景，除此之外还有黄昏，夜晚等不同的时间设定，让你乐在其中
+【丰富的成就系统】
+游戏内设定有人类和妖怪等不同的成就记录，让这些徽章记录下你的成长吧，成就解锁还会有能力的提升哦
+【强力的道具装备】
+商店中丰富的灯笼装备可以让人类获得更多对抗妖怪的能力，快来挑选一个你喜欢的提灯吧！*游戏简介*
+一起来玩《妖怪捉迷藏》吧！三分钟非对称竞技，一场心跳加速的追逃游戏！ 在倒计时结束前，怪物们要运用技能把所有的人类抓进大牢，而人类小伙伴则要努力逃离怪物的魔爪！ 至多4人同台竞技，在线和本地都能尽情游戏！
+*游戏特色*
+【非对称竞技玩法】
+1位玩家扮演妖怪，3位玩家扮演人类，PICO首个非对称竞技1V3玩法，无论是妖怪还是人类均有独特的乐趣体验
+【奇妙的妖怪设定】
+这里有布偶娃娃，青蛙大王，狼人等风格迥异的妖怪，不同的妖怪还有各自独特的技能，让你在各种地图享受独特的能力加成
+【考验友谊的时刻】
+如果你在游戏中选择了人类角色，那你将会拥有2位队友，你们可以通过组队语音功能制定战术，想方设法营救被困的队友，或者你也可以选择牺牲自己保护他人。
+【奇幻的游戏场景】
+这里有危机四伏的森林沼泽，充满陷阱的图书馆，还有风格独特的小镇等等不同风格的场景，除此之外还有黄昏，夜晚等不同的时间设定，让你乐在其中
+【丰富的成就系统】
+游戏内设定有人类和妖怪等不同的成就记录，让这些徽章记录下你的成长吧，成就解锁还会有能力的提升哦
+【强力的道具装备】
+商店中丰富的灯笼装备可以让人类获得更多对抗妖怪的能力，快来挑选一个你喜欢的提灯吧！",支持退款申请：PICO退款政策,分类：游戏,"标签：策略, 社交, 休闲","游戏形式：多人, 单人","语言：英语, 简体中文, 繁体中文, 日语, 法语","使用范围：原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO 4 Pro",版本：1.0.15,更新日期：2023-3-29,大小：500.2 MB,开发者：FREESTYLE&灵禅,发行商：海南创见未来科技有限公司,开发者隐私政策：隐私政策,"权限：存储空间, 麦克风","<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""FakeBrowser"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[48,85][286,139]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""http://www.ultizen.com/ObakeidoroPrivacyPolicy.htm at 2023.07.20 04:54:09&#10;"" resource-id=""com.android.example.cameraxapp:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,901][1200,1195]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+</hierarchy>",妖怪捉迷藏,2023-07-20 04:49:32,2023-07-20 04:54:47

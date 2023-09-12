@@ -1,0 +1,35 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,权限,url,名称,start,end
+枪战世界,"简介枪战世界是一款以西部故事为开端的第一人称多人射击游戏，拥有多个极具沉浸感的游戏模式以及枪械体验，玩家在游戏中通过参与对战或冒险生存来赢取奖励，还可以跟其他玩家组队游戏又或者组建战队来结识更多共同兴趣的好友。
+
+夺金突围：全球首款FPS策略博弈类VR游戏模式。选择不同装备，进入战斗，搜刮宝藏，击杀敌人，获得战利品。最终在规定时间内成功撤离，否则你将丢失背包内的所有物品。枪击对决不再是进入战局的唯一目标，物资带出，财富积累，为下一次战斗做足准备！
+骑马大战：体验VR独有的骑马枪战模式，与你的战马一起征战枪战世界！通过战斗，您还可以解锁不同的战马，让您在小镇和战斗中脱颖而出！
+团队竞赛：五副策略竞技地图，与多达10人进行高速循环战斗，选择适合你的武器，在战略和战术层面上击败对手！
+
+还等什么？邀请好友一起骑上战马，进入枪战世界，享受决斗吧！枪战世界是一款以西部故事为开端的第一人称多人射击游戏，拥有多个极具沉浸感的游戏模式以及枪械体验，玩家在游戏中通过参与对战或冒险生存来赢取奖励，还可以跟其他玩家组队游戏又或者组建战队来结识更多共同兴趣的好友。
+
+夺金突围：全球首款FPS策略博弈类VR游戏模式。选择不同装备，进入战斗，搜刮宝藏，击杀敌人，获得战利品。最终在规定时间内成功撤离，否则你将丢失背包内的所有物品。枪击对决不再是进入战局的唯一目标，物资带出，财富积累，为下一次战斗做足准备！
+骑马大战：体验VR独有的骑马枪战模式，与你的战马一起征战枪战世界！通过战斗，您还可以解锁不同的战马，让您在小镇和战斗中脱颖而出！
+团队竞赛：五副策略竞技地图，与多达10人进行高速循环战斗，选择适合你的武器，在战略和战术层面上击败对手！
+
+还等什么？邀请好友一起骑上战马，进入枪战世界，享受决斗吧！",支持退款申请：PICO退款政策,分类：游戏,"标签：射击, 冒险, 动作","游戏形式：多人, 单人",语言：简体中文,"使用范围：原地坐姿, 原地站立, 房间移动",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO Neo3 Eye, PICO Neo3 Pro, PICO 4 Pro",版本：2.4.1,更新日期：2022-12-8,大小：1.6 G,开发者：SparkGame,发行商：SparkGame,开发者隐私政策：隐私政策,权限：麦克风,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://sparkvr.games/PrivatePolicy.html at 2023.07.20 01:45:30&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",枪战世界,2023-07-20 01:42:38,2023-07-20 01:45:51

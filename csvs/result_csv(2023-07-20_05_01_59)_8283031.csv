@@ -1,0 +1,50 @@
+name,简介,不支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,url,大小,开发者,发行商,开发者隐私政策,开发者网站,名称,start,end
+国际象棋：穿越,"简介【第七届金陀螺奖年度创新VR游戏奖】获奖作品，欢迎添加我们的微信公众号：SuplifeGames进群 或 官方QQ群：117346265 与我们互动交流，更有群内定期福利礼包等你来领取呦！
+
+亲爱的时空旅行者，欢迎搭乘""国际象棋：穿越号""太空飞船, 在这里，你将可以在多个场景中穿越旅行，上一秒你还在宇宙中与宇航员博弈，下一秒你已坐在日式庭院的榻榻米上与日本女棋手对局。你也可以穿越到中世纪古堡与骁勇的骑士拔剑比试。自由选择你喜欢的旅行目的地，祝愿你度过一段美好的象棋之旅！
+
+游戏独特体验：       
+- 邀请好友一起对战
+- 跨平台游戏，实现VR玩家和700万手机玩家一起下棋
+- 棋子动画和音效带给你更有趣、更沉浸式体验
+- 三个场景：中世纪城堡、太空舱、和风厢房
+- 8个AI难度级别，1000多场残局等你去挑战
+- 专业的ELO算法，帮助你匹配相同水平的玩家
+
+我们会不断定期优化和更新，为你带来更好的沉浸式游戏体验，欢迎在评论区反馈，我们将不定期抽取评论区奖励，更多功能即将上线：更丰富的游戏场景、手势识别、实时语音、锦标赛等。
+
+快下载吧！【第七届金陀螺奖年度创新VR游戏奖】获奖作品，欢迎添加我们的微信公众号：SuplifeGames进群 或 官方QQ群：117346265 与我们互动交流，更有群内定期福利礼包等你来领取呦！
+
+亲爱的时空旅行者，欢迎搭乘""国际象棋：穿越号""太空飞船, 在这里，你将可以在多个场景中穿越旅行，上一秒你还在宇宙中与宇航员博弈，下一秒你已坐在日式庭院的榻榻米上与日本女棋手对局。你也可以穿越到中世纪古堡与骁勇的骑士拔剑比试。自由选择你喜欢的旅行目的地，祝愿你度过一段美好的象棋之旅！
+
+游戏独特体验：       
+- 邀请好友一起对战
+- 跨平台游戏，实现VR玩家和700万手机玩家一起下棋
+- 棋子动画和音效带给你更有趣、更沉浸式体验
+- 三个场景：中世纪城堡、太空舱、和风厢房
+- 8个AI难度级别，1000多场残局等你去挑战
+- 专业的ELO算法，帮助你匹配相同水平的玩家
+
+我们会不断定期优化和更新，为你带来更好的沉浸式游戏体验，欢迎在评论区反馈，我们将不定期抽取评论区奖励，更多功能即将上线：更丰富的游戏场景、手势识别、实时语音、锦标赛等。
+
+快下载吧！",不支持退款申请：PICO退款政策,分类：游戏,"标签：策略, 休闲","游戏形式：多人, 单人","语言：英语, 德语, 简体中文, 法语, 西班牙语","使用范围：房间移动, 原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO 4 Pro",版本：3.17,更新日期：2023-5-22,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""FakeBrowser"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[48,85][286,139]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""https://chessvrgame.com/privacy-policy at 2023.07.20 04:59:59&#10;"" resource-id=""com.android.example.cameraxapp:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,937][1200,1160]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+</hierarchy>",大小：549.8 MB,开发者：Suplife Games,发行商：Suplife Games,开发者隐私政策：隐私政策,开发者网站：https://vrsuplife.com/,国际象棋：穿越,2023-07-20 04:57:01,2023-07-20 05:01:59

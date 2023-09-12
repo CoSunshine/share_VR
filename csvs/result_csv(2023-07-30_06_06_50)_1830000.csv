@@ -1,0 +1,47 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,url,开发者隐私政策,开发者网站,权限,名称,start,end
+幽灵信号,"简介《幽灵信号》是一款发生在《群星》宇宙的VR动作roguelite游戏。您将作为舰长，指挥您的飞船对抗众多外星种族。参与动态的星际战争，遭遇行星大小的生物，收集宝贵的战利品，展开研究，并且探索更多内容。每一次旅程都是独一无二的。您能否找到神秘的幽灵信号的来源？
+
+星际大战
+使用极光号的全套武装对抗敌方舰队。缴获或购买冷冻射线、原子导弹甚至天龙伙伴——一切由您选择。
+
+升级与自定义
+扫描外星生物，将其收入日志，研究多种科技树。非同时多人游戏使您可以打捞其他玩家遗弃的舰船，寻找珍贵物品。
+
+永不结束的旅程
+随机生成的地图让故事模式的每一次旅程都变得独一无二.
+
+充满奇观的宇宙
+作为极光号的舰长，在星系各地遭遇奇特的外星人，进入废弃的神庙，追踪似乎连死亡也无法使其中断的神秘信号。《幽灵信号》是一款发生在《群星》宇宙的VR动作roguelite游戏。您将作为舰长，指挥您的飞船对抗众多外星种族。参与动态的星际战争，遭遇行星大小的生物，收集宝贵的战利品，展开研究，并且探索更多内容。每一次旅程都是独一无二的。您能否找到神秘的幽灵信号的来源？
+
+星际大战
+使用极光号的全套武装对抗敌方舰队。缴获或购买冷冻射线、原子导弹甚至天龙伙伴——一切由您选择。
+
+升级与自定义
+扫描外星生物，将其收入日志，研究多种科技树。非同时多人游戏使您可以打捞其他玩家遗弃的舰船，寻找珍贵物品。
+
+永不结束的旅程
+随机生成的地图让故事模式的每一次旅程都变得独一无二.
+
+充满奇观的宇宙
+作为极光号的舰长，在星系各地遭遇奇特的外星人，进入废弃的神庙，追踪似乎连死亡也无法使其中断的神秘信号。",支持退款申请：PICO退款政策,分类：游戏,"标签：动作, 冒险, 太空",游戏形式：单人,"语言：英语, 德语, 日语, 简体中文, 法语, 西班牙语, 韩语","使用范围：房间移动, 原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4 Pro, PICO 4, PICO Neo3",版本：1.0.2,更新日期：2023-6-4,大小：1.7 G,开发者：Fast Travel Games & Windswept Interactive,发行商：Fast Travel Games,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://docs.google.com/document/d/1nFcKy0_J0HgIKNZchKGXZ686Ga2pcGtjLZeLA0rU5MY/edit?usp=sharing at 2023.07.30 06:06:03&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,916][1200,1136]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者隐私政策：隐私政策,开发者网站：https://www.fasttravelgames.com/,权限：存储空间,幽灵信号,2023-07-30 06:02:58,2023-07-30 06:06:50

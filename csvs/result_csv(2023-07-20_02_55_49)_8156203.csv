@@ -1,0 +1,31 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,开发者网站,url,权限,名称,start,end
+职业乒乓VR,"简介雏形即荣获“高通XR创新应用挑战赛”银奖，《职业乒乓VR》是一款精致并直达主题的运动模拟游戏。由于支持MR透视功能，玩家能够看到身旁环境。即便在较小的空间里也能放心的挥臂击球，不怕误触他人或周边物体。您可以放心地将游戏介绍给家人和朋友，让他们感受VR运动的魅力，而不必担心需要手把手地协助他们进行每一步操作。 
+
+游戏拥有丰富的场景和角色选择，支持训练模式，单机过关模式和玩家间对战的功能。 游戏提供混合显示模式，打球的过程中能够看清周边的真实环境，避免误碰受伤，且能够方便地与他人交流。
+
+我们在真实物理模拟和易用性之间做了大量的调试，让游戏兼具电竞级别精度的同时，最大限度地降低上手门槛。乒乓高手能够自如地扣杀，和搓、拉弧线球；同时，就算平时不常打球的玩家，也能在VR中迅速上手，体验一把“职业感”。 雏形即荣获“高通XR创新应用挑战赛”银奖，《职业乒乓VR》是一款精致并直达主题的运动模拟游戏。由于支持MR透视功能，玩家能够看到身旁环境。即便在较小的空间里也能放心的挥臂击球，不怕误触他人或周边物体。您可以放心地将游戏介绍给家人和朋友，让他们感受VR运动的魅力，而不必担心需要手把手地协助他们进行每一步操作。 
+
+游戏拥有丰富的场景和角色选择，支持训练模式，单机过关模式和玩家间对战的功能。 游戏提供混合显示模式，打球的过程中能够看清周边的真实环境，避免误碰受伤，且能够方便地与他人交流。
+
+我们在真实物理模拟和易用性之间做了大量的调试，让游戏兼具电竞级别精度的同时，最大限度地降低上手门槛。乒乓高手能够自如地扣杀，和搓、拉弧线球；同时，就算平时不常打球的玩家，也能在VR中迅速上手，体验一把“职业感”。 ",支持退款申请：PICO退款政策,分类：游戏,"标签：运动, 模拟, 休闲","游戏形式：单人, 多人","语言：英语, 简体中文","使用范围：房间移动, 原地站立, 原地坐姿","控制方式：6-DOF 手柄, 头控","支持平台：PICO Neo2, PICO Neo2 Wigig, PICO Neo2 Eye, PICO Neo2 Lite, PICO 4 Pro, PICO 4, PICO Neo3, PICO Neo3 Pro",版本：10.6,更新日期：2023-6-26,大小：331.2 MB,开发者：珞麟网络科技,发行商：珞麟网络科技,开发者隐私政策：隐私政策,开发者网站：https://www.xryundong.com/,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://www.xryundong.com/?page_id=21746 at 2023.07.20 02:54:47&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",权限：麦克风,职业乒乓VR,2023-07-20 02:50:13,2023-07-20 02:55:49

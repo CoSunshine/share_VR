@@ -1,0 +1,41 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,url,发行商,开发者隐私政策,开发者服务条款,开发者网站,权限,名称,start,end
+机甲足球,"简介球门区亮起来了，人群沸腾了！一个设计完美的机甲在你的操控下进入了竞技场。《Ultimechs》是一款VR游戏，支持玩家远程驾驶高性能机甲，在未来的体育运动中竞技，通过快速移动、拳击和得分来获得胜利！
+
+请选择你的机甲，准备迎接以下精彩内容：
+火箭动力猛拳：用手腕发射喷气拳套并操控它们在空中飞行
+心跳加速进球：用飞拳击球，为你的球队得分
+2V2行动：拉上一名队友，传球、定位，与他并肩作战（或者畅玩1V1模式，获取个人荣耀！）
+超级机器人风格：使用配件、涂装、喷气拳套轨迹等元素自定义你的机甲
+竞技玩法：你有能耐登上排行榜并成为顶级玩家吗？
+
+《Ultimechs》，一款由Resolution Games的体育迷精心设计的超级机器人劲射游戏。球门区亮起来了，人群沸腾了！一个设计完美的机甲在你的操控下进入了竞技场。《Ultimechs》是一款VR游戏，支持玩家远程驾驶高性能机甲，在未来的体育运动中竞技，通过快速移动、拳击和得分来获得胜利！
+
+请选择你的机甲，准备迎接以下精彩内容：
+火箭动力猛拳：用手腕发射喷气拳套并操控它们在空中飞行
+心跳加速进球：用飞拳击球，为你的球队得分
+2V2行动：拉上一名队友，传球、定位，与他并肩作战（或者畅玩1V1模式，获取个人荣耀！）
+超级机器人风格：使用配件、涂装、喷气拳套轨迹等元素自定义你的机甲
+竞技玩法：你有能耐登上排行榜并成为顶级玩家吗？
+
+《Ultimechs》，一款由Resolution Games的体育迷精心设计的超级机器人劲射游戏。",支持退款申请：PICO退款政策,分类：游戏,"标签：动作, 运动, 模拟","游戏形式：多人, 单人","语言：英语, 简体中文, 繁体中文, 德语, 日语, 法语, 韩语, 西班牙语, 意大利语","使用范围：原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO Neo3 Eye, PICO Neo3 Pro, PICO 4 Pro",版本：1.7.211441-release,更新日期：2023-5-12,大小：592.1 MB,开发者：Resolution Games,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://www.resolutiongames.com/privacy-policy-china at 2023.07.20 05:38:25&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",发行商：Resolution Games,开发者隐私政策：隐私政策,开发者服务条款：服务条款,开发者网站：https://www.resolutiongames.com/,"权限：存储空间, 麦克风",机甲足球,2023-07-20 05:35:34,2023-07-20 05:39:14

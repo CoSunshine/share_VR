@@ -1,0 +1,32 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,url,开发者隐私政策,开发者网站,权限,名称,start,end
+节奏拳击,"简介《节奏拳击》作为一款需要快速反应和节奏感的音乐健身游戏，在拥有优秀打击感和丰富音乐收藏的基础上，还为玩家提供了多样的游玩模式和与其他玩家比拼的排行榜。
+ · 极具特色的单人游戏：玩家将可以选择拳击、防暴拐、相位激光枪、破魔双刃、西斯光剑进行游玩，体验到不同的打击游玩方式。
+ · 功能强大的多人游戏：玩家将可以选择匹配区域服务器里的其他玩家进行游玩，或建立自己的房间邀请好友进行游玩。
+ · 不眠俱乐部：终极卡路里燃烧器，伴随着越来越快的音乐节奏，享受挥洒汗水的快感。
+ · 冠军循环赛：玩家将在官方指定的歌曲下进行比拼，决胜出真正的领袖国王。
+ · 真正的360：体验全方位的节奏拳击，主导整个游戏场。《节奏拳击》作为一款需要快速反应和节奏感的音乐健身游戏，在拥有优秀打击感和丰富音乐收藏的基础上，还为玩家提供了多样的游玩模式和与其他玩家比拼的排行榜。
+ · 极具特色的单人游戏：玩家将可以选择拳击、防暴拐、相位激光枪、破魔双刃、西斯光剑进行游玩，体验到不同的打击游玩方式。
+ · 功能强大的多人游戏：玩家将可以选择匹配区域服务器里的其他玩家进行游玩，或建立自己的房间邀请好友进行游玩。
+ · 不眠俱乐部：终极卡路里燃烧器，伴随着越来越快的音乐节奏，享受挥洒汗水的快感。
+ · 冠军循环赛：玩家将在官方指定的歌曲下进行比拼，决胜出真正的领袖国王。
+ · 真正的360：体验全方位的节奏拳击，主导整个游戏场。",支持退款申请：PICO退款政策,分类：游戏,"标签：运动, 音乐, 放松","游戏形式：单人, 多人",语言：英语,"使用范围：房间移动, 原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO Neo2, PICO Neo2 Eye, PICO Neo2 Lite, PICO Neo3 Pro, PICO Neo3 Eye, PICO Neo3, PICO 4, PICO 4 Pro",版本：4.1.5,更新日期：2021-3-18,大小：704.0 MB,开发者：Playito.com,发行商：Playito.com,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""FakeBrowser"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[48,85][286,139]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""https://songbeater.com/song_beater_privacy.txt at 2023.07.20 05:39:58&#10;"" resource-id=""com.android.example.cameraxapp:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,937][1200,1160]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+</hierarchy>",开发者隐私政策：隐私政策,开发者网站：https://playito.com,"权限：存储空间, 麦克风",节奏拳击,2023-07-20 05:37:30,2023-07-20 05:40:35

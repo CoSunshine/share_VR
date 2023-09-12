@@ -1,0 +1,48 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,url,开发者隐私政策,开发者服务条款,开发者网站,权限,名称,start,end
+燃鼓英雄,"简介化身摇滚英雄，纵情击鼓，对抗恶魔和它们的首领，在地狱中求生！
+
+游戏特色：
+-真正的摇滚！硬摇滚、重金属、新金属等等。摇滚曲目丰富，还有原创音乐或鼓点段落！
+-精致而疯狂的画面以及残酷的最终关卡
+-真正的鼓组！你可以定制你要演奏的鼓组！
+-纯粹的战役内容可以游玩超过4小时！而且还有其他内容！
+-大量的可解锁内容！鼓槌、鼓、歌曲……
+-适合所有人的良好操作体验。不会导致晕眩。可以坐着玩。
+-在较有难度的关卡中感受摇滚的魅力，娴熟地挥舞鼓槌，成为技艺精湛的鼓手。
+-分阶段对抗敌人和首领，探索特殊关卡和多种多样的世界。
+-在线排名！与好友一争高下，超过他们的分数。
+-源自其他游戏的曲目！！注意！！
+-4个难度等级！适用于所有关卡，而且层次划分合理！化身摇滚英雄，纵情击鼓，对抗恶魔和它们的首领，在地狱中求生！
+
+游戏特色：
+-真正的摇滚！硬摇滚、重金属、新金属等等。摇滚曲目丰富，还有原创音乐或鼓点段落！
+-精致而疯狂的画面以及残酷的最终关卡
+-真正的鼓组！你可以定制你要演奏的鼓组！
+-纯粹的战役内容可以游玩超过4小时！而且还有其他内容！
+-大量的可解锁内容！鼓槌、鼓、歌曲……
+-适合所有人的良好操作体验。不会导致晕眩。可以坐着玩。
+-在较有难度的关卡中感受摇滚的魅力，娴熟地挥舞鼓槌，成为技艺精湛的鼓手。
+-分阶段对抗敌人和首领，探索特殊关卡和多种多样的世界。
+-在线排名！与好友一争高下，超过他们的分数。
+-源自其他游戏的曲目！！注意！！
+-4个难度等级！适用于所有关卡，而且层次划分合理！",支持退款申请：PICO退款政策,分类：游戏,"标签：音乐, 休闲",游戏形式：单人,"语言：英语, 简体中文, 德语, 俄语, 日语, 法语, 韩语, 西班牙语, 意大利语","使用范围：原地坐姿, 原地站立, 房间移动",控制方式：6-DOF 手柄,"支持平台：PICO Neo3, PICO Neo3 Eye, PICO Neo3 Pro, PICO 4, PICO 4 Pro",版本：1.050,更新日期：2022-10-13,大小：805.0 MB,开发者：Garage51,发行商：Garage51,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""FakeBrowser"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[48,85][286,139]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""https://www.garage51.es/drumsrock/privacy_policy.html at 2023.07.20 05:25:32&#10;"" resource-id=""com.android.example.cameraxapp:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,937][1200,1160]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+</hierarchy>",开发者隐私政策：隐私政策,开发者服务条款：服务条款,开发者网站：https://garage51.es/drumsrock/,权限：存储空间,燃鼓英雄,2023-07-20 05:22:40,2023-07-20 05:26:35

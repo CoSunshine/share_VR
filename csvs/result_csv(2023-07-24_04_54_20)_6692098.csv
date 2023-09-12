@@ -1,0 +1,43 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,开发者服务条款,开发者网站,权限,名称,start,end
+《永恒星光》,"简介激活神经链接，获得战场的全知视角。体验不同规模的战斗，规划航行路线，引领你的舰队走向胜利。《永恒星光》是一款基于VR的太空战术战斗游戏。
+
+来会会(并消灭)各种各样的外星生物，收集科技升级飞船，计划下一次超空间跳跃，保护人类仅存的殖民地。游戏中有几十艘飞船和上百种独特的飞船系统供你获取和使用。合理部署飞船的位置并使用它们独特的能力将是击败你敌人的关键。
+
+这个游戏拥有直观的移动系统，你可以通过抓取飞船的方式来让它们自由地在空间中移动。你可以缩小视角来查看整个战场，也可以把视角集中在一艘飞船上。你可以坐着玩，站着玩或利用整个房间来玩。
+
+新增内容：
+
+无尽模式
+
+5个可解锁派系供你选择，开启程序生成的全新冒险，抵达足以打破力量平衡的外形结构体——中心。全新的敌人，武器和任务由你来探索。选择适合自己的难度和盟友来获得更好的游戏体验。现在即可畅享数十项游戏更新和改进！激活神经链接，获得战场的全知视角。体验不同规模的战斗，规划航行路线，引领你的舰队走向胜利。《永恒星光》是一款基于VR的太空战术战斗游戏。
+
+来会会(并消灭)各种各样的外星生物，收集科技升级飞船，计划下一次超空间跳跃，保护人类仅存的殖民地。游戏中有几十艘飞船和上百种独特的飞船系统供你获取和使用。合理部署飞船的位置并使用它们独特的能力将是击败你敌人的关键。
+
+这个游戏拥有直观的移动系统，你可以通过抓取飞船的方式来让它们自由地在空间中移动。你可以缩小视角来查看整个战场，也可以把视角集中在一艘飞船上。你可以坐着玩，站着玩或利用整个房间来玩。
+
+新增内容：
+
+无尽模式
+
+5个可解锁派系供你选择，开启程序生成的全新冒险，抵达足以打破力量平衡的外形结构体——中心。全新的敌人，武器和任务由你来探索。选择适合自己的难度和盟友来获得更好的游戏体验。现在即可畅享数十项游戏更新和改进！",支持退款申请：PICO退款政策,分类：游戏,"标签：策略, 动作, 模拟",游戏形式：单人,"语言：英语, 简体中文, 日语, 法语, 韩语, 西班牙语, 德语","使用范围：原地坐姿, 原地站立, 房间移动",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO 4E, PICO Neo3, PICO Neo3 Eye, PICO Neo3 Pro, PICO 4 Pro",版本：1.5.913,更新日期：2023-3-13,大小：443.6 MB,开发者：White Noise Games,发行商：White Noise Games,开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://www.starlight-vr.com/pages/privacy.html at 2023.07.24 04:53:47&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者服务条款：服务条款,开发者网站：https://www.starlight-vr.com/,"权限：存储空间, 麦克风",《永恒星光》,2023-07-24 04:52:11,2023-07-24 04:54:20

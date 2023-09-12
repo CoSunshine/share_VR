@@ -1,0 +1,41 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,开发者服务条款,开发者网站,url,权限,名称,start,end
+动感音旅,"简介《动感音旅》是一款需要玩家舞动自己的身体来捕获多彩宝石，驾驭音乐绸带，击打节奏鼓面同时躲避消音壁垒的VR劲舞游戏。每一首歌曲都将拥有其独特的超现实主义氛围，让玩家不再因为单调不变的环境而失去热情。
+游戏主要特性：
+· 海量顶级正版音乐：Lady Gaga、萌猴（Zedd）、鼠爷
+（deadmau5）、Skrillex、Tiësto以及更多即将上线的顶级正版音乐！
+· 有氧运动模式：更注重对全身的锻炼，玩家在该模式下需要大量的深蹲和脚步移动，并因此获得惊人的有氧运动效果。
+· In-VR级别编辑器：玩家将和开发者一样，拥有使用In-VR 级别编辑器的权利，设计独特的舞蹈动作，编排出专属于自己的舞蹈关卡。
+· 自由的音乐播放列表：玩家将可以享受职业舞者专门设计的音乐播放列表，也可以选择创造出最适合自己的音乐播放列表。
+· 全手工沉浸式场景：开放者联合职业舞者通过In-VR级别编辑器为每一首歌曲都打造了全手工的场景关卡。玩家将能在每一首歌曲里，亲身感受到完全不同的沉浸式舞蹈关卡。
+· 玩法难度自定义：“舒适”、“舞者”、“不许失败”、“定制色彩”，选择最适合自己的玩法难度。
+· 积分排行榜：玩家将能够通过全球积分排行榜和派对模式下的本地排行榜挑战自己的朋友和全球玩家。《动感音旅》是一款需要玩家舞动自己的身体来捕获多彩宝石，驾驭音乐绸带，击打节奏鼓面同时躲避消音壁垒的VR劲舞游戏。每一首歌曲都将拥有其独特的超现实主义氛围，让玩家不再因为单调不变的环境而失去热情。
+游戏主要特性：
+· 海量顶级正版音乐：Lady Gaga、萌猴（Zedd）、鼠爷
+（deadmau5）、Skrillex、Tiësto以及更多即将上线的顶级正版音乐！
+· 有氧运动模式：更注重对全身的锻炼，玩家在该模式下需要大量的深蹲和脚步移动，并因此获得惊人的有氧运动效果。
+· In-VR级别编辑器：玩家将和开发者一样，拥有使用In-VR 级别编辑器的权利，设计独特的舞蹈动作，编排出专属于自己的舞蹈关卡。
+· 自由的音乐播放列表：玩家将可以享受职业舞者专门设计的音乐播放列表，也可以选择创造出最适合自己的音乐播放列表。
+· 全手工沉浸式场景：开放者联合职业舞者通过In-VR级别编辑器为每一首歌曲都打造了全手工的场景关卡。玩家将能在每一首歌曲里，亲身感受到完全不同的沉浸式舞蹈关卡。
+· 玩法难度自定义：“舒适”、“舞者”、“不许失败”、“定制色彩”，选择最适合自己的玩法难度。
+· 积分排行榜：玩家将能够通过全球积分排行榜和派对模式下的本地排行榜挑战自己的朋友和全球玩家。",支持退款申请：PICO退款政策,分类：游戏,"标签：音乐, 休闲, 运动",游戏形式：单人,"语言：简体中文, 英语",使用范围：房间移动,控制方式：6-DOF 手柄,"支持平台：PICO Neo3 Pro, PICO Neo3 Eye, PICO Neo3, PICO 4, PICO 4 Pro",版本：1.0.3398,更新日期：2022-6-20,大小：808.1 MB,开发者：Kinemotik Studios,发行商：Andromeda Entertainment,开发者隐私政策：隐私政策,开发者服务条款：服务条款,开发者网站：http://audiotripvr.com,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""http://www.kinemotik.com/audiotrip/at-eula/ at 2023.07.20 03:01:35&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",权限：存储空间,动感音旅,2023-07-20 02:58:54,2023-07-20 03:01:54

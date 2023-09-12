@@ -1,0 +1,41 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,开发者网站,权限,url,名称,start,end
+节奏健身岛!!,"简介融入节奏，享受健身! 这里是 ""节奏健身岛""，这里的动物热爱音乐和运动。 
+
+当你访问这个岛的时候，你会接二连三地接受 ""节奏健身 ""的挑战，这是岛上的传统运动! 有基于传统运动（如网球）的节奏健身运动，也有独特的节奏健身游戏，比如送比萨饼。 
+
+每种运动都有自己的运动数据，你可以在玩乐的同时感受到自己燃烧了多少卡路里! 并且所有运动都有一个 ""无尽模式""！你能走多远？相信你能走很远~
+
+与来自各地的玩家竞争每项运动的分数和消耗的卡路里。争取成为高排名者! 
+
+游戏非常适合想快速轻松游玩的人，来一起认识独特的动物角色。觉得自己在日常生活中没有得到足够锻炼吗？ 想做一些轻度运动吗？让我们一起探索这个岛屿吧! 节奏健身岛仍在发展中，欢迎加入我们成为团队的一员! 
+融入节奏，享受健身! 这里是 ""节奏健身岛""，这里的动物热爱音乐和运动。 
+
+当你访问这个岛的时候，你会接二连三地接受 ""节奏健身 ""的挑战，这是岛上的传统运动! 有基于传统运动（如网球）的节奏健身运动，也有独特的节奏健身游戏，比如送比萨饼。 
+
+每种运动都有自己的运动数据，你可以在玩乐的同时感受到自己燃烧了多少卡路里! 并且所有运动都有一个 ""无尽模式""！你能走多远？相信你能走很远~
+
+与来自各地的玩家竞争每项运动的分数和消耗的卡路里。争取成为高排名者! 
+
+游戏非常适合想快速轻松游玩的人，来一起认识独特的动物角色。觉得自己在日常生活中没有得到足够锻炼吗？ 想做一些轻度运动吗？让我们一起探索这个岛屿吧! 节奏健身岛仍在发展中，欢迎加入我们成为团队的一员! 
+",支持退款申请：PICO退款政策,分类：游戏,"标签：运动, 音乐, 休闲",游戏形式：单人,"语言：英语, 简体中文, 德语, 日语, 法语, 韩语, 西班牙语","使用范围：房间移动, 原地站立",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO 4 Pro",版本：1.1.0p7,更新日期：2023-3-2,大小：1.8 G,"开发者：Ima Create Co., Ltd.","发行商：Ima Create Co., Ltd.",开发者隐私政策：隐私政策,开发者网站：https://groovefitisland.com/en/,权限：存储空间,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://ima-create.com/en/privacy-policy/ at 2023.07.24 06:25:01&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",节奏健身岛!!,2023-07-24 06:22:15,2023-07-24 06:25:23

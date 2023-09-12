@@ -1,0 +1,39 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,名称,start,end
+Animal Force,"简介你的任务就是抵抗外星人的入侵，保卫地球。你能使用的就是来自不同国家的动物英雄们（共有11个动物英雄），每个英雄具有不同的超能力。
+
+作为游戏的关键，本游戏是一个炮塔防御类型的游戏，同时包含了动作元素，跟传统的2d类型的炮塔防御游戏不同的是，本游戏充分利用了3D空间的特性，敌人会从空间里不同的位置进攻，需要你在空间中摆放你的动物英雄来阻止敌人，而且你可以在任何时刻重新拾取动物们。
+
+或者你可以把动物们链接在手中，围绕敌人去挥动来攻击他们（动物们靠近敌人后会自动攻击，不需要按任何键）
+
+你也可以按住扳机键不松开来冻结动物们的浮动。
+
+不要以为这是一款很简单的游戏，本游戏需要你有高超的技巧和战术才能够战胜敌人，共有7个大章节，包含不同的敌人和BOSS，从新手到老手，每个人都有不同的方式来过关。你的任务就是抵抗外星人的入侵，保卫地球。你能使用的就是来自不同国家的动物英雄们（共有11个动物英雄），每个英雄具有不同的超能力。
+
+作为游戏的关键，本游戏是一个炮塔防御类型的游戏，同时包含了动作元素，跟传统的2d类型的炮塔防御游戏不同的是，本游戏充分利用了3D空间的特性，敌人会从空间里不同的位置进攻，需要你在空间中摆放你的动物英雄来阻止敌人，而且你可以在任何时刻重新拾取动物们。
+
+或者你可以把动物们链接在手中，围绕敌人去挥动来攻击他们（动物们靠近敌人后会自动攻击，不需要按任何键）
+
+你也可以按住扳机键不松开来冻结动物们的浮动。
+
+不要以为这是一款很简单的游戏，本游戏需要你有高超的技巧和战术才能够战胜敌人，共有7个大章节，包含不同的敌人和BOSS，从新手到老手，每个人都有不同的方式来过关。",支持退款申请：PICO退款政策,分类：游戏,"标签：策略, 动作, 卡通",游戏形式：单人,语言：简体中文,"使用范围：原地坐姿, 原地站立, 房间移动",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO 4 Pro",版本：1.01,更新日期：2023-2-9,大小：441.6 MB,开发者：ISVR,发行商：ISVR,开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""http://www.is-vr.com/Privacy.txt at 2023.07.24 05:31:44&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[38,969][1162,1083]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",Animal Force,2023-07-24 05:29:46,2023-07-24 05:32:43

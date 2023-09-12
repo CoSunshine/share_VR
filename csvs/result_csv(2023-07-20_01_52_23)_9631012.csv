@@ -1,0 +1,45 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,url,开发者隐私政策,开发者服务条款,开发者网站,权限,名称,start,end
+急速滑翔,"简介在《急速滑翔》中纵身一跃，开启紧张刺激的滑翔体验。极速掠过群山，穿越峡谷，躲避凸起的岩石，俯冲直下，飞向终点。
+
+你是否有破釜沉舟的勇气，挑战有进无退的高速滑翔？
+
+游戏特色
+- 风景壮丽：在一天的不同时间和不同天气下飞掠五座宏伟的山峰
+- 富有挑战：超过一百条独特的山路可供挑战
+- 多种游戏模式：冲向终点的竞速赛、计时赛、积分赛，每一项都需要掌握不同的技巧和策略才能胜人一筹。
+- 壮观的多人跳跃：与4位好友联机或者参加快速比赛，和其他跳跃者一较高下。
+- 自由飞行模式：没有时间，没有环，没有限制。尽情遨游山间！
+
+戴上头戴设备，做好准备，打开《急速滑翔》，开始滑翔！在《急速滑翔》中纵身一跃，开启紧张刺激的滑翔体验。极速掠过群山，穿越峡谷，躲避凸起的岩石，俯冲直下，飞向终点。
+
+你是否有破釜沉舟的勇气，挑战有进无退的高速滑翔？
+
+游戏特色
+- 风景壮丽：在一天的不同时间和不同天气下飞掠五座宏伟的山峰
+- 富有挑战：超过一百条独特的山路可供挑战
+- 多种游戏模式：冲向终点的竞速赛、计时赛、积分赛，每一项都需要掌握不同的技巧和策略才能胜人一筹。
+- 壮观的多人跳跃：与4位好友联机或者参加快速比赛，和其他跳跃者一较高下。
+- 自由飞行模式：没有时间，没有环，没有限制。尽情遨游山间！
+
+戴上头戴设备，做好准备，打开《急速滑翔》，开始滑翔！",支持退款申请：PICO退款政策,分类：游戏,"标签：竞速, 运动, 模拟","游戏形式：单人, 多人","语言：英语, 简体中文, 繁体中文, 德语, 日语, 法语, 韩语, 葡萄牙语, 西班牙语, 泰语, 意大利语","使用范围：房间移动, 原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO Neo3 Eye, PICO Neo3 Pro, PICO 4 Pro",版本：1.2.3.290,更新日期：2022-10-20,大小：685.1 MB,开发者：The Binary Mill,发行商：The Binary Mill,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://thebinarymill.com/privacy.php at 2023.07.20 01:52:06&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者隐私政策：隐私政策,开发者服务条款：服务条款,开发者网站：https://thebinarymill.com/,"权限：存储空间, 麦克风",急速滑翔,2023-07-20 01:49:16,2023-07-20 01:52:23

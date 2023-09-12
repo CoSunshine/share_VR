@@ -1,0 +1,39 @@
+name,简介,支持退款,分类,标签,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,url,发行商,开发者隐私政策,开发者服务条款,开发者网站,名称,start,end
+银河钓手,"简介游玩这款由艾美奖获奖作品《入侵》的创作者创作的钓鱼游戏吧！我们未来的银河英雄，Mac & Cheez，被一种外星海洋生物吞噬，需要你这位勇敢而值得信赖的机器人拯救他们！你可以在遥远的世界捕捉外星鱼，制作太空时代的渔具，完成任务，设计你的未来水族馆，追踪神秘的怪物，来拯救你的朋友们！
+-在多个世界捕捉超过60条外星鱼!
+-解锁异域情调的渔具!
+-超过5小时的沉浸式单人战役!
+-用独特的捕鱼技能提升你的钓鱼能力!
+-制作独特的物品来提升你的游戏体验!
+-装饰您的定制水族馆!
+-BaoBab 原创故事!
+-获奖原声带!游玩这款由艾美奖获奖作品《入侵》的创作者创作的钓鱼游戏吧！我们未来的银河英雄，Mac & Cheez，被一种外星海洋生物吞噬，需要你这位勇敢而值得信赖的机器人拯救他们！你可以在遥远的世界捕捉外星鱼，制作太空时代的渔具，完成任务，设计你的未来水族馆，追踪神秘的怪物，来拯救你的朋友们！
+-在多个世界捕捉超过60条外星鱼!
+-解锁异域情调的渔具!
+-超过5小时的沉浸式单人战役!
+-用独特的捕鱼技能提升你的钓鱼能力!
+-制作独特的物品来提升你的游戏体验!
+-装饰您的定制水族馆!
+-BaoBab 原创故事!
+-获奖原声带!",支持退款申请：PICO退款政策,分类：应用,"标签：冒险, 模拟, 科幻","语言：英语, 简体中文","使用范围：原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO 4 Pro",版本：1.20.230301,更新日期：2023-3-9,大小：1.3 G,开发者：Baobab Studios,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://www.baobabstudios.com/baobab-privacy-policy at 2023.07.30 05:41:42&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",发行商：Baobab Studios,开发者隐私政策：隐私政策,开发者服务条款：服务条款,开发者网站：https://www.galacticcatch.com/,银河钓手,2023-07-30 05:40:04,2023-07-30 05:42:48

@@ -1,0 +1,33 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,开发者网站,名称,start,end
+死亡预感,"简介《死亡预感》是一款快节奏的射箭类剧情冒险游戏，其特点是简单明了却美轮美奂的箭术以及非比寻常的时间流逝系统，其灵感来源于经典游戏《SuperHot》。在这款 VR 动作游戏中，唯有依靠敏捷的身手和快速的反应，您才能存活到最后。
+您必须在远程战斗中击败机器人，因为只有您的力量才能终结敌人内心的疯狂。除了基本机器人以外，您还会遭遇更高级的生物，所以您必须不断磨炼技能。试着夺取敌人的武器，以彼之道还施彼身。
+BOSS 关卡极具挑战性，最终之战有望迎来史诗级大战。在这款游戏之中，您不仅能够获得非凡的游戏体验，更是可以沉浸式进入一个奇异的世界，体会其中特殊的时间操控系统。
+切记，时间与箭术有着千丝万缕的联系，所以要行事睿智，提前思考。
+
+为胜利而战 - 敢于成为永恒的弓箭手！《死亡预感》是一款快节奏的射箭类剧情冒险游戏，其特点是简单明了却美轮美奂的箭术以及非比寻常的时间流逝系统，其灵感来源于经典游戏《SuperHot》。在这款 VR 动作游戏中，唯有依靠敏捷的身手和快速的反应，您才能存活到最后。
+您必须在远程战斗中击败机器人，因为只有您的力量才能终结敌人内心的疯狂。除了基本机器人以外，您还会遭遇更高级的生物，所以您必须不断磨炼技能。试着夺取敌人的武器，以彼之道还施彼身。
+BOSS 关卡极具挑战性，最终之战有望迎来史诗级大战。在这款游戏之中，您不仅能够获得非凡的游戏体验，更是可以沉浸式进入一个奇异的世界，体会其中特殊的时间操控系统。
+切记，时间与箭术有着千丝万缕的联系，所以要行事睿智，提前思考。
+
+为胜利而战 - 敢于成为永恒的弓箭手！",支持退款申请：PICO退款政策,分类：游戏,"标签：动作, 射击, 冒险",游戏形式：单人,语言：英语,"使用范围：原地站立, 房间移动",控制方式：6-DOF 手柄,"支持平台：PICO 4 Pro, PICO 4, PICO Neo3",版本：1.0.4,更新日期：2023-4-27,大小：883.3 MB,开发者：XOCUS,发行商：XOCUS,开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://xocus.co/privacypolicy_ch at 2023.07.24 03:06:21&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[21,969][1180,1083]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者网站：https://xocus.co/,死亡预感,2023-07-24 03:04:01,2023-07-24 03:07:23

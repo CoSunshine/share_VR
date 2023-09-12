@@ -1,0 +1,43 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,权限,url,名称,start,end
+求生国度,"简介-末日求生 硬核沉浸末日探索：
+僵尸末日的世界里，生存已经成为了挑战。食物、水源、营地...它们都是你在末世里能够幸存的保障。钓鱼、打猎、采集或搜寻废弃的房屋。在一个危险时刻等待着你的世界里，满足基本的生存需求都成为了一件不容易的事。
+-并肩作战 只有合作方能拯救：
+他们说合作是关键。在这里也一样。Survival Nation是一款以多人模式为重点的游戏。你可以加入其他玩家，共同参与冒险和探索世界。与其他人交谈，交换物品和补给品，在战斗中合作。如果你不想合作，可以加入PVP游戏模式，提供沉浸式体验，将生存元素与完全自由的选择相结合。你可以决定是与其他玩家合作还是追捕他们以获取战利品。别担心。如果你仍然不想与其他玩家一起玩，你可以享受单人模式，独自玩乐。
+-磨练技巧 成为末日求生大师：
+丰富的RPG成长要素，超多的任务和各种支线。在冒险和求生中磨练你的技巧，所有的付出和努力都将使你变得更加强大。三大技能树与不同搭配组合，成为你心目中的末日求生大师吧。
+-探索未知 荒废的世界里寻宝：
+荒废的末日世界里失去了活力，人迹罕至的角落里或许有着能对你生存大有帮助的“宝物”。带上金属探测仪，踏入那些隐藏的角落，用你的智慧解开宝藏的谜题吧。
+-末世武器库 挑选你的趁手武器：
+《求生国度》为大家提供了超多不同的武器，每种武器都有着独一无二的手感与装填方式。他们性能各有所长，挑选出最适合你的求生利器吧。对于那些真正的猎人来说，弓才是心中首选。
+为生存而战！只有少数人才能取得成功的末日世界，你会是他们当中的一员吗？-末日求生 硬核沉浸末日探索：
+僵尸末日的世界里，生存已经成为了挑战。食物、水源、营地...它们都是你在末世里能够幸存的保障。钓鱼、打猎、采集或搜寻废弃的房屋。在一个危险时刻等待着你的世界里，满足基本的生存需求都成为了一件不容易的事。
+-并肩作战 只有合作方能拯救：
+他们说合作是关键。在这里也一样。Survival Nation是一款以多人模式为重点的游戏。你可以加入其他玩家，共同参与冒险和探索世界。与其他人交谈，交换物品和补给品，在战斗中合作。如果你不想合作，可以加入PVP游戏模式，提供沉浸式体验，将生存元素与完全自由的选择相结合。你可以决定是与其他玩家合作还是追捕他们以获取战利品。别担心。如果你仍然不想与其他玩家一起玩，你可以享受单人模式，独自玩乐。
+-磨练技巧 成为末日求生大师：
+丰富的RPG成长要素，超多的任务和各种支线。在冒险和求生中磨练你的技巧，所有的付出和努力都将使你变得更加强大。三大技能树与不同搭配组合，成为你心目中的末日求生大师吧。
+-探索未知 荒废的世界里寻宝：
+荒废的末日世界里失去了活力，人迹罕至的角落里或许有着能对你生存大有帮助的“宝物”。带上金属探测仪，踏入那些隐藏的角落，用你的智慧解开宝藏的谜题吧。
+-末世武器库 挑选你的趁手武器：
+《求生国度》为大家提供了超多不同的武器，每种武器都有着独一无二的手感与装填方式。他们性能各有所长，挑选出最适合你的求生利器吧。对于那些真正的猎人来说，弓才是心中首选。
+为生存而战！只有少数人才能取得成功的末日世界，你会是他们当中的一员吗？",支持退款申请：PICO退款政策,分类：游戏,"标签：动作, 射击, 角色扮演","游戏形式：多人, 单人","语言：英语, 简体中文, 繁体中文, 德语, 日语, 韩语, 西班牙语, 意大利语","使用范围：原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO Neo3 Eye, PICO Neo3 Pro, PICO 4 Pro",版本：1.4.6cn,更新日期：2023-7-10,大小：1.2 G,开发者：Wenkly Studio,发行商：Wenkly Studio,开发者隐私政策：隐私政策,权限：麦克风,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://www.wenklystudio.com/privacy-policy-survivalnation-china at 2023.07.24 02:34:37&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",求生国度,2023-07-24 02:31:08,2023-07-24 02:34:58

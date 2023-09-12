@@ -1,0 +1,67 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,开发者服务条款,开发者网站,名称,start,end
+数学世界 VR,"简介数学世界VR将有趣的小游戏与简单的数学相结合，以帮助磨练你的头脑。这也被称为 ""心理数学""，它是在我们的头脑中进行数学运算的过程，而不需要使用计算器。心理数学是保持大脑快速和敏锐的好方法，也有助于提高整体认知能力。
+
+数学世界VR》配有12个迷你游戏，供所有年龄段的人享受! 谁说数学不可以是有趣的？
+
+*掷骰子
+*弓箭手
+*篮球自由投掷
+*打板子
+*数字切片机
+*棒球投掷
+*目标射手
+*狂欢节飞镖
+*掷骰子
+*迷你高尔夫
+*多人彩弹射击
+*弹射
+
+数学世界VR中的每个小游戏都结合了简单的数学，增加了一个有趣的挑战。无论是投掷斧头 ，还是用飞镖投掷气球的偶数/偶数，或者用弓箭射向方程的正确答案，你都会有无数个小时的乐趣--同时提高你的数学和认知能力! 肯定感觉不到，但你会发现，在你玩过之后，你可以更快地开始做心智数学了！这是很重要的！
+
+数学世界VR是一款对残疾人玩家友好的游戏，可以在坐着或站着的情况下静止地玩。
+
+今天就用《数学世界VR》跳进数学和乐趣的世界吧，这是一款经STEM认证的教育性数学VR游戏!
+数学世界VR将有趣的小游戏与简单的数学相结合，以帮助磨练你的头脑。这也被称为 ""心理数学""，它是在我们的头脑中进行数学运算的过程，而不需要使用计算器。心理数学是保持大脑快速和敏锐的好方法，也有助于提高整体认知能力。
+
+数学世界VR》配有12个迷你游戏，供所有年龄段的人享受! 谁说数学不可以是有趣的？
+
+*掷骰子
+*弓箭手
+*篮球自由投掷
+*打板子
+*数字切片机
+*棒球投掷
+*目标射手
+*狂欢节飞镖
+*掷骰子
+*迷你高尔夫
+*多人彩弹射击
+*弹射
+
+数学世界VR中的每个小游戏都结合了简单的数学，增加了一个有趣的挑战。无论是投掷斧头 ，还是用飞镖投掷气球的偶数/偶数，或者用弓箭射向方程的正确答案，你都会有无数个小时的乐趣--同时提高你的数学和认知能力! 肯定感觉不到，但你会发现，在你玩过之后，你可以更快地开始做心智数学了！这是很重要的！
+
+数学世界VR是一款对残疾人玩家友好的游戏，可以在坐着或站着的情况下静止地玩。
+
+今天就用《数学世界VR》跳进数学和乐趣的世界吧，这是一款经STEM认证的教育性数学VR游戏!
+",支持退款申请：PICO退款政策,分类：游戏,"标签：教育, 解谜, 卡通",游戏形式：单人,"语言：简体中文, 日语, 西班牙语","使用范围：原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO 4 Pro",版本：3.0,更新日期：2023-4-10,大小：518.3 MB,开发者：Skill Prepare,发行商：Skill Prepare,开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://skillprepare.com/privacy-chinese at 2023.07.24 04:34:43&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者服务条款：服务条款,开发者网站：https://skillprepare.com/,数学世界 VR,2023-07-24 04:32:07,2023-07-24 04:35:28

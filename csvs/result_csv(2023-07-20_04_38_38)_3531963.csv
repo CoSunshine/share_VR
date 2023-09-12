@@ -1,0 +1,37 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,url,开发者隐私政策,权限,名称,start,end
+猫咪密室逃脱,"简介活动小助手微信：damaovr666
+【新增存档功能；2022.12.20修复已知bug；新增金币数量~】
+游戏设计：包含教程关卡的五大主题太空飞船、海岛渔村、山顶雪场、海上游轮，超过30间充满谜题与故事的密室。
+适合年龄段：全年龄
+是否有恐怖元素：无
+大量精彩的关卡设计，令人身临其境的剧情模式，有趣的剧本杀推理，丰富的体感挑战游戏，切水果、打地鼠等等让密室逃脱趣味横生。
+玩家需要穿越到不同的时空之中，解开密室谜团，有浩瀚无垠的星际旅行关卡，在未来的宇宙飞船中找寻真正的凶手！有老人与海的渔村关卡，解谜重重机关，不惜一切代价拯救村庄的英雄故事！有极地雪国关卡，寒风刺骨中与强大的boss进行对抗！有海上邮轮关卡，陷入无尽轮回的命运......
+游戏地图中还有大量的隐藏宝藏，获取分数并与线上网友pk排名，达成密室达人成就！活动小助手微信：damaovr666
+【新增存档功能；2022.12.20修复已知bug；新增金币数量~】
+游戏设计：包含教程关卡的五大主题太空飞船、海岛渔村、山顶雪场、海上游轮，超过30间充满谜题与故事的密室。
+适合年龄段：全年龄
+是否有恐怖元素：无
+大量精彩的关卡设计，令人身临其境的剧情模式，有趣的剧本杀推理，丰富的体感挑战游戏，切水果、打地鼠等等让密室逃脱趣味横生。
+玩家需要穿越到不同的时空之中，解开密室谜团，有浩瀚无垠的星际旅行关卡，在未来的宇宙飞船中找寻真正的凶手！有老人与海的渔村关卡，解谜重重机关，不惜一切代价拯救村庄的英雄故事！有极地雪国关卡，寒风刺骨中与强大的boss进行对抗！有海上邮轮关卡，陷入无尽轮回的命运......
+游戏地图中还有大量的隐藏宝藏，获取分数并与线上网友pk排名，达成密室达人成就！",支持退款申请：PICO退款政策,分类：游戏,"标签：解谜, 冒险, 探索",游戏形式：单人,语言：简体中文,"使用范围：房间移动, 原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO Neo3 Eye, PICO Neo3 Pro, PICO 4 Pro",版本：1.22,更新日期：2023-4-28,大小：1.2 G,开发者：damao,发行商：damao,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://kdocs.cn/l/ctjn3eQtCGPr at 2023.07.20 04:38:13&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[34,969][1167,1083]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者隐私政策：隐私政策,权限：存储空间,猫咪密室逃脱,2023-07-20 04:35:06,2023-07-20 04:38:38

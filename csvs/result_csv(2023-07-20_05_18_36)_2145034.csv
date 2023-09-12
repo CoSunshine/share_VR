@@ -1,0 +1,39 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,开发者网站,权限,名称,start,end
+隔离区：辐岛,"简介隔离区：辐岛是一款第一视角恐怖探险游戏，玩家将扮演资深核能工程师，在反物质世界里探索未知，躲避潜伏在黑暗中的威胁，并安全逃离。
+
+-沉浸式恐怖体验-
+·探索: 究竟发生了什么？你又如何被卷入无人时空？在这危机四伏的黑暗空间，你将在恐惧与疑惑中开启令人毛骨悚然的未知之旅。 
+·敌人: 诡异的怪物彷佛无处不在，你必须一边躲避它的追击，一边想方设法逃出生天，这将是一场智与勇的对决。
+·收集: 通过吸取并收集匹配公寓内相同物件产生的正反物质能量为手电筒蓄电，撑到你能逃出房间的那一刻。战略，经验与对黑暗环境的认知将是你能否征服强敌的关键。
+·生存: 神秘而邪恶的声音如影随形，唯有手中微弱的光源貌似能阻止它的靠近。如何积攒光能，为手电筒蓄电，将是你在这个黑暗房间里独自生存的重要考验。
+
+欢迎添加我们的微信：wanVR666 进入微信群，或加入官方QQ群：117346265 与我们互动交流，更有群内定期福利礼包等你来领取呦！隔离区：辐岛是一款第一视角恐怖探险游戏，玩家将扮演资深核能工程师，在反物质世界里探索未知，躲避潜伏在黑暗中的威胁，并安全逃离。
+
+-沉浸式恐怖体验-
+·探索: 究竟发生了什么？你又如何被卷入无人时空？在这危机四伏的黑暗空间，你将在恐惧与疑惑中开启令人毛骨悚然的未知之旅。 
+·敌人: 诡异的怪物彷佛无处不在，你必须一边躲避它的追击，一边想方设法逃出生天，这将是一场智与勇的对决。
+·收集: 通过吸取并收集匹配公寓内相同物件产生的正反物质能量为手电筒蓄电，撑到你能逃出房间的那一刻。战略，经验与对黑暗环境的认知将是你能否征服强敌的关键。
+·生存: 神秘而邪恶的声音如影随形，唯有手中微弱的光源貌似能阻止它的靠近。如何积攒光能，为手电筒蓄电，将是你在这个黑暗房间里独自生存的重要考验。
+
+欢迎添加我们的微信：wanVR666 进入微信群，或加入官方QQ群：117346265 与我们互动交流，更有群内定期福利礼包等你来领取呦！",支持退款申请：PICO退款政策,分类：游戏,"标签：冒险, 解谜, 恐怖",游戏形式：单人,"语言：英语, 简体中文, 德语, 法语, 西班牙语, 日语","使用范围：房间移动, 原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO 4 Pro",版本：2.03,更新日期：2023-3-23,大小：209.4 MB,开发者：Suplife Games,发行商：Suplife Games,开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://fadinglightvr.com/privacy-policy/ at 2023.07.20 05:17:57&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者网站：https://vrsuplife.com,权限：存储空间,隔离区：辐岛,2023-07-20 05:14:43,2023-07-20 05:18:36

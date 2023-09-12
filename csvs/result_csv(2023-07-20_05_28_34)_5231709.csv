@@ -1,0 +1,47 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,开发者服务条款,url,开发者网站,权限,名称,start,end
+里奇的木板体验,"简介里奇的木板体验 是为在最短的时间内唤起你最强烈的情感而生。邀请你的朋友和家人走上80层楼高的木板。你们会感到膝盖发软，手心出汗。
+
+如果这还不能吸引他们注意，圣诞老人模拟器、噩梦模式、天空写作或在三个英雄学院的任务中飞行一定能成功。
+
+如果你期望拥有两小时的游戏时光，这可能不适合你，请不要买它！如果你打算招待你的朋友和家人，它是不二之选。特别是当你把它提高一阶，并任意设置一个真正的木板。这是全世界第一个能将现实世界的物体克隆到VR世界中的系统。任意宽度，任意长度都可以。
+
+安全须知：
+为避免受伤，请确保你的客人遵守以下准则：
+
+1. 不要在VR中推人。这将破坏沉浸感，破坏与等待中玩家的信任。
+2.指导玩家走下木板，严禁跳跃。
+3.确保两位选手就位，接住摔倒的人。
+里奇的木板体验 是为在最短的时间内唤起你最强烈的情感而生。邀请你的朋友和家人走上80层楼高的木板。你们会感到膝盖发软，手心出汗。
+
+如果这还不能吸引他们注意，圣诞老人模拟器、噩梦模式、天空写作或在三个英雄学院的任务中飞行一定能成功。
+
+如果你期望拥有两小时的游戏时光，这可能不适合你，请不要买它！如果你打算招待你的朋友和家人，它是不二之选。特别是当你把它提高一阶，并任意设置一个真正的木板。这是全世界第一个能将现实世界的物体克隆到VR世界中的系统。任意宽度，任意长度都可以。
+
+安全须知：
+为避免受伤，请确保你的客人遵守以下准则：
+
+1. 不要在VR中推人。这将破坏沉浸感，破坏与等待中玩家的信任。
+2.指导玩家走下木板，严禁跳跃。
+3.确保两位选手就位，接住摔倒的人。
+",支持退款申请：PICO退款政策,分类：游戏,"标签：休闲, 恐怖, 探索",游戏形式：单人,"语言：德语, 英语, 法语, 西班牙语, 日语, 韩语, 简体中文","使用范围：房间移动, 原地站立","控制方式：6-DOF 手柄, 头控","支持平台：PICO Neo3 Pro, PICO Neo3, PICO 4, PICO 4 Pro",版本：1.9.1,更新日期：2022-8-25,大小：505.3 MB,开发者：Toast VR,发行商：Toast VR,开发者隐私政策：隐私政策,开发者服务条款：服务条款,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://toast.games/privacypolicy/ at 2023.07.20 05:27:55&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[12,969][1189,1083]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者网站：https://toast.games/,"权限：存储空间, 麦克风",里奇的木板体验,2023-07-20 05:25:16,2023-07-20 05:28:34

@@ -1,0 +1,81 @@
+name,简介,不支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,url,开发者隐私政策,开发者服务条款,开发者网站,权限,名称,start,end
+枪械突击,"简介更新补丁 0.8.1.4
+
+与朋友一起游玩？和伙伴共同战斗？本次全新的组队功能将会实现你的愿望！
+
+- 弩现在在换弹前可以进行三次射击
+- 全新的组队功能
+- 弓箭机制调整，现在快速连续射击将会造成更少的伤害，同时每个击杀将会返还玩家12发的弹药。
+- 新的护盾经验值奖励， 打破对手的每个盾牌等级都会奖励 100 XP。 适用于所有游戏模式。
+- 与大逃杀相关的新赏金
+- 新的社区皮肤
+- 设置中新增上传设备日志功能
+- 改进了 Inferno Battle Royale 地图中的纹理
+- 大逃杀中的转轮机枪最大弹药上限从 300 减少到 200
+- 增加了融合步枪的射击半径，减少了充满电的时间，爆头增加到 200
+- 火箭发射器 EMP 使对手的喷气背包失效更长时间
+- 大逃杀中的观众现在可以看到玩家团队图标和名称
+- 删除了与必须玩特定地图相关的赏金
+- 在 BR 拾起火箭发射器现在默认给 2 个弹药而不是 1 个
+- 刀已从玩家背上显示中移除。
+- 甜甜圈模式现在根据地图中其他玩家的数量给出分数（玩家越少意味着每秒分数越少）
+- 将大逃杀预热时间从 120 秒增加到 180 秒
+- 被社区举报的玩家现在的禁言时间从10分钟上升到3天
+- 修复：如果你对自己使用 EMP，无法获得 XP
+- 修复：某些情况下玩家的意外隐形
+- 修正：武器套在彼此之上应该是固定的
+- 修复：弓伤害上限错误
+- 修复：在设置中关闭 HUD 时，大逃杀无法正确关闭
+- 修复：部分玩家出现的网络连接问题
+- 修复：一些随机的耳机崩溃或摘下/戴上耳机时崩溃的情况
+- 修正：玩家显示断开连接但仍然出现在游戏中更新补丁 0.8.1.4
+
+与朋友一起游玩？和伙伴共同战斗？本次全新的组队功能将会实现你的愿望！
+
+- 弩现在在换弹前可以进行三次射击
+- 全新的组队功能
+- 弓箭机制调整，现在快速连续射击将会造成更少的伤害，同时每个击杀将会返还玩家12发的弹药。
+- 新的护盾经验值奖励， 打破对手的每个盾牌等级都会奖励 100 XP。 适用于所有游戏模式。
+- 与大逃杀相关的新赏金
+- 新的社区皮肤
+- 设置中新增上传设备日志功能
+- 改进了 Inferno Battle Royale 地图中的纹理
+- 大逃杀中的转轮机枪最大弹药上限从 300 减少到 200
+- 增加了融合步枪的射击半径，减少了充满电的时间，爆头增加到 200
+- 火箭发射器 EMP 使对手的喷气背包失效更长时间
+- 大逃杀中的观众现在可以看到玩家团队图标和名称
+- 删除了与必须玩特定地图相关的赏金
+- 在 BR 拾起火箭发射器现在默认给 2 个弹药而不是 1 个
+- 刀已从玩家背上显示中移除。
+- 甜甜圈模式现在根据地图中其他玩家的数量给出分数（玩家越少意味着每秒分数越少）
+- 将大逃杀预热时间从 120 秒增加到 180 秒
+- 被社区举报的玩家现在的禁言时间从10分钟上升到3天
+- 修复：如果你对自己使用 EMP，无法获得 XP
+- 修复：某些情况下玩家的意外隐形
+- 修正：武器套在彼此之上应该是固定的
+- 修复：弓伤害上限错误
+- 修复：在设置中关闭 HUD 时，大逃杀无法正确关闭
+- 修复：部分玩家出现的网络连接问题
+- 修复：一些随机的耳机崩溃或摘下/戴上耳机时崩溃的情况
+- 修正：玩家显示断开连接但仍然出现在游戏中",不支持退款申请：PICO退款政策,分类：游戏,"标签：社交, 射击, 动作",游戏形式：多人,语言：简体中文,"使用范围：房间移动, 原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO 4 Pro",版本：0.8.1.8,更新日期：2023-7-12,大小：686.1 MB,开发者：Gun Raiders,发行商：Gun Raiders,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://gunraiders.com/privacy-policy-cn at 2023.07.20 01:53:10&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者隐私政策：隐私政策,开发者服务条款：服务条款,开发者网站：https://gunraiders.com,权限：麦克风,枪械突击,2023-07-20 01:49:12,2023-07-20 01:53:34

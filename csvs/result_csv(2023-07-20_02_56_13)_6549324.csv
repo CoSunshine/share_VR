@@ -1,0 +1,46 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,url,开发者隐私政策,开发者服务条款,开发者网站,权限,名称,start,end
+监狱大佬VR,"简介监狱大佬VR是一款以制作和交易为主题的游戏，玩家可以为狱友制作香烟，酒，饼干等好东西！你的声誉越高，你就会得到更多牢房自定义权益！在监狱里也能富得流油，富甲一方！你就是真正的监狱大佬！
+
+夜晚降临，你可以随意将手中的物料制作为成品。但是，一定要保持警惕。守卫会巡视，如果他发现你的物品，你的生意就彻底泡汤了。守卫靠近时，一定要藏好你的物品，这样才不会让你的心血白费。
+
+做工可以有更多发现并提升你的声誉。交易物品赚钱，用钱买更多的物料，制作更多的物品。在制作和交易之间找到平衡。尽量在购买更多物料和工具的同时，让你的牢房蓬荜生辉。
+
+学习每一种制作方法，你就可能成为4所监狱的大佬，并成功逃脱！如果你想要试试自己的水平，可以到挑战模式中，将所有准备好的物料在有限时间内制作成物品！
+游戏特色：
+- 11种不同的物品可供制作
+- 4个监狱，超过80种任务
+- 解锁挑战模式
+- 最带感最完美的房间规模VR
+- 超有情调的爵士舞曲！监狱大佬VR是一款以制作和交易为主题的游戏，玩家可以为狱友制作香烟，酒，饼干等好东西！你的声誉越高，你就会得到更多牢房自定义权益！在监狱里也能富得流油，富甲一方！你就是真正的监狱大佬！
+
+夜晚降临，你可以随意将手中的物料制作为成品。但是，一定要保持警惕。守卫会巡视，如果他发现你的物品，你的生意就彻底泡汤了。守卫靠近时，一定要藏好你的物品，这样才不会让你的心血白费。
+
+做工可以有更多发现并提升你的声誉。交易物品赚钱，用钱买更多的物料，制作更多的物品。在制作和交易之间找到平衡。尽量在购买更多物料和工具的同时，让你的牢房蓬荜生辉。
+
+学习每一种制作方法，你就可能成为4所监狱的大佬，并成功逃脱！如果你想要试试自己的水平，可以到挑战模式中，将所有准备好的物料在有限时间内制作成物品！
+游戏特色：
+- 11种不同的物品可供制作
+- 4个监狱，超过80种任务
+- 解锁挑战模式
+- 最带感最完美的房间规模VR
+- 超有情调的爵士舞曲！",支持退款申请：PICO退款政策,分类：游戏,"标签：动作, 策略, 卡通",游戏形式：单人,"语言：简体中文, 英语, 日语, 西班牙语, 法语, 韩语","使用范围：原地站立, 原地坐姿, 房间移动",控制方式：6-DOF 手柄,"支持平台：PICO Neo3 Pro, PICO Neo3 Eye, PICO Neo3, PICO 4, PICO 4 Pro",版本：1.6.0.19,更新日期：2021-11-18,大小：407.4 MB,开发者：TREBUCHET,发行商：TREBUCHET,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""FakeBrowser"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[48,85][286,139]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""https://trebuchet.fun/prison-boss-vr-eula at 2023.07.20 02:55:31&#10;"" resource-id=""com.android.example.cameraxapp:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,937][1200,1160]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+</hierarchy>",开发者隐私政策：隐私政策,开发者服务条款：服务条款,开发者网站：https://trebuchet.fun/,权限：存储空间,监狱大佬VR,2023-07-20 02:52:21,2023-07-20 02:56:13

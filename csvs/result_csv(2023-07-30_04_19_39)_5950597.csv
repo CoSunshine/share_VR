@@ -1,0 +1,59 @@
+name,简介,不支持退款,分类,标签,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,权限,名称,start,end
+K歌VR,"简介《K歌VR》是一款VR K歌游戏，玩家可在游戏内自由K歌或与真人歌手同台K歌，最终形成记录玩家舞台演唱的MV视频。
+
+核心模式:
+1、与歌手同台K歌，享受演唱会级别高品质舞美视听效果。
+2、代入演唱者视角，形成第三视角玩家与歌手同框的K歌视频。
+
+具体玩法：
+1、玩家可自由选择虚拟角色直达现场。
+2、玩家可跟随伴奏在麦克风前唱歌！还可切换原/伴唱模式。
+3、演唱评分将根据玩家歌唱的匹配度进行打分，匹配度越高，得分越高，最终在歌曲结束时会取完整评分。
+4、在歌曲中间，会出现多种舞台效果选项，玩家可自由选择特效，打造不一样的舞台氛围效果。
+5、在歌曲中间，会有REC录像功能记录玩家唱歌的姿态，在歌曲结束后，玩家可以预览到自己的演唱MV视频。
+
+快来释放你的声音，触达灵魂高分，尽情歌唱！High翻全场！
+·录制精彩瞬间，悦动快乐分享
+玩法：
+·自由选择你的虚拟角色直达现场
+·释放你的声音，触达灵魂高分，High翻全场
+打破空间距离限制，让你在日常无法接触的场景下尽情歌唱！《K歌VR》是一款VR K歌游戏，玩家可在游戏内自由K歌或与真人歌手同台K歌，最终形成记录玩家舞台演唱的MV视频。
+
+核心模式:
+1、与歌手同台K歌，享受演唱会级别高品质舞美视听效果。
+2、代入演唱者视角，形成第三视角玩家与歌手同框的K歌视频。
+
+具体玩法：
+1、玩家可自由选择虚拟角色直达现场。
+2、玩家可跟随伴奏在麦克风前唱歌！还可切换原/伴唱模式。
+3、演唱评分将根据玩家歌唱的匹配度进行打分，匹配度越高，得分越高，最终在歌曲结束时会取完整评分。
+4、在歌曲中间，会出现多种舞台效果选项，玩家可自由选择特效，打造不一样的舞台氛围效果。
+5、在歌曲中间，会有REC录像功能记录玩家唱歌的姿态，在歌曲结束后，玩家可以预览到自己的演唱MV视频。
+
+快来释放你的声音，触达灵魂高分，尽情歌唱！High翻全场！
+·录制精彩瞬间，悦动快乐分享
+玩法：
+·自由选择你的虚拟角色直达现场
+·释放你的声音，触达灵魂高分，High翻全场
+打破空间距离限制，让你在日常无法接触的场景下尽情歌唱！",不支持退款申请：PICO退款政策,分类：应用,"标签：音乐, 休闲, 放松",语言：简体中文,"使用范围：房间移动, 原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4 Pro, PICO 4, PICO Neo3",版本：1.0.5,更新日期：2023-7-27,大小：1.1 G,开发者：Nice Game,发行商：Nice Game,开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://nice-game.cn/privacy.html at 2023.07.30 04:19:17&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[21,969][1180,1083]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>","权限：存储空间, 相机, 麦克风",K歌VR,2023-07-30 04:16:16,2023-07-30 04:19:39

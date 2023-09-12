@@ -1,0 +1,44 @@
+name,简介,不支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,权限,url,名称,start,end
+箭歌行之神箭手,"简介欢迎添加 WX:picokf , 跟开发者一起来创造接下来的游戏。
+
+  《箭歌行之神箭手》是我们VR工作室继《功夫节奏》后带来的另一部国风的游戏。
+   游戏设定的人物玩家是作为一名 '箭客游侠' 行走在中国诗词书画中，用箭和剑击退古幻的敌人通关收集到四大文化的瑰宝。我们力求做好射击和战斗的体验，中间融入我们自己中国的画风和文化、历史、音乐等众多元素。
+
+   目前游戏共有四大关卡，分别为《兰亭集序》、《千里江山图》、《出塞》、《赤壁怀古》，这些场景是基于我们团队对中国诗词书画的喜爱和理解进行构建，如果大家有喜欢的场景也可以告诉我们，我们也会考虑将其融入我们的游戏场景中。
+
+另外《箭歌行》并不是一个收费版的Demo的存在，《箭歌行》将永久免费。欢迎大家可以给《箭歌行》提出一些建议和吐槽，我们也会根据这些建议进行迭代和更新。目前的关卡是4关，如果能Get到好的想法，我们会升级战斗系统和成就系统和增加更多的关卡。
+
+  《箭歌行》里面也保留了给其姐妹篇《功夫节奏》的一些推荐，如果不喜欢我们也保留了关闭推荐按钮，一键关闭即可。当然您如果也能喜欢我们的姐妹篇，我们会无比荣幸，毕竟我们现在也还处在为爱发电的阶段^_^
+
+   我们并不是孤独的创作者，我们是众多爱好VR玩家想法的实践者，欢迎添加WX:picokf 跟我们交流和建议，谢谢。欢迎添加 WX:picokf , 跟开发者一起来创造接下来的游戏。
+
+  《箭歌行之神箭手》是我们VR工作室继《功夫节奏》后带来的另一部国风的游戏。
+   游戏设定的人物玩家是作为一名 '箭客游侠' 行走在中国诗词书画中，用箭和剑击退古幻的敌人通关收集到四大文化的瑰宝。我们力求做好射击和战斗的体验，中间融入我们自己中国的画风和文化、历史、音乐等众多元素。
+
+   目前游戏共有四大关卡，分别为《兰亭集序》、《千里江山图》、《出塞》、《赤壁怀古》，这些场景是基于我们团队对中国诗词书画的喜爱和理解进行构建，如果大家有喜欢的场景也可以告诉我们，我们也会考虑将其融入我们的游戏场景中。
+
+另外《箭歌行》并不是一个收费版的Demo的存在，《箭歌行》将永久免费。欢迎大家可以给《箭歌行》提出一些建议和吐槽，我们也会根据这些建议进行迭代和更新。目前的关卡是4关，如果能Get到好的想法，我们会升级战斗系统和成就系统和增加更多的关卡。
+
+  《箭歌行》里面也保留了给其姐妹篇《功夫节奏》的一些推荐，如果不喜欢我们也保留了关闭推荐按钮，一键关闭即可。当然您如果也能喜欢我们的姐妹篇，我们会无比荣幸，毕竟我们现在也还处在为爱发电的阶段^_^
+
+   我们并不是孤独的创作者，我们是众多爱好VR玩家想法的实践者，欢迎添加WX:picokf 跟我们交流和建议，谢谢。",不支持退款申请：PICO退款政策,分类：游戏,"标签：动作, 射击, 冒险",游戏形式：单人,语言：简体中文,"使用范围：房间移动, 原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4 Pro, PICO 4, PICO Neo3, PICO Neo3 Pro",版本：13,更新日期：2023-7-6,大小：1.1 G,开发者：伙伴熊,发行商：伙伴熊,开发者隐私政策：隐私政策,权限：存储空间,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""FakeBrowser"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[48,85][286,139]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""https://www.hbx.plus/pico/ArrowSongJourney.html at 2023.07.20 04:19:16&#10;"" resource-id=""com.android.example.cameraxapp:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,901][1200,1195]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+</hierarchy>",箭歌行之神箭手,2023-07-20 04:14:45,2023-07-20 04:19:59

@@ -1,0 +1,35 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,url,开发者隐私政策,权限,名称,start,end
+淤能碁吕物语,"简介逼真互动特效，解锁女主皮肤，刺激的巨型野兽BOSS战。隐藏式结局设计，世界由你拯救。蒸汽动力和风题材，极具东方唯美元素。
+特色 ：
+·这是一款讲述你和搭档两人的冒险和纽带的VR动作冒险游戏。 
+·与搭档一起解开谜题，迎战巨大的神明。 
+·VR逃脱冒险游戏《Last Labyrinth》开发团队推出的全新作品。 
+故事 ：
+大正十二年，在与依靠蒸汽装置和蒸汽动力蓬勃发展的日本非常相似的异世界，浮在天空中的圣地——淤能碁吕岛出现了荒神。 镇神巫女阿春被派去镇邪息灾，她还未完成使命就被叛徒夺走一部分身体，并幽禁起来。 这样下去不仅淤能碁吕岛将毁于一旦，整个国家都会被神明破坏…… 阿春求救的祈祷将你这位平行世界的VR游戏玩家召唤到了这个世界！ 使用镇神的神具“阴阳枪”，和阿春一起在淤能碁吕岛四处奔走，阻止叛徒的阴谋吧！ 岛上的谜题“神篱”以及与巨大神明的战斗挡住了二人的前路。 这是一款来自日本的VR动作冒险游戏，讲述了你与阿春的冒险与纽带。逼真互动特效，解锁女主皮肤，刺激的巨型野兽BOSS战。隐藏式结局设计，世界由你拯救。蒸汽动力和风题材，极具东方唯美元素。
+特色 ：
+·这是一款讲述你和搭档两人的冒险和纽带的VR动作冒险游戏。 
+·与搭档一起解开谜题，迎战巨大的神明。 
+·VR逃脱冒险游戏《Last Labyrinth》开发团队推出的全新作品。 
+故事 ：
+大正十二年，在与依靠蒸汽装置和蒸汽动力蓬勃发展的日本非常相似的异世界，浮在天空中的圣地——淤能碁吕岛出现了荒神。 镇神巫女阿春被派去镇邪息灾，她还未完成使命就被叛徒夺走一部分身体，并幽禁起来。 这样下去不仅淤能碁吕岛将毁于一旦，整个国家都会被神明破坏…… 阿春求救的祈祷将你这位平行世界的VR游戏玩家召唤到了这个世界！ 使用镇神的神具“阴阳枪”，和阿春一起在淤能碁吕岛四处奔走，阻止叛徒的阴谋吧！ 岛上的谜题“神篱”以及与巨大神明的战斗挡住了二人的前路。 这是一款来自日本的VR动作冒险游戏，讲述了你与阿春的冒险与纽带。",支持退款申请：PICO退款政策,分类：游戏,"标签：动作, 解谜, 冒险",游戏形式：单人,"语言：英语, 简体中文, 德语, 日语, 法语, 韩语, 西班牙语","使用范围：原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO Neo3 Eye, PICO Neo3 Pro, PICO 4 Pro",版本：1.1.0222,更新日期：2023-3-3,大小：8.0 G,开发者：AMATA,发行商：AMATA,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://amata.games/en/support/privacypolicy-zh-cn/ at 2023.07.20 03:45:10&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者隐私政策：隐私政策,权限：存储空间,淤能碁吕物语,2023-07-20 03:40:58,2023-07-20 03:46:09

@@ -1,0 +1,43 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,url,开发者隐私政策,权限,名称,start,end
+海岛余生,"简介在一次猛烈的海上风暴中，你被遗弃到一个无人小岛，你需要利用岛上有限的资源生存下来，并最终造船逃生。游戏拥有超高自由度，玩法丰富，充分利用了VR交互的特点：爬树摘椰子，叉鱼，打猎，捉螃蟹，点篝火，露营，烹饪，攀岩，种植，划竹筏，航海，建造，探索周边岛屿，寻找宝藏等等。足不出户便能体验海岛风情，吹着海风，听着海鸥吟唱，看着波浪起伏的大海，欣赏日出日落。
+游戏拥有几种模式，总有一款适合你：
+1. 休闲模式：你需要收集资源，制作道具，但不会面临死亡的威胁，静静的享受海边的风云变换，发个呆也不错
+2. 普通模式：你需要想办法应对饥饿，口渴，野外环境的威胁，试着让自己活下来最后逃生
+3. 挑战模式：挑战你的野外生存技能，适合生存经验丰富的人
+4. 创造模式：你可以发挥想象力，打造属于你的海岛，自由建造不受资源的限制，在里面种花种菜，布置自己的房间
+
+游戏攻略以及更多详情参考Pico论坛“海岛余生初期生存指南”https://bbs.picoxr.com/post/7173581824403177509
+
+官方游戏讨论QQ群：645320607 官方微信群：TillT1016
+多人已经上线，玩法不断更新中！在一次猛烈的海上风暴中，你被遗弃到一个无人小岛，你需要利用岛上有限的资源生存下来，并最终造船逃生。游戏拥有超高自由度，玩法丰富，充分利用了VR交互的特点：爬树摘椰子，叉鱼，打猎，捉螃蟹，点篝火，露营，烹饪，攀岩，种植，划竹筏，航海，建造，探索周边岛屿，寻找宝藏等等。足不出户便能体验海岛风情，吹着海风，听着海鸥吟唱，看着波浪起伏的大海，欣赏日出日落。
+游戏拥有几种模式，总有一款适合你：
+1. 休闲模式：你需要收集资源，制作道具，但不会面临死亡的威胁，静静的享受海边的风云变换，发个呆也不错
+2. 普通模式：你需要想办法应对饥饿，口渴，野外环境的威胁，试着让自己活下来最后逃生
+3. 挑战模式：挑战你的野外生存技能，适合生存经验丰富的人
+4. 创造模式：你可以发挥想象力，打造属于你的海岛，自由建造不受资源的限制，在里面种花种菜，布置自己的房间
+
+游戏攻略以及更多详情参考Pico论坛“海岛余生初期生存指南”https://bbs.picoxr.com/post/7173581824403177509
+
+官方游戏讨论QQ群：645320607 官方微信群：TillT1016
+多人已经上线，玩法不断更新中！",支持退款申请：PICO退款政策,分类：游戏,"标签：探索, 模拟, 休闲","游戏形式：单人, 多人","语言：简体中文, 英语","使用范围：原地坐姿, 原地站立, 房间移动",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO Neo3 Eye, PICO Neo3 Pro, PICO 4 Pro, PICO 4E",版本：0.7.0.7,更新日期：2023-6-29,大小：156.8 MB,开发者：仙悦科技,发行商：仙悦科技,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://fvworks.github.io/TillTomorrow/privacy_cn/ at 2023.07.20 04:30:19&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者隐私政策：隐私政策,权限：麦克风,海岛余生,2023-07-20 04:26:15,2023-07-20 04:31:26

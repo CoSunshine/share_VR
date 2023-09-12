@@ -1,0 +1,47 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,开发者服务条款,开发者网站,权限,名称,start,end
+枪械俱乐部,"简介在《枪械俱乐部》中，带着世界上最强大的武器库去打靶。令人大呼过瘾的体验性和无与伦比的真实性相结合，使《枪械俱乐部》成为终极虚拟武器模拟器。唯一缺少的是火药的味道。
+
+无与伦比的真实感
+通过《枪械俱乐部》高度详细和完全互动的武器模型，你最喜欢的枪支变得栩栩如生。根据真实世界的弹道学开发，你可以处理、装载、扣动和发射这些武器。弹开保险，选择连发或全自动，伸出枪托或架起滑轮以清除子弹：《枪械俱乐部》提供了完整的枪支射击体验。
+
+巨大的武器种类
+手枪、冲锋枪、霰弹枪、突击步枪、榴弹发射器；几十种世界上最有代表性的武器，所有这些都是复杂的模型，具有完全的互动性。
+
+升级和定制
+为你的武器解锁数百种不同的附件和升级。皮卡尼导轨系统允许无限制的定制。枪托和瞄准镜、扩展弹夹和激光瞄准器：定制你的武器以适应任何情况。
+
+互动式射程
+在众多不同的射击场景中发射你的武器，从解救人质到可怕的僵尸启示录。对于真正的射击纯粹主义者来说，还有一个经典的靶场。没有时间限制，没有分数，只有你和你的武器。在《枪械俱乐部》中，带着世界上最强大的武器库去打靶。令人大呼过瘾的体验性和无与伦比的真实性相结合，使《枪械俱乐部》成为终极虚拟武器模拟器。唯一缺少的是火药的味道。
+
+无与伦比的真实感
+通过《枪械俱乐部》高度详细和完全互动的武器模型，你最喜欢的枪支变得栩栩如生。根据真实世界的弹道学开发，你可以处理、装载、扣动和发射这些武器。弹开保险，选择连发或全自动，伸出枪托或架起滑轮以清除子弹：《枪械俱乐部》提供了完整的枪支射击体验。
+
+巨大的武器种类
+手枪、冲锋枪、霰弹枪、突击步枪、榴弹发射器；几十种世界上最有代表性的武器，所有这些都是复杂的模型，具有完全的互动性。
+
+升级和定制
+为你的武器解锁数百种不同的附件和升级。皮卡尼导轨系统允许无限制的定制。枪托和瞄准镜、扩展弹夹和激光瞄准器：定制你的武器以适应任何情况。
+
+互动式射程
+在众多不同的射击场景中发射你的武器，从解救人质到可怕的僵尸启示录。对于真正的射击纯粹主义者来说，还有一个经典的靶场。没有时间限制，没有分数，只有你和你的武器。",支持退款申请：PICO退款政策,分类：游戏,"标签：动作, 射击, 模拟",游戏形式：单人,"语言：英语, 简体中文, 日语, 德语, 西班牙语, 法语, 韩语, 意大利语, 葡萄牙语, 泰语, 繁体中文","使用范围：房间移动, 原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO Neo3 Pro, PICO Neo3 Eye, PICO Neo3, PICO 4, PICO 4 Pro",版本：1.1.84.246,更新日期：2022-7-6,大小：1.0 G,开发者：The Binary Mill,发行商：The Binary Mill,开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://thebinarymill.com/privacy.php at 2023.07.20 03:52:53&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者服务条款：服务条款,开发者网站：https://thebinarymill.com/,权限：存储空间,枪械俱乐部,2023-07-20 03:49:10,2023-07-20 03:53:52

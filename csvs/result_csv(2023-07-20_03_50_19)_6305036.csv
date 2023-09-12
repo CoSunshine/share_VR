@@ -1,0 +1,29 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,开发者网站,权限,url,名称,start,end
+孤胆英雄,"简介QQ玩家请加QQ群号：562778393。
+孤胆英雄：在堡垒里消灭来犯的敌人。机枪，火箭炮，导弹，坦克，飞机，卡车，士兵，伞兵，让我们一起阻止惊心动魄，变化多端的进攻吧，体验战场的火爆与爽快。
+方块解谜：好玩但具有挑战性的解谜游戏，通过手柄消除方块，最终剩下一个有趣的立体模型。层出不穷的关卡将使你不断的解锁新模型，收集模型。突破自己，让你智商与日剧增。你准备好了吗？一起即放松又挑战的磨砺我们的大脑吧。
+宝石大作战：童年的回忆，永恒的经典。经典射手游戏，灵活使用火炮去瞄准和射击，使所有的彩色宝石掉落和爆裂。非常过瘾，一旦开始就根本停不下来。QQ玩家请加QQ群号：562778393。
+孤胆英雄：在堡垒里消灭来犯的敌人。机枪，火箭炮，导弹，坦克，飞机，卡车，士兵，伞兵，让我们一起阻止惊心动魄，变化多端的进攻吧，体验战场的火爆与爽快。
+方块解谜：好玩但具有挑战性的解谜游戏，通过手柄消除方块，最终剩下一个有趣的立体模型。层出不穷的关卡将使你不断的解锁新模型，收集模型。突破自己，让你智商与日剧增。你准备好了吗？一起即放松又挑战的磨砺我们的大脑吧。
+宝石大作战：童年的回忆，永恒的经典。经典射手游戏，灵活使用火炮去瞄准和射击，使所有的彩色宝石掉落和爆裂。非常过瘾，一旦开始就根本停不下来。",支持退款申请：PICO退款政策,分类：游戏,"标签：解谜, 放松, 休闲",游戏形式：单人,"语言：简体中文, 英语","使用范围：原地站立, 原地坐姿",控制方式：3-DOF 手柄,"支持平台：PICO Neo3, PICO 4, PICO 4 Pro, PICO 4E, PICO Neo3 Eye, PICO Neo3 Pro",版本：0.0.0.22,更新日期：2023-5-16,大小：193.6 MB,开发者：比特星空软件,发行商：比特星空软件,开发者隐私政策：隐私政策,开发者网站：http://www.bitexingkong.com,权限：存储空间,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""http://www.bitexingkong.com/Privacy-Policy-cn.html at 2023.07.20 03:49:51&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",孤胆英雄,2023-07-20 03:46:34,2023-07-20 03:50:19

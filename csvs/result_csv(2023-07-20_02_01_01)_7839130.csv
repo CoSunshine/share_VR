@@ -1,0 +1,32 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,url,发行商,开发者隐私政策,开发者服务条款,开发者网站,权限,名称,start,end
+实况钓鱼,"简介《实况钓鱼》（Real VR Fishing） 是一款超级放松的钓鱼模拟游戏，专为钓鱼爱好者、冒险爱好者以及社交爱好者打造。游戏使用独特的引擎技术，完美的模拟出在全球各地真实水域钓鱼体验，戴上 PICO 即可瞬间到达。 
+【真实场景完美还原】 - 这里有阳光明媚的海滩、阴雨连绵的河岸、热闹非凡的城市、幽居深处的村庄 - 浮钓、拟钓、海钓、河钓满足各种钓鱼体验 
+【鱼类的百科全书】 - 1:1 仿真近百种真实鱼类 - 模拟鱼类生长环境和鱼饵喜好 - 图鉴系统记录每一个钓鱼瞬间 
+【随心所欲定制造型】 - 支持DIY的水族馆，在家也能看到鱼群遨游！ - 支持全身装扮的角色模型，让你成为岸边最靓钓手！ 
+【好友联机以鱼会友】 - 提供最多 4 人专属钓鱼空间，让你钓鱼不孤单 - 想和好友PK钓鱼技术？钓鱼排行榜等你挑战 
+【周边系统让钓鱼不无聊】 - 音乐播放器和网页浏览器可以让你边钓鱼边追剧，刷抖音、听播客也可以 - 钓到鲨鱼？照相机功能让你一键记录美好瞬间 实况钓鱼，给你身临其境的钓鱼体验！快来加入吧！《实况钓鱼》（Real VR Fishing） 是一款超级放松的钓鱼模拟游戏，专为钓鱼爱好者、冒险爱好者以及社交爱好者打造。游戏使用独特的引擎技术，完美的模拟出在全球各地真实水域钓鱼体验，戴上 PICO 即可瞬间到达。 
+【真实场景完美还原】 - 这里有阳光明媚的海滩、阴雨连绵的河岸、热闹非凡的城市、幽居深处的村庄 - 浮钓、拟钓、海钓、河钓满足各种钓鱼体验 
+【鱼类的百科全书】 - 1:1 仿真近百种真实鱼类 - 模拟鱼类生长环境和鱼饵喜好 - 图鉴系统记录每一个钓鱼瞬间 
+【随心所欲定制造型】 - 支持DIY的水族馆，在家也能看到鱼群遨游！ - 支持全身装扮的角色模型，让你成为岸边最靓钓手！ 
+【好友联机以鱼会友】 - 提供最多 4 人专属钓鱼空间，让你钓鱼不孤单 - 想和好友PK钓鱼技术？钓鱼排行榜等你挑战 
+【周边系统让钓鱼不无聊】 - 音乐播放器和网页浏览器可以让你边钓鱼边追剧，刷抖音、听播客也可以 - 钓到鲨鱼？照相机功能让你一键记录美好瞬间 实况钓鱼，给你身临其境的钓鱼体验！快来加入吧！",支持退款申请：PICO退款政策,分类：游戏,"标签：休闲, 运动, 放松","游戏形式：多人, 单人","语言：英语, 德语, 日语, 法语, 韩语, 西班牙语, 简体中文, 繁体中文","使用范围：房间移动, 原地坐姿, 原地站立",控制方式：6-DOF 手柄,"支持平台：PICO Neo3 Pro, PICO Neo3, PICO Neo3 Eye, PICO 4, PICO 4 Pro",版本：1.010,更新日期：2023-5-15,大小：1.8 G,开发者：Devs United Games,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""FakeBrowser"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[48,85][286,139]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""https://www.realvrfishing.com/privacy-chinese at 2023.07.20 02:00:25&#10;"" resource-id=""com.android.example.cameraxapp:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,937][1200,1160]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+</hierarchy>",发行商：Devs United Games,开发者隐私政策：隐私政策,开发者服务条款：服务条款,开发者网站：https://www.realvrfishing.com/,"权限：存储空间, 麦克风",实况钓鱼,2023-07-20 01:57:14,2023-07-20 02:01:01

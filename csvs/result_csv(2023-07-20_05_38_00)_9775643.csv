@@ -1,0 +1,43 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,权限,url,名称,start,end
+Hibow抢先版,"简介游戏中激烈的箭矢射击，痛快的飞行体验、创新的移动方式以及酷炫的技能让玩家沉浸于刀光“箭”影的虚拟战斗中。 
+游戏特色： 
+·多平台无阻碍全球玩家共同畅玩 ·多模式：IO、乱斗、战争，让玩家随心选择
+·从Airranger持续迭代而出的超顺畅VR弓箭模拟体验
+·独一无二的肌肉记忆飞行移动系统让玩家爱不释手
+·不可思议的多样化弓箭特性，狙击、散射、爆炸、致盲让玩家酣畅淋漓 
+·完备丰富的副武器以及让人肾上腺素飙升的技能系统 
+·全身IK系统和多样百变的装扮商店，让角色不再单调
+·多样的社交玩法，满足玩家社交需求，让你不再孤身战斗
+·多个排名系统、赛季系统以及完备导播OB系统，让精彩瞬间也能全球绽放 
+约战QQ群：1032830839 游戏中激烈的箭矢射击，痛快的飞行体验、创新的移动方式以及酷炫的技能让玩家沉浸于刀光“箭”影的虚拟战斗中。 
+游戏特色： 
+·多平台无阻碍全球玩家共同畅玩 ·多模式：IO、乱斗、战争，让玩家随心选择
+·从Airranger持续迭代而出的超顺畅VR弓箭模拟体验
+·独一无二的肌肉记忆飞行移动系统让玩家爱不释手
+·不可思议的多样化弓箭特性，狙击、散射、爆炸、致盲让玩家酣畅淋漓 
+·完备丰富的副武器以及让人肾上腺素飙升的技能系统 
+·全身IK系统和多样百变的装扮商店，让角色不再单调
+·多样的社交玩法，满足玩家社交需求，让你不再孤身战斗
+·多个排名系统、赛季系统以及完备导播OB系统，让精彩瞬间也能全球绽放 
+约战QQ群：1032830839 ",支持退款申请：PICO退款政策,分类：游戏,"标签：射击, 社交, 角色扮演",游戏形式：多人,"语言：简体中文, 英语, 德语, 韩语","使用范围：原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO Neo2, PICO Neo3, PICO 4, PICO 4 Pro",版本：0.6.6.0,更新日期：2022-6-14,大小：830.8 MB,开发者：Chesstar Studio,发行商：Chesstar Studio,开发者隐私政策：隐私政策,"权限：存储空间, 麦克风","<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""http://chesstar.cn/privacy.html at 2023.07.20 05:37:37&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[51,969][1149,1083]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",Hibow抢先版,2023-07-20 05:33:57,2023-07-20 05:38:00

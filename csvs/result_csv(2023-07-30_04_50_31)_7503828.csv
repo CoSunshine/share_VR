@@ -1,0 +1,47 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,开发者服务条款,开发者网站,url,权限,名称,start,end
+超弦乐队,"简介我们时刻在关注大家的反馈，目前已优化了鼓的打击感、提升了吉他和贝斯的判定精准度、增加了联机语音功能。接下来会对吉他的打击感进行优化！
+您有任何其他建议，欢迎加入QQ交流群：648670665，在这里还能下载官方谱面编辑器，也可一起相约联机！许多玩家已创作了中文曲库，并且社区还在快速成长中！
+
+《超弦乐队》是一款在线联机VR音乐游戏。你可以在华丽的舞台上演奏架子鼓、吉他、键盘和贝斯。组建乐队，结识新朋友，成为摇滚明星！
+
+● 乐器可选择吉他、贝斯、键盘、架子鼓，体验4种独特玩法
+● 4个风格各异的演出舞台：赛博朋克、末世、沙漠和月球
+● 40首初始演奏曲目，均支持4种乐器，各曲目有独特灯光演出
+● 多人联机合作演出！匹配随机队友或开房间都可以
+● 每张谱面均设立全服排行榜，争做最强乐手
+● 开放谱面编辑器，大量第三方谱面
+
+你的乐队，将成为超时空舞台上的巨星！我们时刻在关注大家的反馈，目前已优化了鼓的打击感、提升了吉他和贝斯的判定精准度、增加了联机语音功能。接下来会对吉他的打击感进行优化！
+您有任何其他建议，欢迎加入QQ交流群：648670665，在这里还能下载官方谱面编辑器，也可一起相约联机！许多玩家已创作了中文曲库，并且社区还在快速成长中！
+
+《超弦乐队》是一款在线联机VR音乐游戏。你可以在华丽的舞台上演奏架子鼓、吉他、键盘和贝斯。组建乐队，结识新朋友，成为摇滚明星！
+
+● 乐器可选择吉他、贝斯、键盘、架子鼓，体验4种独特玩法
+● 4个风格各异的演出舞台：赛博朋克、末世、沙漠和月球
+● 40首初始演奏曲目，均支持4种乐器，各曲目有独特灯光演出
+● 多人联机合作演出！匹配随机队友或开房间都可以
+● 每张谱面均设立全服排行榜，争做最强乐手
+● 开放谱面编辑器，大量第三方谱面
+
+你的乐队，将成为超时空舞台上的巨星！",支持退款申请：PICO退款政策,分类：游戏,"标签：音乐, 社交, 运动","游戏形式：单人, 多人","语言：简体中文, 英语","使用范围：原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO 4 Pro",版本：1.0.4,更新日期：2023-3-22,大小：1.2 G,开发者：诸葛瓜游戏,发行商：诸葛瓜游戏,开发者隐私政策：隐私政策,开发者服务条款：服务条款,开发者网站：https://thesmartmelon.com/,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://thesmartmelon.com/privacy at 2023.07.30 04:50:07&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[2,969][1199,1083]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>","权限：存储空间, 麦克风",超弦乐队,2023-07-30 04:46:34,2023-07-30 04:50:31

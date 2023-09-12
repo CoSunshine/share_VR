@@ -1,0 +1,35 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,开发者服务条款,url,开发者网站,权限,名称,start,end
+Operation Warcade,"简介Operation warcade是一个以80年代后期的经典战争游戏为灵感，专为虚拟现实所设计射击游戏，最新科技使得这场游戏为您带来全新体验！
+-体验刺激的战争现场
+因为创新的沉浸系统，你将能够在想要体验冒险时以一个完全不同的方式到电玩游戏中旅行：从直升机、战壕后方或甚至是从坦克车中射击。力量就在你身边！
+-新的规则：利用环境！
+利用环境中对你有利所有的元素并结合不可思议的“重力枪”。你将可以吸引任何场景中的物品并将其变成武器丢向敌人。限制只存在于你的想象中。
+-沉浸模式 ：专业特别版
+完成108个任务、36个级别和许多可以不断解锁的新关卡，你将可以借此得到更多破坏力。天然的抗压保证。Operation warcade是一个以80年代后期的经典战争游戏为灵感，专为虚拟现实所设计射击游戏，最新科技使得这场游戏为您带来全新体验！
+-体验刺激的战争现场
+因为创新的沉浸系统，你将能够在想要体验冒险时以一个完全不同的方式到电玩游戏中旅行：从直升机、战壕后方或甚至是从坦克车中射击。力量就在你身边！
+-新的规则：利用环境！
+利用环境中对你有利所有的元素并结合不可思议的“重力枪”。你将可以吸引任何场景中的物品并将其变成武器丢向敌人。限制只存在于你的想象中。
+-沉浸模式 ：专业特别版
+完成108个任务、36个级别和许多可以不断解锁的新关卡，你将可以借此得到更多破坏力。天然的抗压保证。",支持退款申请：PICO退款政策,分类：游戏,"标签：射击, 动作, 模拟",游戏形式：单人,"语言：简体中文, 英语, 日语, 西班牙语, 法语, 意大利语, 韩语, 葡萄牙语","使用范围：房间移动, 原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO Neo3, PICO Neo2, PICO Neo2 Lite, PICO Neo2 Eye, PICO 4, PICO 4 Pro, PICO Neo3 Pro, PICO Neo3 Eye",版本：1.1,更新日期：2022-5-6,大小：629.1 MB,开发者：Ivanovich Games,发行商：Ivanovich Games,开发者隐私政策：隐私政策,开发者服务条款：服务条款,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://www.ivanovichgames.com/privacy.html at 2023.07.20 05:09:45&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者网站：https://www.ivanovichgames.com,权限：存储空间,Operation Warcade,2023-07-20 05:07:21,2023-07-20 05:10:29

@@ -1,0 +1,57 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,url,发行商,开发者隐私政策,开发者服务条款,开发者网站,权限,名称,start,end
+水果忍者2,"简介感受手中刀刃的重量，体验那挥舞时让人满足的阻力感，切开水果，瞬间爆裂，五彩缤纷的汁水四处飞溅。
+ 
+您熟悉且喜爱的模式
+• 经典、街机和禅宗模式又回来了，而且比以往更加有趣好玩了！
+ 
+体验全新且独特的玩法
+•弓箭可以让你掌握一项全新的切水果技能
+•心跳加速节奏模式会向你发出跟上音乐节拍的挑战
+ 
+与其他忍者们对战
+• 在多人游戏中炫耀你的刀刃，并在与其他忍者们的对战中检验你的游戏水平
+• 在全新的苹果头模式中，把你的刀刃换成弓箭，直接射向你的对手
+• 不想对战？可以来社交中心与朋友们聊天，互动，打打篮球！
+ 
+探索Fruitasia
+• 当你准备从对战中休息一下时，可以进入郁郁葱葱的Fruitasia世界之中，在那里你可以尽情探索、放松、挥刀。
+ 
+凭借逼真的物理效果和令人难以置信的视觉效果，你会感觉自己如同一个真实的水果杀手。拿起你的刀剑，来一场畅快淋漓的切砍盛宴吧！感受手中刀刃的重量，体验那挥舞时让人满足的阻力感，切开水果，瞬间爆裂，五彩缤纷的汁水四处飞溅。
+ 
+您熟悉且喜爱的模式
+• 经典、街机和禅宗模式又回来了，而且比以往更加有趣好玩了！
+ 
+体验全新且独特的玩法
+•弓箭可以让你掌握一项全新的切水果技能
+•心跳加速节奏模式会向你发出跟上音乐节拍的挑战
+ 
+与其他忍者们对战
+• 在多人游戏中炫耀你的刀刃，并在与其他忍者们的对战中检验你的游戏水平
+• 在全新的苹果头模式中，把你的刀刃换成弓箭，直接射向你的对手
+• 不想对战？可以来社交中心与朋友们聊天，互动，打打篮球！
+ 
+探索Fruitasia
+• 当你准备从对战中休息一下时，可以进入郁郁葱葱的Fruitasia世界之中，在那里你可以尽情探索、放松、挥刀。
+ 
+凭借逼真的物理效果和令人难以置信的视觉效果，你会感觉自己如同一个真实的水果杀手。拿起你的刀剑，来一场畅快淋漓的切砍盛宴吧！",支持退款申请：PICO退款政策,分类：游戏,"标签：动作, 休闲, 探索","游戏形式：单人, 多人","语言：英语, 德语, 简体中文, 韩语, 西班牙语, 法语, 意大利语, 日语","使用范围：房间移动, 原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4 Pro, PICO 4, PICO Neo3",版本：1.9.3.663532,更新日期：2023-7-17,大小：389.2 MB,开发者：Halfbrick Studios,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://www.halfbrick.com/vr-privacy-policy-cn at 2023.07.20 02:20:07&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",发行商：Halfbrick Studios,开发者隐私政策：隐私政策,开发者服务条款：服务条款,开发者网站：https://www.halfbrick.com/games/fruit-ninja-vr-2,权限：麦克风,水果忍者2,2023-07-20 02:17:59,2023-07-20 02:20:49

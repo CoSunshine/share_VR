@@ -1,0 +1,43 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,url,开发者隐私政策,权限,名称,start,end
+Zigzag密室剧本杀,"简介【剧本杀】
+完美还原：独具匠心的剧本完美还原了剧本中的场景和人物。亲身体验每一个角色的故事，完全沉浸。
+实景搜证：逼真的环境和细节将让您仿佛置身于真实的案发现场。搜寻线索、分析证据，找到凶手。
+多人互动：与来自各地的玩家一起组队，实时语音，随时讨论分享彼此的发现与想法。
+【密室逃脱】
+环境逼真：细致入微的环境和逼真的氛围营造，让您仿佛置身于真实的密室之中，沉浸体验紧张激烈的逃脱之旅。
+多人协作：可以与其他玩家组成团队，随时沟通、交流，分享，共同应对各种谜题与难关，不再害怕！
+谜题丰富：在游戏体验的过程中，您将不断发现富有创意和挑战性的谜题，这将考验您的智力与观察力。
+
+感谢您的关注，我们后续会不断的上新密室和剧本，不断的优化和改进体验。
+添加官方微信（zigzag1201）,一起进群拼车约玩吧！【剧本杀】
+完美还原：独具匠心的剧本完美还原了剧本中的场景和人物。亲身体验每一个角色的故事，完全沉浸。
+实景搜证：逼真的环境和细节将让您仿佛置身于真实的案发现场。搜寻线索、分析证据，找到凶手。
+多人互动：与来自各地的玩家一起组队，实时语音，随时讨论分享彼此的发现与想法。
+【密室逃脱】
+环境逼真：细致入微的环境和逼真的氛围营造，让您仿佛置身于真实的密室之中，沉浸体验紧张激烈的逃脱之旅。
+多人协作：可以与其他玩家组成团队，随时沟通、交流，分享，共同应对各种谜题与难关，不再害怕！
+谜题丰富：在游戏体验的过程中，您将不断发现富有创意和挑战性的谜题，这将考验您的智力与观察力。
+
+感谢您的关注，我们后续会不断的上新密室和剧本，不断的优化和改进体验。
+添加官方微信（zigzag1201）,一起进群拼车约玩吧！",支持退款申请：PICO退款政策,分类：游戏,"标签：解谜, 社交, 休闲","游戏形式：多人, 单人",语言：简体中文,"使用范围：原地坐姿, 原地站立",控制方式：6-DOF 手柄,"支持平台：PICO 4 Pro, PICO 4, PICO Neo3, PICO Neo3 Pro",版本：1.2.0,更新日期：2023-6-30,大小：1.7 G,开发者：杭州光相科技发展有限公司,发行商：杭州光相科技发展有限公司,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""http://ys.guangxiang.net.cn/zigzagprivacypolicy.html at 2023.07.20 01:48:16&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者隐私政策：隐私政策,"权限：存储空间, 位置信息, 麦克风",Zigzag密室剧本杀,2023-07-20 01:45:46,2023-07-20 01:48:36

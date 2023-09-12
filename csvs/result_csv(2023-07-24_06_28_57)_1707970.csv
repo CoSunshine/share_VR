@@ -1,0 +1,51 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,url,开发者隐私政策,权限,名称,start,end
+桌游派对,"简介欢迎来到梦幻般的棋盘游戏世界！
+如果您想在 VR 中玩棋盘游戏，请立即下载 桌游派对！
+您可以与每个人在美妙的虚拟空间中享受各种内容 以你想象的帅气模样。
+在梦幻般的虚拟世界享受 国际象棋、积木堆积、韩国纸牌、黑白棋、游艇骰子的游戏吧！
+如果没有一起玩的朋友吗？
+你别担心！
+您可以在虚拟世界中结交朋友并闲逛。
+此外，还将增加更多的游戏和内容，敬请期待。
+祝你玩得愉快！
+
+特征：
+- 单人游戏/多人游戏
+- 10 种棋盘游戏：一张牌、游艇骰子、奥赛罗、国际象棋、西洋跳棋、拉米牌、杜松子拉米牌、掷柶游戏、五子棋、韩国将棋
+- 3 种休闲游戏：叠积木、飞箭、打地鼠
+- 语音聊天 、情感表达（表情符号）是可能的。欢迎来到梦幻般的棋盘游戏世界！
+如果您想在 VR 中玩棋盘游戏，请立即下载 桌游派对！
+您可以与每个人在美妙的虚拟空间中享受各种内容 以你想象的帅气模样。
+在梦幻般的虚拟世界享受 国际象棋、积木堆积、韩国纸牌、黑白棋、游艇骰子的游戏吧！
+如果没有一起玩的朋友吗？
+你别担心！
+您可以在虚拟世界中结交朋友并闲逛。
+此外，还将增加更多的游戏和内容，敬请期待。
+祝你玩得愉快！
+
+特征：
+- 单人游戏/多人游戏
+- 10 种棋盘游戏：一张牌、游艇骰子、奥赛罗、国际象棋、西洋跳棋、拉米牌、杜松子拉米牌、掷柶游戏、五子棋、韩国将棋
+- 3 种休闲游戏：叠积木、飞箭、打地鼠
+- 语音聊天 、情感表达（表情符号）是可能的。",支持退款申请：PICO退款政策,分类：游戏,"标签：解谜, 社交, 休闲","游戏形式：多人, 单人",语言：简体中文,"使用范围：原地坐姿, 原地站立",控制方式：6-DOF 手柄,"支持平台：PICO 4 Pro, PICO 4, PICO Neo3, PICO Neo3 Pro",版本：1.0.1,更新日期：2023-6-19,大小：458.5 MB,开发者：DIVEXR,发行商：DIVEXR,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://tableparty.imweb.me/privacypolicy_cn at 2023.07.24 06:28:22&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者隐私政策：隐私政策,权限：麦克风,桌游派对,2023-07-24 06:26:22,2023-07-24 06:28:57

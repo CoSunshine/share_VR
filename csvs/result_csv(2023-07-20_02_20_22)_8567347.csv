@@ -1,0 +1,56 @@
+name,简介,不支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,url,发行商,开发者隐私政策,权限,名称,start,end
+梦境世界,"简介梦境世界官方玩家交流群（添加微信号：MJVR888即可进群）
+
+梦境世界——加好友，一起玩
+
+梦境世界是一款超高人气虚拟现实社交平台，每天海量玩家畅游在梦境世界中，轻松发现认识新朋友，实时在线互动聊天，随时随地约好友，组队联机不孤单。
+
+【特色游戏玩法多样】
+14款各具特色的游戏场景:
+梦境家园、多人大厅、梦境乐园、生化精英、危险派对、暴风行动、123木头人、西部游侠、赏金猎人、地牢猎手、迷宫试炼、疯狂投掷、竞速飞行、失落迷宫。      
+包含动作、冒险、策略、角色扮演、竞技、射击等多种玩法，并不断更新中...
+
+【全网联机在线社交】
+所有游戏场景支持全网多人联机，满足虚拟世界中一切社交需求，包括多人社交大厅、面对面互动沟通、添加好友、组队约战游戏、私密好友空间等功能。
+
+【百变身份秀出自我】
+上百款身份形象可供选择，持续上新，百变身份秀出华丽自我。
+
+快来梦境世界，认识第一个虚拟世界好友吧！梦境世界官方玩家交流群（添加微信号：MJVR888即可进群）
+
+梦境世界——加好友，一起玩
+
+梦境世界是一款超高人气虚拟现实社交平台，每天海量玩家畅游在梦境世界中，轻松发现认识新朋友，实时在线互动聊天，随时随地约好友，组队联机不孤单。
+
+【特色游戏玩法多样】
+14款各具特色的游戏场景:
+梦境家园、多人大厅、梦境乐园、生化精英、危险派对、暴风行动、123木头人、西部游侠、赏金猎人、地牢猎手、迷宫试炼、疯狂投掷、竞速飞行、失落迷宫。      
+包含动作、冒险、策略、角色扮演、竞技、射击等多种玩法，并不断更新中...
+
+【全网联机在线社交】
+所有游戏场景支持全网多人联机，满足虚拟世界中一切社交需求，包括多人社交大厅、面对面互动沟通、添加好友、组队约战游戏、私密好友空间等功能。
+
+【百变身份秀出自我】
+上百款身份形象可供选择，持续上新，百变身份秀出华丽自我。
+
+快来梦境世界，认识第一个虚拟世界好友吧！",不支持退款申请：PICO退款政策,分类：游戏,"标签：社交, 射击, 动作","游戏形式：多人, 单人",语言：简体中文,"使用范围：原地站立, 原地坐姿, 房间移动",控制方式：6-DOF 手柄,"支持平台：PICO Neo3, PICO 4, PICO 4 Pro, PICO Neo3 Pro, PICO Neo3 Eye",版本：2.2.5,更新日期：2023-6-29,大小：1.7 G,开发者：福建造梦信息技术有限公司,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""FakeBrowser"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[48,85][286,139]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""https://cloud.zmvr.com/privacy-policy-cn.html at 2023.07.20 02:19:45&#10;"" resource-id=""com.android.example.cameraxapp:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,937][1200,1160]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+</hierarchy>",发行商：福建造梦信息技术有限公司,开发者隐私政策：隐私政策,"权限：存储空间, 麦克风",梦境世界,2023-07-20 02:16:08,2023-07-20 02:20:22

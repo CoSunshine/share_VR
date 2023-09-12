@@ -1,0 +1,47 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,开发者服务条款,开发者网站,url,名称,start,end
+穿越半径,"简介你发现自己置身于一片荒凉地带的正中心，与外界完全失去了联系。与你相伴的，只有你的枪和你的头脑。迎战致命的敌人，躲避危险的异象，并在前往Radius中心寻找出路的途中收集神奇遗物。
+
+✔探索Radius
+ 
+ 务必小心：Radius充满了致命的异象，任何愚蠢或胆大到想要靠近的人都会受到伤害。用你的逼真地图来确定方位、规划路线、爬过障碍物、探寻藏身处、发现赃物隐藏点，并努力避免被杀。至少不要死得太频繁。
+
+✔收集和使用逼真的枪械
+ 
+ 像在现实中一样操作五花八门的枪械，例如AKM卡拉什尼科夫冲锋枪、马卡洛夫PM手枪、SKS卡宾枪、贝莱塔M9、PPSh、FN SCAR，等等。
+
+✔想尽一切办法求生
+ 
+ 利用地形、缓慢移动、寻找掩护、蹲伏潜行，时刻警惕身边的各种威胁！你发现自己置身于一片荒凉地带的正中心，与外界完全失去了联系。与你相伴的，只有你的枪和你的头脑。迎战致命的敌人，躲避危险的异象，并在前往Radius中心寻找出路的途中收集神奇遗物。
+
+✔探索Radius
+ 
+ 务必小心：Radius充满了致命的异象，任何愚蠢或胆大到想要靠近的人都会受到伤害。用你的逼真地图来确定方位、规划路线、爬过障碍物、探寻藏身处、发现赃物隐藏点，并努力避免被杀。至少不要死得太频繁。
+
+✔收集和使用逼真的枪械
+ 
+ 像在现实中一样操作五花八门的枪械，例如AKM卡拉什尼科夫冲锋枪、马卡洛夫PM手枪、SKS卡宾枪、贝莱塔M9、PPSh、FN SCAR，等等。
+
+✔想尽一切办法求生
+ 
+ 利用地形、缓慢移动、寻找掩护、蹲伏潜行，时刻警惕身边的各种威胁！",支持退款申请：PICO退款政策,分类：游戏,"标签：射击, 恐怖",游戏形式：单人,"语言：英语, 简体中文, 德语, 日语, 韩语, 法语, 西班牙语, 意大利语","使用范围：原地站立, 原地坐姿","控制方式：头控, 6-DOF 手柄","支持平台：PICO 4, PICO 4 Pro, PICO Neo3",版本：2.6.4,更新日期：2023-7-13,大小：4.0 G,开发者：CM Games,发行商：CM Games,开发者隐私政策：隐私政策,开发者服务条款：服务条款,开发者网站：https://cm.games/,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://cm.games/privacy-policy-cn/ at 2023.07.20 02:35:16&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,969][1200,1083]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",穿越半径,2023-07-20 02:31:27,2023-07-20 02:36:25

@@ -1,0 +1,49 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,开发者网站,url,权限,名称,start,end
+暗影之门 VR: 麦斯洛克之矿,"简介《暗影之门》系列一《暗影之门：麦斯洛克之矿》将热门冒险游戏带到了虚拟现实中！以前所未有的方式进入卡尔托林的奇幻世界，沉浸在这款超刺激动作冒险游戏中吧！
+以渡鸦奥丁为引导，根据个人喜好选择游戏难度，赶快去发现麦斯洛克之矿里有什么秘密吧！
+
+探索古老地牢
+踏进山林深处，进入神秘地牢，越过陷阱走廊，穿过巨大洞穴，体验惊奇探险。
+
+施展元素魔法
+用巫师魔杖和超级护盾武装自己，完美的武器可助你破除地牢防御装置，并毁灭黑暗中的致命怪物。
+
+解决复杂难题
+用智慧解锁神奇占卜符号，废弃隐藏陷阱，破解巧妙谜题。
+
+探索未知世界
+乘坐惊心动魄的矮人矿车，发掘古老文物，解锁11个有趣的成就。《暗影之门》系列一《暗影之门：麦斯洛克之矿》将热门冒险游戏带到了虚拟现实中！以前所未有的方式进入卡尔托林的奇幻世界，沉浸在这款超刺激动作冒险游戏中吧！
+以渡鸦奥丁为引导，根据个人喜好选择游戏难度，赶快去发现麦斯洛克之矿里有什么秘密吧！
+
+探索古老地牢
+踏进山林深处，进入神秘地牢，越过陷阱走廊，穿过巨大洞穴，体验惊奇探险。
+
+施展元素魔法
+用巫师魔杖和超级护盾武装自己，完美的武器可助你破除地牢防御装置，并毁灭黑暗中的致命怪物。
+
+解决复杂难题
+用智慧解锁神奇占卜符号，废弃隐藏陷阱，破解巧妙谜题。
+
+探索未知世界
+乘坐惊心动魄的矮人矿车，发掘古老文物，解锁11个有趣的成就。",支持退款申请：PICO退款政策,分类：游戏,"标签：动作, 冒险, 解谜",游戏形式：单人,"语言：英语, 简体中文","使用范围：房间移动, 原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO 4 Pro",版本：1.0.53,更新日期：2023-3-2,大小：1.2 G,开发者：Zojoi LLC.,发行商：Andromeda Entertainment,开发者隐私政策：隐私政策,开发者网站：https://www.zojoi.com/,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://www.zojoi.com/privacy-policy/ at 2023.07.24 04:43:42&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>","权限：存储空间, 位置信息, 麦克风",暗影之门 VR: 麦斯洛克之矿,2023-07-24 04:41:23,2023-07-24 04:44:02

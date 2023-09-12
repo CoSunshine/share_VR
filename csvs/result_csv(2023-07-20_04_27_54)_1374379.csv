@@ -1,0 +1,47 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,url,开发者隐私政策,开发者服务条款,开发者网站,权限,名称,start,end
+城镇叠叠乐,"简介《城镇叠叠乐》（Townscaper VR） 是一款可爱画风的建造游戏，没有强制的主线任务、没有必须达成的成就，玩家们只需要从调色板中挑选颜色，在不规则的网格上放置彩色的房屋块，然后观察游戏的底层算法根据它们的配置，自动将这些块变成可爱的小房子、拱门、楼梯、桥梁和郁郁葱葱的后院。
+【激发玩家创造潜力】
+- 城镇叠叠乐就像一个玩具，不同的建造顺序、操作可以形成千奇百怪的建筑样式和风格，玩家们可以尽情享受高自由度带来的随机的快乐
+- 玩家们完全可以凭借自己的想象，在这个游戏世界肆意妄为，做出一些超越大家想象力的事情。造的不满意可以一键反悔，没有成本和营收压力。
+【果冻般Q弹的建造体验】
+- 建筑方块之间的合成像果冻一样Q弹可爱，丝滑的操作带给你无限的创造灵感
+- 玩家们可以选用弯曲的街道、小村庄、高耸的教堂、运河网络或高跷的空中城市建造古雅的岛屿城镇
+- 玩家每每点击建造一次，就会听到一声清脆的“ 啵啵 ”声，仿佛泡沫破裂一般。这种治愈又洗脑的音效加上简单的操作，十分容易令玩家着迷。
+【聪明百变的建造算法】
+- 建筑的样貌会根据你放置的方块而变化：如果两个楼层之间有落差，模拟器会用楼梯帮你连接；如果顶楼的建筑面积比较大，模拟器会放上几张小座椅；如果去掉了楼层中间的部分，房子上就会出现一个天井。
+- 随着时间和光线的变化，你的小镇里会上演一出从日出到日落，最后直到万家灯火的巧妙变化。
+【无人打扰且治愈的世外桃源】
+- 城镇里没有了“人类”的纷扰，你的建造创意可以在这里自由地发挥！《城镇叠叠乐》（Townscaper VR） 是一款可爱画风的建造游戏，没有强制的主线任务、没有必须达成的成就，玩家们只需要从调色板中挑选颜色，在不规则的网格上放置彩色的房屋块，然后观察游戏的底层算法根据它们的配置，自动将这些块变成可爱的小房子、拱门、楼梯、桥梁和郁郁葱葱的后院。
+【激发玩家创造潜力】
+- 城镇叠叠乐就像一个玩具，不同的建造顺序、操作可以形成千奇百怪的建筑样式和风格，玩家们可以尽情享受高自由度带来的随机的快乐
+- 玩家们完全可以凭借自己的想象，在这个游戏世界肆意妄为，做出一些超越大家想象力的事情。造的不满意可以一键反悔，没有成本和营收压力。
+【果冻般Q弹的建造体验】
+- 建筑方块之间的合成像果冻一样Q弹可爱，丝滑的操作带给你无限的创造灵感
+- 玩家们可以选用弯曲的街道、小村庄、高耸的教堂、运河网络或高跷的空中城市建造古雅的岛屿城镇
+- 玩家每每点击建造一次，就会听到一声清脆的“ 啵啵 ”声，仿佛泡沫破裂一般。这种治愈又洗脑的音效加上简单的操作，十分容易令玩家着迷。
+【聪明百变的建造算法】
+- 建筑的样貌会根据你放置的方块而变化：如果两个楼层之间有落差，模拟器会用楼梯帮你连接；如果顶楼的建筑面积比较大，模拟器会放上几张小座椅；如果去掉了楼层中间的部分，房子上就会出现一个天井。
+- 随着时间和光线的变化，你的小镇里会上演一出从日出到日落，最后直到万家灯火的巧妙变化。
+【无人打扰且治愈的世外桃源】
+- 城镇里没有了“人类”的纷扰，你的建造创意可以在这里自由地发挥！",支持退款申请：PICO退款政策,分类：游戏,"标签：放松, 休闲, 模拟",游戏形式：单人,"语言：英语, 简体中文, 繁体中文, 德语, 俄语, 日语, 法语, 韩语","使用范围：原地坐姿, 原地站立",控制方式：6-DOF 手柄,"支持平台：PICO Neo3, PICO 4, PICO 4 Pro",版本：1.2.0,更新日期：2022-10-6,大小：71.1 MB,开发者：Raw Fury AB,发行商：Raw Fury AB,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://rawfury.com/privacy-policy/ at 2023.07.20 04:27:03&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[7,969][1194,1083]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者隐私政策：隐私政策,开发者服务条款：服务条款,开发者网站：https://rawfury.com/privacy-policy/,权限：存储空间,城镇叠叠乐,2023-07-20 04:23:12,2023-07-20 04:27:54

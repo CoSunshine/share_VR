@@ -1,0 +1,30 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,开发者服务条款,开发者网站,权限,名称,start,end
+驱魔人：军团VR,"简介《驱魔人：军团VR》是《驱魔人》系列的第五部作品。
+游戏基于恐怖大师William Peter Blatty创作的庞大故事背景，玩家将作为一名调查员深入恶魔藏身的心脏地带，感受VR技术加持下身临其境的场景互动体验。
+通过调查和分析，了解恶魔的生活方式及手段，最终直面来自黑暗与深渊中的恐惧。你能完成这项艰巨的任务吗？
+不过，你不是在孤身一人战斗。在游戏中，你可以获得各式各样的神器，帮助自己应对强大的恶魔，完成调查任务。同时我们还会收到来自陌生人的信息，他在暗中观察着玩家的一举一动，伺机而动。
+《驱魔人：军团VR》根据Pico Neo 2的机能做出了适配及优化。玩家可以根据自己的喜好选择“传送”或者“自由漫游”模式，随心所欲地进行操纵，沉浸在这场冒险之旅当中。《驱魔人：军团VR》是《驱魔人》系列的第五部作品。
+游戏基于恐怖大师William Peter Blatty创作的庞大故事背景，玩家将作为一名调查员深入恶魔藏身的心脏地带，感受VR技术加持下身临其境的场景互动体验。
+通过调查和分析，了解恶魔的生活方式及手段，最终直面来自黑暗与深渊中的恐惧。你能完成这项艰巨的任务吗？
+不过，你不是在孤身一人战斗。在游戏中，你可以获得各式各样的神器，帮助自己应对强大的恶魔，完成调查任务。同时我们还会收到来自陌生人的信息，他在暗中观察着玩家的一举一动，伺机而动。
+《驱魔人：军团VR》根据Pico Neo 2的机能做出了适配及优化。玩家可以根据自己的喜好选择“传送”或者“自由漫游”模式，随心所欲地进行操纵，沉浸在这场冒险之旅当中。",支持退款申请：PICO退款政策,分类：游戏,标签：恐怖,游戏形式：单人,语言：英语,使用范围：原地站立,控制方式：6-DOF 手柄,"支持平台：PICO Neo2, PICO Neo2 Eye, PICO Neo2 Lite, PICO Neo3 Pro, PICO Neo3 Eye, PICO Neo3, PICO 4, PICO 4 Pro",版本：1.1.1,更新日期：2021-3-11,大小：827.2 MB,开发者：Wolf & Wood Interactive,发行商：Fun Train VR,开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""FakeBrowser"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[48,85][286,139]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""https://www.exorcistlegion.com/privacy-policy at 2023.07.20 05:32:49&#10;"" resource-id=""com.android.example.cameraxapp:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,937][1200,1160]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+</hierarchy>",开发者服务条款：服务条款,开发者网站：https://www.funtrainvr.com,权限：存储空间,驱魔人：军团VR,2023-07-20 05:30:08,2023-07-20 05:33:25

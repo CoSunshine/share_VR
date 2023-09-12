@@ -1,0 +1,46 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,url,大小,开发者,发行商,开发者隐私政策,开发者网站,名称,start,end
+密室逃脱：消失的画像,"简介欢迎添加我们的微信号：suplifevr 进入官方微信群与我们互动交流，更有群内定期福利礼包等你来领取！
+
+一觉醒来，你还是被困在同样的房间里。这次，你下定决心要逃出这间离奇的宅邸！
+游戏将你传送回十九世纪八十年代的英国，迷茫、动荡、躁乱，充斥着整个1893年的狄更斯小镇，你作为一名私家侦探，在收到一封神秘的信件后，前往废弃的豪宅调查十年前的一桩悬案。锁住的壁柜，缥缈的烟雾，诡异的符号，沙沙作响的收音机，去寻找四处散落的碎片，揭开一张张消失画像背后隐藏的秘密，等待你的，会是怎样的真相呢？
+
+- 悬疑迷局 -
+神秘的失踪案件、交织的谜题线索、隐藏的奇怪符号，逐步陷入越来越深的迷局。伴随着一个个机关的破解，消失画像的谜底终将在你眼前展现，而你，会做出什么样的选择呢？
+
+- 沉浸体验 -
+• 真实：第一人称视角，置身于十九世纪八十年代英国，感受纯正的英伦气息
+• 探案：你将扮演一名私家侦探，探寻废宅，搜集线索，发现真相
+• 解密：房间内设有多重线索谜团，关卡环环相扣，最终谜底等你揭开
+• 沉浸：在房间内探索与各种物品交互，移动、弯腰、半蹲、抓握，宛如在真实密室中探案欢迎添加我们的微信号：suplifevr 进入官方微信群与我们互动交流，更有群内定期福利礼包等你来领取！
+
+一觉醒来，你还是被困在同样的房间里。这次，你下定决心要逃出这间离奇的宅邸！
+游戏将你传送回十九世纪八十年代的英国，迷茫、动荡、躁乱，充斥着整个1893年的狄更斯小镇，你作为一名私家侦探，在收到一封神秘的信件后，前往废弃的豪宅调查十年前的一桩悬案。锁住的壁柜，缥缈的烟雾，诡异的符号，沙沙作响的收音机，去寻找四处散落的碎片，揭开一张张消失画像背后隐藏的秘密，等待你的，会是怎样的真相呢？
+
+- 悬疑迷局 -
+神秘的失踪案件、交织的谜题线索、隐藏的奇怪符号，逐步陷入越来越深的迷局。伴随着一个个机关的破解，消失画像的谜底终将在你眼前展现，而你，会做出什么样的选择呢？
+
+- 沉浸体验 -
+• 真实：第一人称视角，置身于十九世纪八十年代英国，感受纯正的英伦气息
+• 探案：你将扮演一名私家侦探，探寻废宅，搜集线索，发现真相
+• 解密：房间内设有多重线索谜团，关卡环环相扣，最终谜底等你揭开
+• 沉浸：在房间内探索与各种物品交互，移动、弯腰、半蹲、抓握，宛如在真实密室中探案",支持退款申请：PICO退款政策,分类：游戏,"标签：冒险, 解谜, 模拟",游戏形式：单人,"语言：英语, 简体中文, 德语, 日语, 西班牙语, 法语","使用范围：房间移动, 原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO 4 Pro",版本：2.02,更新日期：2023-7-13,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""FakeBrowser"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[48,85][286,139]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""https://unmannedvr.com/privacy-policy/ at 2023.07.20 05:17:05&#10;"" resource-id=""com.android.example.cameraxapp:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,937][1200,1160]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+</hierarchy>",大小：827.4 MB,开发者：Suplife Games,发行商：Suplife Games,开发者隐私政策：隐私政策,开发者网站：https://vrsuplife.com/,密室逃脱：消失的画像,2023-07-20 05:14:07,2023-07-20 05:19:08

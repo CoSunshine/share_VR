@@ -1,0 +1,31 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,url,开发者隐私政策,开发者服务条款,开发者网站,权限,名称,start,end
+洞穴挖掘机 2：更努力地挖掘,"简介这是一款可供1-4人游玩的VR冒险游戏。
+故事：在另一个世界的西部边疆地带，跟随宝藏猎人克莱顿的脚步，发现了山谷的诡异历史，以及地下深处的洞穴，探索古老的矿山，航海洞穴，古代文明的废墟，发现一段融合贪婪、怪异力量与秘密的跨越时空传说，神秘的克莱顿究竟是谁，他在山谷经历了什么，最终变得清晰，但这真的是结局吗？游戏有许多隐藏的结局，每一个都揭示了故事的新一面，等待你来发现！
+- 挑选喜欢的工具，深入深山探索，通过获取的战利品可以升级工具并获得更多装备，继续拓展探索版图；
+- 可以组建最多4人的队伍，支持好友组队及平台匹配；
+- 定制专属形象，服装配饰自由搭配；这是一款可供1-4人游玩的VR冒险游戏。
+故事：在另一个世界的西部边疆地带，跟随宝藏猎人克莱顿的脚步，发现了山谷的诡异历史，以及地下深处的洞穴，探索古老的矿山，航海洞穴，古代文明的废墟，发现一段融合贪婪、怪异力量与秘密的跨越时空传说，神秘的克莱顿究竟是谁，他在山谷经历了什么，最终变得清晰，但这真的是结局吗？游戏有许多隐藏的结局，每一个都揭示了故事的新一面，等待你来发现！
+- 挑选喜欢的工具，深入深山探索，通过获取的战利品可以升级工具并获得更多装备，继续拓展探索版图；
+- 可以组建最多4人的队伍，支持好友组队及平台匹配；
+- 定制专属形象，服装配饰自由搭配；",支持退款申请：PICO退款政策,分类：游戏,"标签：冒险, 动作, 探索","游戏形式：多人, 单人","语言：英语, 泰语, 法语, 意大利语, 西班牙语, 繁体中文, 简体中文, 葡萄牙语, 韩语, 德语","使用范围：房间移动, 原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO Neo3 Eye, PICO Neo3 Pro, PICO 4 Pro",版本：0.9.46.1,更新日期：2023-1-18,大小：847.3 MB,开发者：MeKiwi,发行商：MeKiwi,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://vrkiwi.org/what-vr/eula-privacy-policy/ at 2023.07.24 02:58:13&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者隐私政策：隐私政策,开发者服务条款：服务条款,开发者网站：https://vrkiwi.org/,"权限：存储空间, 麦克风",洞穴挖掘机 2：更努力地挖掘,2023-07-24 02:56:08,2023-07-24 02:58:56

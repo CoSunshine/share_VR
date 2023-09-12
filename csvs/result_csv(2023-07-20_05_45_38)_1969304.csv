@@ -1,0 +1,35 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,开发者网站,权限,名称,start,end
+太空城市建造,"简介""太空人遇到麻烦了！他们的太阳变成了超新星，需要你帮助建设他们的城市并设法逃避迫在眉睫的太阳灾难！
+ 
+《太空城市建造》是一款风趣而轻松的城市建设类游戏。在太空中建造飘浮的城市，用各种古怪的物品进行装饰，并让太空公民保持快乐幸福。
+ 
+每个太空人都有不同的能力，而你需要创造性地利用他们的能力来确保他们生存下去。把城市装扮整洁，配备符合各人兴趣的物品，让他们保持快乐，并最大限度地提升他们在城市中的职责，以打造一个快乐的小社区！
+ 
+别将城市建设局限于平整的表面！享受 VR 的空间优势，在自由空间建造你的城市，在城市的上面和下面添加建筑物。同时，务必充分利用你能用来装点城市的所有无聊的东西，让你的市民们保持快乐和高产。与市民们合作，想出解决太阳危机的办法！""""太空人遇到麻烦了！他们的太阳变成了超新星，需要你帮助建设他们的城市并设法逃避迫在眉睫的太阳灾难！
+ 
+《太空城市建造》是一款风趣而轻松的城市建设类游戏。在太空中建造飘浮的城市，用各种古怪的物品进行装饰，并让太空公民保持快乐幸福。
+ 
+每个太空人都有不同的能力，而你需要创造性地利用他们的能力来确保他们生存下去。把城市装扮整洁，配备符合各人兴趣的物品，让他们保持快乐，并最大限度地提升他们在城市中的职责，以打造一个快乐的小社区！
+ 
+别将城市建设局限于平整的表面！享受 VR 的空间优势，在自由空间建造你的城市，在城市的上面和下面添加建筑物。同时，务必充分利用你能用来装点城市的所有无聊的东西，让你的市民们保持快乐和高产。与市民们合作，想出解决太阳危机的办法！""",支持退款申请：PICO退款政策,分类：游戏,"标签：模拟, 太空, 休闲",游戏形式：单人,"语言：俄语, 葡萄牙语, 法语, 西班牙语, 德语, 日语, 英语, 简体中文","使用范围：房间移动, 原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO Neo3 Pro, PICO 4 Pro",版本：v1.19.32832f281d2China,更新日期：2023-6-12,大小：316.6 MB,开发者：Moon Mode AB,发行商：Beyond Frames Entertainment AB,开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://beyondframes.com/privacy-policy at 2023.07.20 05:45:18&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者网站：http://www.spacefolkcity.com,权限：存储空间,太空城市建造,2023-07-20 05:43:01,2023-07-20 05:45:38

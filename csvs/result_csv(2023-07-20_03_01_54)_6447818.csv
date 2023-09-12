@@ -1,0 +1,39 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,权限,名称,start,end
+末世曙光 2,"简介在 末世曙光 的崭新篇章中，游侠的新奥尔良探索之旅仍将继续。你将被看似毫无弱点的斧男追杀，和想要获得全面统治权的塔楼正面交锋，在一切未晚之时寻找各个事件背后的联系。全新的面孔、地点、武器和装备都在等着你，这是决定城市命运的最终战役。你能活到最后吗？
+
+对战决心把你劈成碎片的可怖新敌人。 
+
+穿越新奥尔良，探索新地点，还有各种战利品、任务和行尸在这这片土地上等着你。
+
+在夜间探索这座城市！每张地图上都会有更多战利品、更多行尸和更多大冒险。
+
+帮助或阻碍放逐者。这个全新阵营被塔楼拒绝，却又拒绝加入残酷的收复者。如果你承接他们艰巨的任务，他们将为你提供惊人的回报……你也可以当个恶人，强夺他们的资源。在 末世曙光 的崭新篇章中，游侠的新奥尔良探索之旅仍将继续。你将被看似毫无弱点的斧男追杀，和想要获得全面统治权的塔楼正面交锋，在一切未晚之时寻找各个事件背后的联系。全新的面孔、地点、武器和装备都在等着你，这是决定城市命运的最终战役。你能活到最后吗？
+
+对战决心把你劈成碎片的可怖新敌人。 
+
+穿越新奥尔良，探索新地点，还有各种战利品、任务和行尸在这这片土地上等着你。
+
+在夜间探索这座城市！每张地图上都会有更多战利品、更多行尸和更多大冒险。
+
+帮助或阻碍放逐者。这个全新阵营被塔楼拒绝，却又拒绝加入残酷的收复者。如果你承接他们艰巨的任务，他们将为你提供惊人的回报……你也可以当个恶人，强夺他们的资源。",支持退款申请：PICO退款政策,分类：游戏,"标签：动作, 冒险, 恐怖",游戏形式：单人,语言：简体中文,"使用范围：原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4, PICO Neo3, PICO Neo3 Pro, PICO 4 Pro",版本：Shipping2023.04.25build325362-,更新日期：2023-5-5,大小：12.4 G,开发者：Skydance Interactive,发行商：Skydance Interactive,开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://skydance.com/sdi-privacypolicy-cn/ at 2023.07.20 03:01:32&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>","权限：存储空间, 麦克风",末世曙光 2,2023-07-20 02:58:25,2023-07-20 03:01:54

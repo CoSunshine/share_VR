@@ -1,0 +1,61 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,开发者服务条款,开发者网站,名称,start,end
+浪客：佣兵传说.,"简介就是现在！高举你的酒盏！和我们一起踏上一段杀伐之旅，跃迁于八段惊心历史，享受其中的磅礴、财富和传奇壮举！
+
+阴森的城堡、古老的神庙、被遗弃的沉船、还有你不曾预料的壮阔。你将挥舞着来自17世纪真实存在的武神遗物，一路过关斩将，勇往直前。
+
+体验漫画式的快意恩仇，在侠义中得乐于酒馆主顾的市侩幽默和浮夸事迹。
+
+
+特点：
+
+• 轻松应对，挥动你的武器一如行云流水！不破不立，摒弃满大街的物理引擎VR，街机都要直呼内行！
+
+• 不同的人有不同的天命，去会会那八个英雄吧，和他们一起冒险。
+
+• 当17世纪的欧洲遇上漫画视觉，让我们来告诉你这是什么样的体验。
+
+• 大量的幽默、复活节彩蛋和流行文化引用
+
+• 穿越回到17世纪，去见证欧洲的历史，打卡真实存在过的地标，与曾经的武神相遇。
+
+• 由知名音乐人Arkadiusz Reikowski谱写的超赞斯拉夫民族音乐就是现在！高举你的酒盏！和我们一起踏上一段杀伐之旅，跃迁于八段惊心历史，享受其中的磅礴、财富和传奇壮举！
+
+阴森的城堡、古老的神庙、被遗弃的沉船、还有你不曾预料的壮阔。你将挥舞着来自17世纪真实存在的武神遗物，一路过关斩将，勇往直前。
+
+体验漫画式的快意恩仇，在侠义中得乐于酒馆主顾的市侩幽默和浮夸事迹。
+
+
+特点：
+
+• 轻松应对，挥动你的武器一如行云流水！不破不立，摒弃满大街的物理引擎VR，街机都要直呼内行！
+
+• 不同的人有不同的天命，去会会那八个英雄吧，和他们一起冒险。
+
+• 当17世纪的欧洲遇上漫画视觉，让我们来告诉你这是什么样的体验。
+
+• 大量的幽默、复活节彩蛋和流行文化引用
+
+• 穿越回到17世纪，去见证欧洲的历史，打卡真实存在过的地标，与曾经的武神相遇。
+
+• 由知名音乐人Arkadiusz Reikowski谱写的超赞斯拉夫民族音乐",支持退款申请：PICO退款政策,分类：游戏,"标签：动作, 冒险",游戏形式：单人,"语言：英语, 简体中文, 繁体中文, 德语, 日语, 韩语, 法语, 西班牙语, 意大利语","使用范围：原地站立, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO Neo3, PICO 4, PICO 4 Pro",版本：1.1.0,更新日期：2023-7-17,大小：2.7 G,开发者：Carbon Studio,发行商：Carbon Studio,开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://crimen-vr.com/wp-content/uploads/2023/05/Crimen_Chinese_Privacy_Policy.pdf at 2023.07.20 05:24:01&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,916][1200,1136]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者服务条款：服务条款,开发者网站：https://crimen-vr.com/,浪客：佣兵传说.,2023-07-20 05:20:44,2023-07-20 05:25:08

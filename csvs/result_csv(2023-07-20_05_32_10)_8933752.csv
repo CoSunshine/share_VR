@@ -1,0 +1,47 @@
+name,简介,不支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,权限,url,名称,start,end
+房间击剑VR,"简介一个基于物理的联机剑斗VR游戏。 
+用紧握你的剑来攻击你的对手的头显。 通过档格或躲避来保护你的头显不受对手的武器伤害。
+游戏规则
+·只能使用武器·只能攻击对手的头显
+·出于公平考虑 玩家活动范围限制在一步以内
+·准备完成后进入决斗台 进行决斗
+·你挥舞武器的速度越快，你能造成的伤害就越大。对手的武器被打飞得越远。
+·武器发生碰撞后，会有一个偏移，使你无法准确和连续地挥剑。当然，你可以通过反复练习来利用这种偏移。
+·游戏是2局7分制。第一个得到7分的人赢得1局。赢得2局赢得比赛。
+提示
+如上述介绍 游戏提供的单人玩法有限 如果你是一个独行玩家可能体验不佳。
+可加QQ群927972869 约好固定时间一起玩的好友。
+游戏需要一定的现实空间进行游戏，小心撞墙，对战时可以打开90HZ，高刷新更有利于对抗。一个基于物理的联机剑斗VR游戏。 
+用紧握你的剑来攻击你的对手的头显。 通过档格或躲避来保护你的头显不受对手的武器伤害。
+游戏规则
+·只能使用武器·只能攻击对手的头显
+·出于公平考虑 玩家活动范围限制在一步以内
+·准备完成后进入决斗台 进行决斗
+·你挥舞武器的速度越快，你能造成的伤害就越大。对手的武器被打飞得越远。
+·武器发生碰撞后，会有一个偏移，使你无法准确和连续地挥剑。当然，你可以通过反复练习来利用这种偏移。
+·游戏是2局7分制。第一个得到7分的人赢得1局。赢得2局赢得比赛。
+提示
+如上述介绍 游戏提供的单人玩法有限 如果你是一个独行玩家可能体验不佳。
+可加QQ群927972869 约好固定时间一起玩的好友。
+游戏需要一定的现实空间进行游戏，小心撞墙，对战时可以打开90HZ，高刷新更有利于对抗。",不支持退款申请：PICO退款政策,分类：游戏,"标签：动作, 运动","游戏形式：单人, 多人","语言：简体中文, 英语",使用范围：房间移动,控制方式：6-DOF 手柄,"支持平台：PICO Neo3, PICO 4, PICO 4 Pro",版本：1.13,更新日期：2022-12-20,大小：370.6 MB,开发者：Zzwei,发行商：Zzwei,开发者隐私政策：隐私政策,"权限：存储空间, 麦克风","<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://zzwei.games/privacypolicy.txt at 2023.07.20 05:31:45&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",房间击剑VR,2023-07-20 05:28:27,2023-07-20 05:32:10

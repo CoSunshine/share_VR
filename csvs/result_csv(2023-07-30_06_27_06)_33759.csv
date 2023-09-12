@@ -1,0 +1,33 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,url,开发者隐私政策,开发者服务条款,权限,名称,start,end
+云上心旅,"简介云上心旅是一款由止观心理咨询公司开发的虚拟现实游戏。公司成立于2010年，拥有20多位专业心理咨询师和精神科医生，致力于为客户提供高质量的心理健康服务。
+
+在云上心旅中，玩家将通过一系列营地展开一次次心灵之旅，体验心理疏导和疗愈的功能。包括冥想放松，互动心理测评量表，心理障碍脱敏等，游戏中的场景和互动体验被设计为能够促进心理健康，并帮助玩家探索自我。不同路径的选择为玩家提供互动心理课堂，通过游戏，你可以学会如何放松身心，掌握应对焦虑、压力和悲伤的技巧，以及找到内心的平衡和安宁。
+我们的游戏不仅提供了高品质的虚拟现实体验，还拥有强大的售后服务。我们提供团体课程和一对一辅导等多种服务，为客户提供更深入的心理咨询和支持。
+
+云上心旅是一款旨在帮助玩家提高心理健康水平的创新游戏，不仅提供了愉悦的游戏体验，还能为您带来真正的心理健康益处。云上心旅是一款由止观心理咨询公司开发的虚拟现实游戏。公司成立于2010年，拥有20多位专业心理咨询师和精神科医生，致力于为客户提供高质量的心理健康服务。
+
+在云上心旅中，玩家将通过一系列营地展开一次次心灵之旅，体验心理疏导和疗愈的功能。包括冥想放松，互动心理测评量表，心理障碍脱敏等，游戏中的场景和互动体验被设计为能够促进心理健康，并帮助玩家探索自我。不同路径的选择为玩家提供互动心理课堂，通过游戏，你可以学会如何放松身心，掌握应对焦虑、压力和悲伤的技巧，以及找到内心的平衡和安宁。
+我们的游戏不仅提供了高品质的虚拟现实体验，还拥有强大的售后服务。我们提供团体课程和一对一辅导等多种服务，为客户提供更深入的心理咨询和支持。
+
+云上心旅是一款旨在帮助玩家提高心理健康水平的创新游戏，不仅提供了愉悦的游戏体验，还能为您带来真正的心理健康益处。",支持退款申请：PICO退款政策,分类：游戏,"标签：休闲, 医疗健康",游戏形式：单人,语言：简体中文,"使用范围：原地站立, 房间移动, 原地坐姿",控制方式：6-DOF 手柄,"支持平台：PICO 4 Pro, PICO 4, PICO Neo3",版本：1.1,更新日期：2023-7-27,大小：322.8 MB,开发者：止观科技,发行商：止观科技,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://blog.csdn.net/Belupartoon/article/details/131806838?spm=1001.2014.3001.5502 at 2023.07.30 06:26:28&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,916][1200,1136]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者隐私政策：隐私政策,开发者服务条款：服务条款,权限：存储空间,云上心旅,2023-07-30 06:24:19,2023-07-30 06:27:06

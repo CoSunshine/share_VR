@@ -1,0 +1,41 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,开发者服务条款,开发者网站,url,权限,名称,start,end
+恐怖酒吧,"简介为了满足来客的味蕾，你需要烹饪让人毛骨悚然的菜肴。剁开在水族箱底部栖息的贪食怪兽，用切断的手指炸一盘薯条，用来源不明的肉做几份炸肉排……
+
+注意！你还会遇到其他挑战，比如用被僵尸视作佳肴的死耗子做一道菜。
+闯过一个个关卡，逐渐沉浸到游戏的诡异氛围之中。学习有趣的新技巧，服务更多惠顾酒吧的僵尸客吧！
+游戏采用原地不走动的游玩方式，因此不会造成眩晕、恶心、头疼等症状。
+
+主要特色:
+精美画面设计呈现出充满趣味的僵尸世界。与客人的复杂互动，用精心完成的多种定制动画表现出客人对玩家行为的实时反应。赚钱，获取提示，从各种收藏中购买独特的物品以及拉皮条。
+知名作曲家Mikołaj Stroiński创作的原声音轨，带来更有动感的游戏体验和更震撼的节奏氛围。解锁新游戏机制与菜肴，避免出错，赚取收入，清理蝙蝠和蜘蛛，获得最佳成绩……新意不断，乐趣无穷
+为了满足来客的味蕾，你需要烹饪让人毛骨悚然的菜肴。剁开在水族箱底部栖息的贪食怪兽，用切断的手指炸一盘薯条，用来源不明的肉做几份炸肉排……
+
+注意！你还会遇到其他挑战，比如用被僵尸视作佳肴的死耗子做一道菜。
+闯过一个个关卡，逐渐沉浸到游戏的诡异氛围之中。学习有趣的新技巧，服务更多惠顾酒吧的僵尸客吧！
+游戏采用原地不走动的游玩方式，因此不会造成眩晕、恶心、头疼等症状。
+
+主要特色:
+精美画面设计呈现出充满趣味的僵尸世界。与客人的复杂互动，用精心完成的多种定制动画表现出客人对玩家行为的实时反应。赚钱，获取提示，从各种收藏中购买独特的物品以及拉皮条。
+知名作曲家Mikołaj Stroiński创作的原声音轨，带来更有动感的游戏体验和更震撼的节奏氛围。解锁新游戏机制与菜肴，避免出错，赚取收入，清理蝙蝠和蜘蛛，获得最佳成绩……新意不断，乐趣无穷
+",支持退款申请：PICO退款政策,分类：游戏,"标签：休闲, 卡通, 恐怖",游戏形式：单人,"语言：简体中文, 英语, 日语, 韩语","使用范围：原地站立, 原地坐姿, 房间移动","控制方式：头控, 6-DOF 手柄","支持平台：PICO Neo2, PICO Neo3, PICO 4, PICO 4 Pro",版本：1.0,更新日期：2021-11-18,大小：606.9 MB,开发者：VR Factory Games S.A.,发行商：VR Factory Games S.A.,开发者隐私政策：隐私政策,开发者服务条款：服务条款,开发者网站：https://www.horrorbarvr.com/,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://www.horrorbarvr.com/ at 2023.07.20 01:44:36&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[60,969][1140,1083]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",权限：存储空间,恐怖酒吧,2023-07-20 01:41:46,2023-07-20 01:44:56

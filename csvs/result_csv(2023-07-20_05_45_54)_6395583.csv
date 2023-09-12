@@ -1,0 +1,37 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,开发者服务条款,开发者网站,url,权限,名称,start,end
+精灵刺客 CN,"简介命运之战，我应该参与吗？ 
+在虚拟现实中，还有什么比弓用对战兽族更英勇吗？如果你没有答案，就赶快进入吧。
+ 成为精灵刺客。 拿起弓箭，与数百个不同类型的兽人搏斗，他们想要闯入精灵镇。
+作为一名精灵刺客，你能做到超远距离攻击，或你也能通过窗户射出致命之箭。所有这些都是为了称霸全球排行榜。
+ 小菜一碟？ 并不是。这是真正的兽人攻击。兽人跑得很快。他们闯入房屋躲避你的箭，当他们愤怒的时候，他们的巨斧会把你劈成碎片。
+ 刺客联盟：两个、三个或四个刺客可能联合起来保卫城镇。明智地利用四个可用的射箭场，尽可能长时间地生存下去。你可以选择一个公共服务器，或者和你在私人服务器上认识的兄弟一起保卫城堡。
+ PvP死亡竞赛： 对于那些更愿意在网上以竞争方式与其他玩家较量的人来说，PvP死亡竞赛已经开始了。但是小心了，因为有一些非常熟练的弓箭手在那里等待挑战。
+ 免责声明: 此内容与任何其他奇幻电影、书籍无关。 任何相似之处纯属巧合。命运之战，我应该参与吗？ 
+在虚拟现实中，还有什么比弓用对战兽族更英勇吗？如果你没有答案，就赶快进入吧。
+ 成为精灵刺客。 拿起弓箭，与数百个不同类型的兽人搏斗，他们想要闯入精灵镇。
+作为一名精灵刺客，你能做到超远距离攻击，或你也能通过窗户射出致命之箭。所有这些都是为了称霸全球排行榜。
+ 小菜一碟？ 并不是。这是真正的兽人攻击。兽人跑得很快。他们闯入房屋躲避你的箭，当他们愤怒的时候，他们的巨斧会把你劈成碎片。
+ 刺客联盟：两个、三个或四个刺客可能联合起来保卫城镇。明智地利用四个可用的射箭场，尽可能长时间地生存下去。你可以选择一个公共服务器，或者和你在私人服务器上认识的兄弟一起保卫城堡。
+ PvP死亡竞赛： 对于那些更愿意在网上以竞争方式与其他玩家较量的人来说，PvP死亡竞赛已经开始了。但是小心了，因为有一些非常熟练的弓箭手在那里等待挑战。
+ 免责声明: 此内容与任何其他奇幻电影、书籍无关。 任何相似之处纯属巧合。",支持退款申请：PICO退款政策,分类：游戏,标签：角色扮演,"游戏形式：多人, 单人",语言：简体中文,使用范围：房间移动,控制方式：6-DOF 手柄,"支持平台：PICO Neo3, PICO 4, PICO 4 Pro, PICO Neo3 Eye, PICO Neo3 Pro",版本：1.7.1_CN,更新日期：2022-10-21,大小：2.9 G,开发者：Wenkly Studio,发行商：Wenkly Studio,开发者隐私政策：隐私政策,开发者服务条款：服务条款,开发者网站：https://www.elven-assassin.com/,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://www.wenklystudio.com/privacy-policy at 2023.07.20 05:45:29&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>","权限：存储空间, 麦克风",精灵刺客 CN,2023-07-20 05:41:51,2023-07-20 05:45:54

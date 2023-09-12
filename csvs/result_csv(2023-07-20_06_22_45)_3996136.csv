@@ -1,0 +1,46 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,权限,名称,start,end
+拉面模拟器:一兰,"简介""拉面模拟器:一兰Counter Fight ICHIRAN ""是一款前所未有的烹饪游戏，由受欢迎的拉面店ICHIRAN提供支持。
+
+ICHIRAN是一家著名的豚骨拉面连锁店，在日本有85家分店。它成立于60多年前，长期以来一直在完善其热门的特色豚骨拉面，这就是为什么ICHIRAN的拉面是当地最好的。事实上，它经常被媒体誉为外国游客的 ""必尝美食""。
+
+游戏特点：
+——完成订单，获得高分! 
+以厨房为基础的沉浸式游戏，让你体验作为一个真正的ICHIRAN员工的生活，为你的拉面准备技能和快速交付积累分数。
+
+——在店铺管理模式中攀升等级! 
+你在商店管理模式中的得分将被记入世界排名。提高你的利润，雇佣更多的员工，增加座位数，你可以尝试用你自己独特的店面来冲击高分!
+
+*游戏中的厨房布局可能与实际餐厅不同。
+""拉面模拟器:一兰Counter Fight ICHIRAN ""是一款前所未有的烹饪游戏，由受欢迎的拉面店ICHIRAN提供支持。
+
+ICHIRAN是一家著名的豚骨拉面连锁店，在日本有85家分店。它成立于60多年前，长期以来一直在完善其热门的特色豚骨拉面，这就是为什么ICHIRAN的拉面是当地最好的。事实上，它经常被媒体誉为外国游客的 ""必尝美食""。
+
+游戏特点：
+——完成订单，获得高分! 
+以厨房为基础的沉浸式游戏，让你体验作为一个真正的ICHIRAN员工的生活，为你的拉面准备技能和快速交付积累分数。
+
+——在店铺管理模式中攀升等级! 
+你在商店管理模式中的得分将被记入世界排名。提高你的利润，雇佣更多的员工，增加座位数，你可以尝试用你自己独特的店面来冲击高分!
+
+*游戏中的厨房布局可能与实际餐厅不同。
+",支持退款申请：PICO退款政策,分类：游戏,标签：模拟,游戏形式：单人,"语言：英语, 日语","使用范围：房间移动, 原地站立, 原地坐姿","控制方式：头控, 6-DOF 手柄","支持平台：PICO Neo3 Eye, PICO Neo3, PICO Neo3 Pro, PICO 4, PICO 4 Pro",版本：1.2.0,更新日期：2022-5-13,大小：521.1 MB,开发者：Tricol VR,发行商：Tricol VR,开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.cameraxapp:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,48][1200,176]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""FakeBrowser"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[48,85][286,139]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.cameraxapp"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.cameraxapp"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,176][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.cameraxapp"" class=""android.widget.TextView"" text=""https://www.tricol.jp/en/privacy at 2023.07.20 06:22:07&#10;"" resource-id=""com.android.example.cameraxapp:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,937][1200,1160]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+</hierarchy>",权限：存储空间,拉面模拟器:一兰,2023-07-20 06:19:30,2023-07-20 06:22:45

@@ -1,0 +1,83 @@
+name,简介,支持退款,分类,标签,游戏形式,语言,使用范围,控制方式,支持平台,版本,更新日期,大小,开发者,发行商,开发者隐私政策,url,开发者网站,权限,名称,start,end
+爆裂节奏,"简介「爆裂节奏」是一款挥舞拳头战斗的VR节奏动作游戏。
+出拳时，有电子舞曲、摇滚乐、流行乐、民乐等其他多种类型的音乐可供选择。
+在充满刺激的运动里发泄压力，消耗你的卡路里吧！
+
+【游戏特色】
+原创曲目：我们准备了38首倾注热情和灵魂的原创曲目。敬请期待更多的追加曲目！
+可定制性：可以选择不同种类的护手和敌人！
+运动效果：可以通过打击、回避、舞蹈等，进行适度的全身运动。
+
+【游戏玩法】
+『远程攻击』
+按节奏出拳，击碎由远至近的音符吧！
+出拳方法有直拳、勾拳、上勾拳等，可以按照当下的心情和压力随意选择。
+有方向箭头的音符需要按照指定方向出拳哦！
+
+『近战攻击』
+敌人会在节节逼近的同时持续发出攻击。
+在闪避中等待反击的机会吧！
+
+『反击』
+当反击的时机成熟了，就开始连续出拳打个痛快吧！
+根据您心情和压力的不同，
+可以选择连续出拳、连续下蹲、或连续旋转的反击方式。
+
+【音符】
+『硬音符』需要比通常更快的出拳才能将其破坏。
+『防御音符』可以使用双手在前方交叉时出现的防护罩进行防御。
+
+【模式】
+『通常模式』将出现新追加的硬音符和防御音符。
+『拳击模式』则和以往一样，不会出现硬音符和防御音符。「爆裂节奏」是一款挥舞拳头战斗的VR节奏动作游戏。
+出拳时，有电子舞曲、摇滚乐、流行乐、民乐等其他多种类型的音乐可供选择。
+在充满刺激的运动里发泄压力，消耗你的卡路里吧！
+
+【游戏特色】
+原创曲目：我们准备了38首倾注热情和灵魂的原创曲目。敬请期待更多的追加曲目！
+可定制性：可以选择不同种类的护手和敌人！
+运动效果：可以通过打击、回避、舞蹈等，进行适度的全身运动。
+
+【游戏玩法】
+『远程攻击』
+按节奏出拳，击碎由远至近的音符吧！
+出拳方法有直拳、勾拳、上勾拳等，可以按照当下的心情和压力随意选择。
+有方向箭头的音符需要按照指定方向出拳哦！
+
+『近战攻击』
+敌人会在节节逼近的同时持续发出攻击。
+在闪避中等待反击的机会吧！
+
+『反击』
+当反击的时机成熟了，就开始连续出拳打个痛快吧！
+根据您心情和压力的不同，
+可以选择连续出拳、连续下蹲、或连续旋转的反击方式。
+
+【音符】
+『硬音符』需要比通常更快的出拳才能将其破坏。
+『防御音符』可以使用双手在前方交叉时出现的防护罩进行防御。
+
+【模式】
+『通常模式』将出现新追加的硬音符和防御音符。
+『拳击模式』则和以往一样，不会出现硬音符和防御音符。",支持退款申请：PICO退款政策,分类：游戏,"标签：动作, 运动, 休闲",游戏形式：单人,"语言：英语, 简体中文, 繁体中文, 俄语, 日语, 韩语","使用范围：房间移动, 原地站立",控制方式：6-DOF 手柄,"支持平台：PICO Neo3, PICO Neo3 Pro, PICO 4, PICO 4 Pro",版本：1.0.0,更新日期：2022-11-2,大小：1.6 G,开发者：gz.inc,发行商：gz.inc,开发者隐私政策：隐私政策,"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index=""0"" class=""hierarchy"" rotation=""0"" width=""1200"" height=""1920"">
+  <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+    <android.widget.LinearLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.LinearLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,0][1200,1920]"" displayed=""true"">
+      <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+        <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/decor_content_parent"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,1920]"" displayed=""true"">
+          <android.widget.FrameLayout index=""0"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""com.android.example.fake2:id/action_bar_container"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" resource-id=""com.android.example.fake2:id/action_bar"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,36][1200,132]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""MainActivity"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[36,63][205,104]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+          <android.widget.FrameLayout index=""1"" package=""com.android.example.fake2"" class=""android.widget.FrameLayout"" text="""" resource-id=""android:id/content"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+            <android.view.ViewGroup index=""0"" package=""com.android.example.fake2"" class=""android.view.ViewGroup"" text="""" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,132][1200,1920]"" displayed=""true"">
+              <android.widget.TextView index=""0"" package=""com.android.example.fake2"" class=""android.widget.TextView"" text=""https://gzeal.co.jp/privacy_policy/personal-data-protection-policy_en/ at 2023.07.24 03:40:27&#10;"" resource-id=""com.android.example.fake2:id/textView"" checkable=""false"" checked=""false"" clickable=""false"" enabled=""true"" focusable=""false"" focused=""false"" long-clickable=""false"" password=""false"" scrollable=""false"" selected=""false"" bounds=""[0,943][1200,1110]"" displayed=""true"" />
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.view.ViewGroup>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+  <android.widget.Toast index=""1"" package=""com.android.settings"" class=""android.widget.Toast"" text=""文件路径：/storage/emulated/0/Android/data/com.android.example.fake2/files/LET/url_timestamp.txt"" displayed=""true"" />
+</hierarchy>",开发者网站：https://gzeal.co.jp/,权限：存储空间,爆裂节奏,2023-07-24 03:37:09,2023-07-24 03:40:49
