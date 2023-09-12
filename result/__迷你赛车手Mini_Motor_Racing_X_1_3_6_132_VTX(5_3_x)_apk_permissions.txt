@@ -1,0 +1,8 @@
+Permission: android.permission.ACCESS_NETWORK_STATE
+Permission: android.permission.BLUETOOTH
+Permission: android.permission.INTERNET
+Permission: android.permission.MODIFY_AUDIO_SETTINGS
+Permission: android.permission.RECORD_AUDIO
+Permission: android.permission.WRITE_EXTERNAL_STORAGE
+Permission: android.permission.WRITE_SETTINGS
+Permission: com.android.vending.BILLING

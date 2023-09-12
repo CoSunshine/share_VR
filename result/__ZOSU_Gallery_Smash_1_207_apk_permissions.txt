@@ -1,0 +1,2 @@
+Permission: android.permission.BLUETOOTH
+Permission: android.permission.INTERNET

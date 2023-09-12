@@ -1,0 +1,10 @@
+Permission: android.permission.ACCESS_NETWORK_STATE
+Permission: android.permission.ACCESS_WIFI_STATE
+Permission: android.permission.BLUETOOTH
+Permission: android.permission.BLUETOOTH_ADMIN
+Permission: android.permission.BLUETOOTH_CONNECT
+Permission: android.permission.CHANGE_WIFI_STATE
+Permission: android.permission.INTERNET
+Permission: android.permission.RECORD_AUDIO
+Permission: android.permission.REORDER_TASKS
+Permission: android.permission.WRITE_SETTINGS

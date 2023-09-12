@@ -1,0 +1,6 @@
+Permission: android.permission.ACCESS_NETWORK_STATE
+Permission: android.permission.CAMERA
+Permission: android.permission.CHANGE_WIFI_MULTICAST_STATE
+Permission: android.permission.INTERNET
+Permission: android.permission.MODIFY_AUDIO_SETTINGS
+Permission: android.permission.WRITE_SETTINGS

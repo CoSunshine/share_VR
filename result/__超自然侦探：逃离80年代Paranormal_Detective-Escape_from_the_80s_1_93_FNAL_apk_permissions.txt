@@ -1,0 +1,4 @@
+Permission: android.permission.ACCESS_NETWORK_STATE
+Permission: android.permission.INTERNET
+Permission: android.permission.WRITE_SETTINGS
+Permission: com.android.vending.BILLING

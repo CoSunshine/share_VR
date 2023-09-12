@@ -1,0 +1,3 @@
+Permission: android.permission.BLUETOOTH
+Permission: android.permission.INTERNET
+Permission: android.permission.WRITE_SETTINGS

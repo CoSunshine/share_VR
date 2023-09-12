@@ -1,0 +1,14 @@
+Permission: android.hardware.vr.headtracking
+Permission: android.permission.ACCESS_NETWORK_STATE
+Permission: android.permission.ACCESS_WIFI_STATE
+Permission: android.permission.BLUETOOTH
+Permission: android.permission.BLUETOOTH_ADMIN
+Permission: android.permission.CHANGE_CONFIGURATION
+Permission: android.permission.INTERNET
+Permission: android.permission.MODIFY_AUDIO_SETTINGS
+Permission: android.permission.READ_INTERNAL_STORAGE
+Permission: android.permission.VIBRATE
+Permission: android.permission.WRITE_INTERNAL_STORAGE
+Permission: android.permission.WRITE_SETTINGS
+Permission: com.android.vending.BILLING
+Permission: com.android.vending.CHECK_LICENSE

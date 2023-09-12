@@ -1,0 +1,9 @@
+Permission: android.permission.ACCESS_NETWORK_STATE
+Permission: android.permission.BLUETOOTH
+Permission: android.permission.BLUETOOTH_CONNECT
+Permission: android.permission.INTERNET
+Permission: android.permission.MODIFY_AUDIO_SETTINGS
+Permission: android.permission.RECORD_AUDIO
+Permission: android.permission.WAKE_LOCK
+Permission: android.permission.WRITE_SETTINGS
+Permission: com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE

@@ -1,0 +1,11 @@
+Permission: android.permission.ACCESS_FINE_LOCATION
+Permission: android.permission.ACCESS_NETWORK_STATE
+Permission: android.permission.BLUETOOTH
+Permission: android.permission.CAMERA
+Permission: android.permission.CHANGE_NETWORK_STATE
+Permission: android.permission.INTERNET
+Permission: android.permission.MODIFY_AUDIO_SETTINGS
+Permission: android.permission.RECORD_AUDIO
+Permission: android.permission.VIBRATE
+Permission: android.permission.WRITE_SETTINGS
+Permission: com.android.vending.BILLING

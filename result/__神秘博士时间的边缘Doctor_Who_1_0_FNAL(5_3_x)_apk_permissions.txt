@@ -1,0 +1,10 @@
+Permission: android.permission.ACCESS_NETWORK_STATE
+Permission: android.permission.BLUETOOTH
+Permission: android.permission.BLUETOOTH_ADMIN
+Permission: android.permission.CHANGE_CONFIGURATION
+Permission: android.permission.INJECT_EVENTS
+Permission: android.permission.INTERNET
+Permission: android.permission.READ_EXTERNAL_STORAGE
+Permission: android.permission.VIBRATE
+Permission: android.permission.WRITE_EXTERNAL_STORAGE
+Permission: android.permission.WRITE_SETTINGS

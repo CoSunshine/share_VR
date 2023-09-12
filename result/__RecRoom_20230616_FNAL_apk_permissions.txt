@@ -1,0 +1,13 @@
+Permission: android.permission.ACCESS_NETWORK_STATE
+Permission: android.permission.BLUETOOTH
+Permission: android.permission.INTERNET
+Permission: android.permission.MODIFY_AUDIO_SETTINGS
+Permission: android.permission.RECEIVE_BOOT_COMPLETED
+Permission: android.permission.RECORD_AUDIO
+Permission: android.permission.WAKE_LOCK
+Permission: android.permission.WRITE_EXTERNAL_STORAGE
+Permission: android.permission.WRITE_SETTINGS
+Permission: com.AgainstGravity.RecRoomPP.permission.C2D_MESSAGE
+Permission: com.android.vending.CHECK_LICENSE
+Permission: com.google.android.c2dm.permission.RECEIVE
+Permission: com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE

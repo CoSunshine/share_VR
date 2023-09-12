@@ -1,0 +1,4 @@
+Permission: android.permission.BLUETOOTH
+Permission: android.permission.BLUETOOTH_ADMIN
+Permission: android.permission.BLUETOOTH_CONNECT
+Permission: android.permission.WRITE_SETTINGS

@@ -1,0 +1,11 @@
+Permission: android.permission.ACCESS_NETWORK_STATE
+Permission: android.permission.CHANGE_CONFIGURATION
+Permission: android.permission.INTERNET
+Permission: android.permission.READ_EXTERNAL_STORAGE
+Permission: android.permission.RECORD_AUDIO
+Permission: android.permission.SYSTEM_ALERT_WINDOW
+Permission: android.permission.VIBRATE
+Permission: android.permission.WRITE_EXTERNAL_STORAGE
+Permission: android.permission.WRITE_MEDIA_STORAGE
+Permission: android.permission.WRITE_SECURE_SETTINGS
+Permission: android.permission.WRITE_SETTINGS

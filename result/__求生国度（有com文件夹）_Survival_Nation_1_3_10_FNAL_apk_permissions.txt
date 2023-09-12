@@ -1,0 +1,5 @@
+Permission: android.permission.ACCESS_NETWORK_STATE
+Permission: android.permission.ACCESS_WIFI_STATE
+Permission: android.permission.INTERNET
+Permission: android.permission.RECORD_AUDIO
+Permission: android.permission.WRITE_SETTINGS

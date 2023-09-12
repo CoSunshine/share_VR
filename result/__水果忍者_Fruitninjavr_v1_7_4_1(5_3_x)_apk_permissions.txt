@@ -1,0 +1,10 @@
+Permission: android.permission.ACCESS_NETWORK_STATE
+Permission: android.permission.BATTERY_STATS
+Permission: android.permission.INTERNET
+Permission: android.permission.WRITE_SETTINGS
+Permission: com.android.vending.BILLING
+Permission: com.htc.vr.core.server.VRDataProvider
+Permission: com.htc.vr.core.server.VRDataRead
+Permission: com.htc.vr.core.server.VRDataWrite
+Permission: vive.wave.vr.oem.data.OEMDataRead
+Permission: vive.wave.vr.oem.data.OEMDataWrite
