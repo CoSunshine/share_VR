@@ -190,6 +190,14 @@ if __name__ == '__main__':
     # folder = 'permissions_pico'
     # # folder = 'share_VR/result'
     # analyze_dangerous_perm(folder)
+    #     . In total, we collect
+    # 898 .apk, including 455 from Oculus and 443 from Pico
+
+    ## pico requested dangerous perm: 
+    ## {1: 82, 3: 108, 2: 154, 4: 36, 5: 12, 6: 4} 
+    ## key: the number of requested dangerous perm, value: service number
+    ## oculus requested dangerous perm:
+    ## {1: 17, 2: 139, 3: 74, 4: 7, 7: 1}
 
 
     file = 'pico_csvs/all.csv'
