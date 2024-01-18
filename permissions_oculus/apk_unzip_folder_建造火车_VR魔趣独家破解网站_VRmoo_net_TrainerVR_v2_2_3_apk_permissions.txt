@@ -1,0 +1,2 @@
+Permission: android.permission.READ_EXTERNAL_STORAGE
+Permission: android.permission.WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,5 @@
+Permission: android.permission.BLUETOOTH
+Permission: android.permission.BLUETOOTH_ADMIN
+Permission: android.permission.INTERNET
+Permission: android.permission.MODIFY_AUDIO_SETTINGS
+Permission: android.permission.WRITE_SECURE_SETTINGS

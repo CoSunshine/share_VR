@@ -1,0 +1,6 @@
+Permission: android.permission.BLUETOOTH
+Permission: android.permission.BLUETOOTH_ADMIN
+Permission: android.permission.INTERNET
+Permission: android.permission.READ_EXTERNAL_STORAGE
+Permission: android.permission.RECORD_AUDIO
+Permission: android.permission.WRITE_EXTERNAL_STORAGE

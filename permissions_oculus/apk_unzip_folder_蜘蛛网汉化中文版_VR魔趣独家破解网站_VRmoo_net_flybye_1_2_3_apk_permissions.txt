@@ -1,0 +1,2 @@
+Permission: android.permission.INTERNET
+Permission: com.oculus.permission.HAND_TRACKING

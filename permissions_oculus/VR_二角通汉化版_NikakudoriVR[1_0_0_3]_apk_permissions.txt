@@ -1,0 +1,3 @@
+Permission: android.permission.CHANGE_WIFI_MULTICAST_STATE
+Permission: android.permission.INTERNET
+Permission: android.permission.WRITE_SECURE_SETTINGS

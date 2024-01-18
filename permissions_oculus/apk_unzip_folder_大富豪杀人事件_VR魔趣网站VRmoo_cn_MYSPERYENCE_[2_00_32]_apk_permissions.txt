@@ -1,0 +1,5 @@
+Permission: android.permission.INTERNET
+Permission: android.permission.MODIFY_AUDIO_SETTINGS
+Permission: android.permission.RECORD_AUDIO
+Permission: android.permission.WRITE_SECURE_SETTINGS
+Permission: com.qti.permission.PROFILER

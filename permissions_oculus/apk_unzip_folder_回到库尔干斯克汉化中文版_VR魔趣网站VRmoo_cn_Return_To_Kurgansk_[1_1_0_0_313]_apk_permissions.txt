@@ -1,0 +1,3 @@
+Permission: android.permission.INTERNET
+Permission: android.permission.WRITE_SECURE_SETTINGS
+Permission: com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
