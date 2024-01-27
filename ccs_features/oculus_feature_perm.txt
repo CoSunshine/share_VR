@@ -1,0 +1,79 @@
+################################
+Permission: com.oculus.permission.BODY_TRACKING
+Permission: com.oculus.permission.EYE_TRACKING
+Permission: com.oculus.permission.FACE_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+Permission: oculus.permission.handtracking
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+Permission: com.oculus.permission.USE_ANCHOR_API
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.horizon.FBCONNECT_CONTENT_PROVIDER_READ_ACCESS
+Permission: com.oculus.presence.permissions.HYPERSPACE_CALL
+Permission: com.oculus.socialplatform.permission.OVR_PLATFORM_BROADCAST
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+Permission: oculus.permission.handtracking
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.EYE_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.USE_ANCHOR_API
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+Permission: oculus.permission.handtracking
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.BODY_TRACKING
+Permission: com.oculus.permission.EYE_TRACKING
+Permission: com.oculus.permission.FACE_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.EYE_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.USE_ANCHOR_API
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+Permission: oculus.permission.handtracking

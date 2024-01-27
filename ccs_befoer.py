@@ -4,7 +4,7 @@ def filter_android_permissions(lines):
     for l in lines:
         if "android.permission." in l or "com.android." in l or "android." in l:
             continue
-        if 'oculus' not in l or 'pico' not in l:
+        if 'oculus' not in l and 'pico' not in l:
             continue
         filtered.append(l.strip())
     return filtered
@@ -21,5 +21,5 @@ def analyze_permissions(folder):
 
 if __name__ == '__main__':
     folder = "permissions_oculus"
-    folder = "permissions_pico"
+    # folder = "permissions_pico"
     analyze_permissions(folder)

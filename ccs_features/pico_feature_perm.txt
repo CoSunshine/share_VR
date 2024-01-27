@@ -1,0 +1,66 @@
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+Permission: oculus.permission.handtracking
+################################
+Permission: com.oculus.permission.BODY_TRACKING
+Permission: com.oculus.permission.EYE_TRACKING
+Permission: com.oculus.permission.FACE_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.picovr.permission.FACE_TRACKING
+################################
+Permission: com.oculus.permission.BODY_TRACKING
+Permission: com.oculus.permission.EYE_TRACKING
+Permission: com.oculus.permission.FACE_TRACKING
+Permission: com.oculus.permission.HAND_TRACKING
+Permission: com.oculus.permission.RENDER_MODEL
+Permission: com.oculus.permission.TRACKED_KEYBOARD
+Permission: com.oculus.permission.USE_ANCHOR_API
+################################
+Permission: com.bytedance.pico.matrix.account.provide.read
+Permission: com.bytedance.pico.matrix.parentalcontrol.provider.permission
+Permission: com.picovr.stargate.permission.CLIENT
+################################
+Permission: com.picovr.permission.EYE_TRACKING
+################################
+Permission: com.picovr.permission.FACE_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.USE_ANCHOR_API
+################################
+Permission: com.bytedance.pico.matrix.account.provide.read
+Permission: pico.permission.usercenter.USERINFO_PROVIDER
+################################
+Permission: com.picovr.permission.SWIFT_ACCESS
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.BODY_TRACKING
+Permission: com.oculus.permission.EYE_TRACKING
+Permission: com.oculus.permission.FACE_TRACKING
+Permission: com.oculus.permission.HAND_TRACKING
+Permission: com.oculus.permission.RENDER_MODEL
+Permission: com.oculus.permission.TRACKED_KEYBOARD
+Permission: com.oculus.permission.USE_ANCHOR_API
+################################
+Permission: com.bytedance.pico.matrix.account.provide.read
+Permission: com.bytedance.pico.matrix.parentalcontrol.provider.permission
+Permission: com.picovr.permission.FACE_TRACKING
+################################
+Permission: com.picovr.permission.EYE_TRACKING
+################################
+Permission: com.picovr.permission.FACE_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.RENDER_MODEL
+################################
+Permission: com.bytedance.pico.matrix.account.provide.read
+################################
+Permission: com.oculus.permission.RENDER_MODEL
+################################
+Permission: com.picovr.permission.EYE_TRACKING
