@@ -1,0 +1,115 @@
+################################
+Permission: com.oculus.permission.BODY_TRACKING
+Permission: com.oculus.permission.EYE_TRACKING
+Permission: com.oculus.permission.FACE_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+Permission: oculus.permission.handtracking
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+Permission: com.xrspace.xraccount.permission.SERVICE_ACCESS
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+Permission: com.oculus.permission.USE_ANCHOR_API
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.qti.permission.PROFILER
+################################
+Permission: com.viveport.CHECK_LICENSE
+################################
+Permission: com.Thunderbox.TsuroVR.ACCESS_NETWORK_STATE
+Permission: com.Thunderbox.TsuroVR.INTERNET
+Permission: com.Thunderbox.TsuroVR.WAKE_LOCK
+Permission: com.Thunderbox.TsuroVR.WRITE_EXTERNAL_STORAGE
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.horizon.FBCONNECT_CONTENT_PROVIDER_READ_ACCESS
+Permission: com.oculus.presence.permissions.HYPERSPACE_CALL
+Permission: com.oculus.socialplatform.permission.OVR_PLATFORM_BROADCAST
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+Permission: oculus.permission.handtracking
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.EYE_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.USE_ANCHOR_API
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+Permission: oculus.permission.handtracking
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: Android.permission.WRITE_EXTERNAL_STORAGE
+################################
+Permission: vive.wave.vr.oem.data.OEMDataRead
+Permission: vive.wave.vr.oem.data.OEMDataWrite
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.BODY_TRACKING
+Permission: com.oculus.permission.EYE_TRACKING
+Permission: com.oculus.permission.FACE_TRACKING
+################################
+Permission: com.xiaomi.permission.AUTH_SERVICE
+Permission: com.xiaomi.sdk.permission.PAYMENT
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.qti.permission.PROFILER
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.EYE_TRACKING
+################################
+Permission: com.qti.permission.PROFILER
+################################
+Permission: vive.wave.vr.oem.data.OEMDataRead
+Permission: vive.wave.vr.oem.data.OEMDataWrite
+################################
+Permission: com.Thunderbox.TsuroVR.ACCESS_NETWORK_STATE
+Permission: com.Thunderbox.TsuroVR.INTERNET
+Permission: com.Thunderbox.TsuroVR.WAKE_LOCK
+Permission: com.Thunderbox.TsuroVR.WRITE_EXTERNAL_STORAGE
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.htc.vr.core.server.VRDataProvider
+Permission: com.htc.vr.core.server.VRDataRead
+Permission: com.htc.vr.core.server.VRDataWrite
+Permission: vive.wave.vr.oem.data.OEMDataRead
+Permission: vive.wave.vr.oem.data.OEMDataWrite
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.USE_ANCHOR_API
+################################
+Permission: com.harmonixmusic.kata.permission.C2D_MESSAGE
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+################################
+Permission: com.oculus.permission.HAND_TRACKING
+Permission: oculus.permission.handtracking
