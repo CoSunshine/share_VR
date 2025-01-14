@@ -41,5 +41,5 @@ def loop_all_apk(folder):
     return
 
 if __name__ == '__main__':
-    apks_folder = 'tmp'
+    apks_folder = 'apks_root'
     loop_all_apk(apks_folder)
